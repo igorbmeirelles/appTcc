@@ -1,14 +1,14 @@
 <template>
   <div class="pa-4">
-    <h2 class="mb-3">Apresentação</h2>
-    <div class="mb-3">video</div>
-    <div>
+    <h2 class="mb-3">{{itemExibido.titulo}}</h2>
+    <div v-html="itemExibido.textoHtml">
       Olá! Sejam todos Bem-vindos ao <strong> NOME DO APP</strong>, aqui você poderá
       encontrar diversas informações sobre as Infecções Sexualmente Transmissíveis (IST),
       assim como, suas formas de prevenção e
       <span class="text-danger"> tratamento </span>, sobre as diferenças corporais
       causadas pela puberdade, sobre os métodos contraceptivos e muitos outros conteúdos.
 
+      <br />
       <br />
 
       Esse aplicativo surgiu como parte do trabalho de conclusão de curso do graduando
@@ -21,9 +21,15 @@
 </template>
 
 <script>
+import TopicosIST from "@/data/TopicosIST";
 export default {
+  computed: {
+    itemExibido () {
+      return this.items[this.$route.params.id]
+    }
+  },
   data: () => ({
-    pages: [{ id: 1, titulo: "Apresentação" }],
+    items: TopicosIST,
   }),
 };
 </script>
@@ -31,5 +37,12 @@ export default {
 <style>
 .text-danger {
   color: #ff5252;
+}
+ol li {
+  margin-top: 0.75rem;
+}
+
+ul li {
+  list-style: none;
 }
 </style>

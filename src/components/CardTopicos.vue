@@ -1,7 +1,7 @@
 <template>
   <v-sheet
     v-ripple="{ class: `primary--text` }"
-    class="sheet-size rounded elevation-1 blue lighten-5 pa-2 mb-3"
+    class="sheet-size rounded-lg blue lighten-5 pa-3 mb-3"
     @click="$emit('click')"
   >
     <figure class="sheet-icon blue lighten-4">
@@ -25,7 +25,7 @@ export default {
 
 <style scoped>
 .sheet-size {
-  width: 35vw;
+  width: 40vw !important;
 }
 .sheet-icon {
   display: flex;

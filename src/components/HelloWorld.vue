@@ -43,6 +43,7 @@
 </template>
 
 <script>
+import TopicosIST from "@/data/TopicosIST";
 export default {
   name: "HelloWorld",
   computed: {
@@ -52,53 +53,7 @@ export default {
   },
   data: () => ({
     selectedItem: 0,
-    items: [
-      {
-        titulo: "Apresentação",
-        textoHtml: `<article> Olá! Sejam todos Bem-vindos ao <strong> NOME DO APP</strong>, aqui você poderá
-      encontrar diversas informações sobre as Infecções Sexualmente Transmissíveis (IST),
-      assim como, suas formas de prevenção e
-      <span class="text-danger"> tratamento</span>, sobre as diferenças corporais
-      causadas pela puberdade, sobre os métodos contraceptivos e muitos outros conteúdos.
-
-      <br />
-
-      Esse aplicativo surgiu como parte do trabalho de conclusão de curso do graduando
-      João Victor Manço Resende da Escola de Enfermagem Aurora de Afonso Costa da
-      Universidade Federal Fluminense (EEAAC-UFF), orientado pelo Dr. Jorge Luiz Lima da
-      Silva. Aproveitem o aplicativo, explorem todas as abas, esclareçam suas dúvidas e
-      compartilhem com seus amigos e familiares. Informação e saúde para todos!</article>`,
-      },
-      {
-        titulo: "O que é uma IST",
-        textoHtml: `<article>As Infecções Sexualmente Transmissíveis (IST) são ocasionadas por fungos, 
-        bactérias, vírus ou outros microrganismos.  
-        Sua transmissão ocorre, em muitos das vezes, por via sexual sem a utilização de camisinha masculina 
-        ou feminina, outras formas de transmissão são através da gestação, amamentação e compartilhamento de 
-        objetos pessoais. 
-        <br/>
-        Ocorreu a substituição da nomenclatura Doenças Sexualmente Transmissíveis (DST) para Infecções 
-        Sexualmente Transmissíveis (IST) devido a possibilidade de um indivíduo ter e transmitir uma infecção, 
-        mesmo sem sinais e sintomas.</article>`,
-      },
-      {
-        titulo: "Sintomas",
-        textoHtml: `<article>As IST´s podem se manifestar de diferentes formas como, verrugas, feridas, escorrimento,
-         dor pélvica, ardência ao urinar e outras, podendo aparecer principalmente nos órgãos genitais, 
-         mas também em outras áreas como boca, mãos e olhos. 
-        <br />
-        Algumas IST´s podem não apresentar sintomas podendo levar a complicações sérias caso não sejam diagnosticadas
-         e tratadas. Devido a isso, é necessário realizar exames laboratoriais para verificar se houve contato com 
-         alguma IST.
-        </article>`,
-      },
-      {
-        titulo: "Métodos contraceptivos",
-      },
-      {
-        titulo: "Violência Sexual ",
-      },
-    ],
+    items: TopicosIST,
   }),
   created() {
     console.log(this.$vuetify.breakpoint);

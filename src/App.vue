@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar v-if="this.$vuetify.breakpoint.smAndDown" flat app color="cyan" dark>
+    <v-app-bar v-if="this.$vuetify.breakpoint.xs" flat app color="cyan" dark>
       <v-btn
         icon
         @click="$router.push('/')"

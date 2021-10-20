@@ -1,5 +1,5 @@
 <template>
-  <hello-world v-if="$vuetify.breakpoint.mdAndUp" />
+  <hello-world v-if="$vuetify.breakpoint.smAndUp" />
   <div class="d-flex justify-space-between flex-wrap pa-7" v-else>
     <template v-for="(item, i) in items">
       <CardTopicos @click="$router.push(`${item.route}`)" :cardInfo="item" :key="i" />

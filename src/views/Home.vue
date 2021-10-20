@@ -18,11 +18,11 @@ export default {
     items: [
       {
         titulo: "Apresentação",
-        route: "/about/1",
+        route: "/about/0",
       },
       {
         titulo: "O que é uma IST",
-        route: "/about/2",
+        route: "/about/1",
       },
       {
         titulo: "Sintomas",

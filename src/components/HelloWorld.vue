@@ -18,13 +18,9 @@
           </v-list>
         </v-col>
         <v-col class="col-9 px-4 py-3">
-          <h3>titulo</h3>
+          <h3>{{ itemExibido.titulo }}</h3>
           <div>video</div>
-          <div>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis expedita
-            quos sapiente ipsam aliquid ad quis, alias reprehenderit. Mollitia saepe
-            molestias, blanditiis accusantium cumque animi facilis rerum voluptatem ut
-            aliquid?
+          <div v-html="itemExibido.textoHtml">
           </div>
         </v-col>
       </v-row>
@@ -35,11 +31,29 @@
 <script>
 export default {
   name: "HelloWorld",
-
+  computed: {
+    itemExibido() {
+      return this.items[this.selectedItem];
+    },
+  },
   data: () => ({
+    selectedItem: 0,
     items: [
       {
         titulo: "Apresentação",
+        textoHtml: `Olá! Sejam todos Bem-vindos ao <strong> NOME DO APP</strong>, aqui você poderá
+      encontrar diversas informações sobre as Infecções Sexualmente Transmissíveis (IST),
+      assim como, suas formas de prevenção e
+      <span class="text-danger"> tratamento </span>, sobre as diferenças corporais
+      causadas pela puberdade, sobre os métodos contraceptivos e muitos outros conteúdos.
+
+      <br />
+
+      Esse aplicativo surgiu como parte do trabalho de conclusão de curso do graduando
+      João Victor Manço Resende da Escola de Enfermagem Aurora de Afonso Costa da
+      Universidade Federal Fluminense (EEAAC-UFF), orientado pelo Dr. Jorge Luiz Lima da
+      Silva. Aproveitem o aplicativo, explorem todas as abas, esclareçam suas dúvidas e
+      compartilhem com seus amigos e familiares. Informação e saúde para todos!`,
       },
       {
         titulo: "O que é uma IST",

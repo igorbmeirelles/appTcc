@@ -28,7 +28,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .text-danger {
   color: #ff5252;
 }

@@ -10,33 +10,12 @@
 <script>
 import HelloWorld from "../components/HelloWorld";
 import CardTopicos from "../components/CardTopicos";
-
+import TopicosIST from "@/data/TopicosIST.js"
 export default {
   name: "Home",
 
   data: () => ({
-    items: [
-      {
-        titulo: "Apresentação",
-        route: "/about/0",
-      },
-      {
-        titulo: "O que é uma IST",
-        route: "/about/1",
-      },
-      {
-        titulo: "Sintomas",
-        route: "/about/2",
-      },
-      {
-        titulo: "Métodos contraceptivos",
-        route: "/about/3",
-      },
-      {
-        titulo: "Violência Sexual ",
-        route: "/about/4",
-      },
-    ],
+    items: TopicosIST
   }),
   components: {
     HelloWorld,

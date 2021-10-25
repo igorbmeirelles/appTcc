@@ -8,7 +8,7 @@
       >
         <v-icon>mdi-chevron-left</v-icon>
       </v-btn>
-      <h3>nome do App</h3>
+      <h3>Prev IST</h3>
     </v-app-bar>
 
     <v-main>

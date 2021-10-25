@@ -1,7 +1,8 @@
 export default [
   {
     titulo: "Apresentação",
-    textoHtml: `<article> Olá! Sejam todos Bem-vindos ao <strong> NOME DO APP</strong>, aqui você poderá
+    route: "/about/0",
+    textoHtml: `<article> Olá! Sejam todos Bem-vindos ao <strong>Prev IST</strong>, aqui você poderá
   encontrar diversas informações sobre as Infecções Sexualmente Transmissíveis (IST),
   assim como, suas formas de prevenção e
   <span class="text-danger"> tratamento</span>, sobre as diferenças corporais
@@ -17,6 +18,7 @@ export default [
   },
   {
     titulo: "O que é uma IST",
+    route: "/about/1",
     textoHtml: `<article>As Infecções Sexualmente Transmissíveis (IST) são ocasionadas por fungos, 
     bactérias, vírus ou outros microrganismos.  
     Sua transmissão ocorre, em muitos das vezes, por via sexual sem a utilização de camisinha masculina 
@@ -29,6 +31,7 @@ export default [
   },
   {
     titulo: "Sintomas",
+    route: "/about/2",
     textoHtml: `<article>As IST´s podem se manifestar de diferentes formas como, verrugas, feridas, escorrimento,
      dor pélvica, ardência ao urinar e outras, podendo aparecer principalmente nos órgãos genitais, 
      mas também em outras áreas como boca, mãos e olhos. 
@@ -40,6 +43,7 @@ export default [
   },
   {
     titulo: "Quais são as IST",
+    route: "/about/3",
     textoHtml: `    <article>
   <ol type="I">
     <li>
@@ -194,7 +198,7 @@ export default [
             contain
             class="mx-auto"
             src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FimagemHPV.jpg?alt=media&token=b2f77632-6fd0-4165-83ac-67d4daac7605"
-            max-width="200"
+            style="max-width: 100%"
           />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
@@ -229,7 +233,7 @@ export default [
         o resfriado e infecções mais graves como tuberculose ou câncer.
 
         <figure class="d-flex align-center flex-column">
-          <img contain class="mx-auto" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fimagemaids.jpg?alt=media&token=97c6ee7e-2264-4be1-b8cd-58f5b9170671" />
+          <img contain class="mx-auto" style="max-width: 100%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fimagemaids.jpg?alt=media&token=97c6ee7e-2264-4be1-b8cd-58f5b9170671" />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
       </article>
@@ -287,7 +291,7 @@ export default [
           </li>
         </ul>
         <figure class="d-flex align-center flex-column">
-          <img contain class="mx-auto" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FimagemSifilis.jpg?alt=media&token=f4159c99-8ace-4327-9713-2f69f70cc82c" />
+          <img class="mx-auto" style="max-width: 100%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FimagemSifilis.jpg?alt=media&token=f4159c99-8ace-4327-9713-2f69f70cc82c" />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
         <p class="mt-3 text-caption text-center">
@@ -321,8 +325,68 @@ export default [
   },
   {
     titulo: "Métodos contraceptivos",
-  },
-  {
-    titulo: "Violência Sexual ",
+    route: "/about/4",
+    textoHtml: `
+    <article>
+      <ol type="I">
+        <li>
+          <strong>O que são?</strong>
+          <p>
+          Os métodos contraceptivos são maneiras que através de medicamentos, cirurgias ou objetos  visam evitar a gravidez, 
+          existem disponíveis diferentes métodos femininos e masculinos. Alguns desses métodos são considerados 
+          reversíveis, sendo assim após a interrupção do seu uso, ocorre o retorno da capacidade de engravidar. 
+          Entretanto, existem procedimentos irreversíveis, como a vasectomia. <br /> <br />  
+          A escolha do método contraceptivo deve ser livre, respeitando a decisão daquele que irá fazer o uso, 
+          levando em consideração as suas vantagens e desvantagens e as condições de vida e saúde do indivíduo. 
+          Para isso, torna-se  importante procurar um serviço de saúde para receber informações sobre os métodos anticoncepcionais 
+          disponíveis e para obter o método escolhido que estão disponíveis no Sistema Único de Saúde (SUS).
+          </p>
+          <p class="text-caption" style="text-align: center">Nessa seção iremos abordar alguns dos diferentes tipos de métodos contraceptivos e suas vantagens e desvantagens. </p>
+          <figure class="d-flex align-center flex-column">
+            <img contain class="mx-auto" style="max-width: 100%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpilulaAnticoncepcional.jpg?alt=media&token=9cb9ca22-3588-4aab-9ea0-e8ad65fa609e" />
+            <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
+          </figure>
+        </li>
+        <li>
+          <strong>Quais são?</strong>
+          <ol>
+            <li>
+            <strong>Injeções Anticoncepcionais</strong>
+            <p>
+            As pílulas anticoncepcionais são métodos hormonais que impedem a ovulação e dificultam a passagem dos espermatozóides.
+             Esse método é indicado para qualquer mulher, adolescente ou adulta, sendo recomendado o uso diário 
+             preferencialmente no mesmo horário, em casos de esquecimento, deve-se tomar a pílula de imediato.
+            <br/> <br/>
+            Alguns efeitos colaterais ao uso desses hormônios são relatados, como:  diminuição da quantidade e dias de 
+            sangramento, alterações de peso, alterações de humor e dores de cabeça. Contudo, seu uso ajuda na proteção 
+            contra a gravidez, doença inflamatória pélvica e ajudam na redução das cólicas menstruais. 
+            Além disso, as pílulas anticoncepcionais não protegem contra as IST´s.
+            </p>
+            <figure class="d-flex align-center flex-column">
+              <img cover class="mx-auto" style="max-width: 100%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FimagemSifilis.jpg?alt=media&token=f4159c99-8ace-4327-9713-2f69f70cc82c" />
+              <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
+            </figure>
+            </li>
+            <li>
+              <strong>Injeções Anticoncepcionais</strong>
+              <p>
+              As injeções anticoncepcionais são feitas de hormônios parecidos com os produzidos pelo corpo, 
+              agindo também impedindo a ovulação. Existem diferentes opções dessas injeções, sendo possível optar 
+              pela injeção mensal ou trimestral.
+              <br/> <br/>
+              Alguns efeitos colaterais podem ser observados após três meses, como sangramento irregular ou 
+              prolongado, e após um ano, como, ausência de menstruação. Esse método pode reduzir sintomas de 
+              endometriose e ajudar no ganho de peso.
+              </p> 
+              <figure class="d-flex align-center flex-column">
+                <img cover class="mx-auto" style="max-width: 100%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FinjecaoAnticoncepcional.jpg?alt=media&token=8c531f22-18b1-4d80-b088-90455a2a0389" />
+                <label class="d-flex justify-center">Fonte: TuaSaúde, 2020.</label>
+              </figure>
+            </li>
+          </ol>
+        </li>
+      <ol>
+    </article>
+    `
   },
 ]

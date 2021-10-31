@@ -343,7 +343,7 @@ export default [
           </p>
           <p class="text-caption" style="text-align: center">Nessa seção iremos abordar alguns dos diferentes tipos de métodos contraceptivos e suas vantagens e desvantagens. </p>
           <figure class="d-flex align-center flex-column">
-            <img contain class="mx-auto" style="max-width: 100%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpilulaAnticoncepcional.jpg?alt=media&token=9cb9ca22-3588-4aab-9ea0-e8ad65fa609e" />
+            <img contain class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fbbc2018.png?alt=media&token=8a2569d4-77a0-4eaf-8882-f900f5fc2b14" />
             <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
           </figure>
         </li>
@@ -351,7 +351,7 @@ export default [
           <strong>Quais são?</strong>
           <ol>
             <li>
-            <strong>Injeções Anticoncepcionais</strong>
+            <strong>Pílulas Anticoncepcionais</strong>
             <p>
             As pílulas anticoncepcionais são métodos hormonais que impedem a ovulação e dificultam a passagem dos espermatozóides.
              Esse método é indicado para qualquer mulher, adolescente ou adulta, sendo recomendado o uso diário 
@@ -363,7 +363,7 @@ export default [
             Além disso, as pílulas anticoncepcionais não protegem contra as IST´s.
             </p>
             <figure class="d-flex align-center flex-column">
-              <img cover class="mx-auto" style="max-width: 100%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FimagemSifilis.jpg?alt=media&token=f4159c99-8ace-4327-9713-2f69f70cc82c" />
+              <img cover class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpilulaAnticoncepcional.jpg?alt=media&token=9cb9ca22-3588-4aab-9ea0-e8ad65fa609e" />
               <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
             </figure>
             </li>
@@ -383,8 +383,133 @@ export default [
                 <label class="d-flex justify-center">Fonte: TuaSaúde, 2020.</label>
               </figure>
             </li>
+            <li>
+              <strong>Camisinha masculina</strong>
+              <p>
+              A camisinha masculina é o método eficaz na proteção contra a grvidez e as IST´s, 
+              impedindo o contato do pênis com a boca, ânus e vagina. A camisinha é prática, 
+              devendo ser usada no momento da relação sexual e descartada em seguida.
+              <br/> <br/>
+              Para o seu uso seguro, devemos nos atentar para algumas dicas de uso, como: Não deixar a 
+              camisinha exposta ao sol; não carregar permanentemente em carteira ou bolso; nunca utilizar duas 
+              camisinhas ao mesmo tempo; verificar se a embalagem não está furada antes do uso.
+              </p> 
+              <figure class="d-flex align-center flex-column">
+                <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha1.jpg?alt=media&token=77680acc-ee28-49a2-9457-e04c31dab101" />
+                <label class="d-flex justify-center">Fonte: Google</label>
+              </figure>
+              <figure class="d-flex align-center flex-column">
+                <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha2.jpg?alt=media&token=da9a228e-b1fc-42a3-8d88-56b65f3c36f6" />
+                <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
+              </figure>
+            </li>
+            <li>
+              <strong>Camisinha feminina</strong>
+              <p>
+              A camisinha feminina é um tubo feito de plástico resistente, que não diminui o prazer sexual, 
+              e é colocado dentro da vagina para evitar o contato com o pênis sendo eficaz para proteger da 
+              gravidez e das IST 'S. A camisinha feminina deve ser usada em todas as relações sexuais, mesmo 
+              durante a menstruação.
+              </p> 
+              <figure class="d-flex align-center flex-column">
+                <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha3.jpg?alt=media&token=50c00f79-bda3-4e0c-b44e-1c0eefb4cc28" />
+                <label class="d-flex justify-center">Fonte: Google</label>
+              </figure>
+              <figure class="d-flex align-center flex-column">
+                <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha4.jpg?alt=media&token=daa6b618-190a-43a8-9681-090ee08eb3f5" />
+                <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
+              </figure>
+            </li>
+            <li>
+            <strong>Diafragma</strong>
+            <p>
+            É uma capa flexível, com uma borda em forma de anel, que é colocada na vagina cobrindo o colo 
+            do útero. Esse método evita a gravidez impedindo a entrada dos espermatozóides dentro do útero, 
+            contudo não previne contra as IST´S. Existem diafragmas de diversos tamanhos, sendo necessária a 
+            medição por profissional de saúde para determinar o mais adequado para cada mulher.
+            <br /> <br /> 
+            O Diafragma não deve ser utilizado em períodos de menstruação e deve ser retirado de seis a 
+            oito horas após a última relação sexual.
+            </p> 
+            <figure class="d-flex align-center flex-column">
+              <img cover class="mx-auto" style="max-width: 80%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fdiafragma.jpg?alt=media&token=560043ae-e89b-4283-a34f-a8479049ffc7" />
+              <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
+            </figure>
+          </li>
+          <li>
+            <strong>Dispositivo IntraUterino (DIU)</strong>
+            <p>
+            O Dispositivo Intra-Uterino (DIU), é um objeto colocado no interior do útero para evitar a gravidez, 
+            podendo ser recoberto por cobre ou conter hormônio. O DIU não provoca aborto, pois impede o encontro do 
+            espermatozóide com o óvulo. <br/> <br/>
+            A mulher que usa DIU pode apresentar aumento do sangramento menstrual e aumento na duração da menstruação 
+            ou apresentar cólicas. Esse dispositivo deve ser colocado por um profissional de saúde treinado e a 
+            capacidade de engravidar retorna após a retirada do DIU. Esse método não previne contra as IST´S. 
+            </p> 
+            <figure class="d-flex align-center flex-column">
+              <img cover class="mx-auto" style="max-width: 80%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fdiu.jpg?alt=media&token=09f78318-6134-4c34-aebe-3a37ab4c6232" />
+              <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
+            </figure>
+          </li>
+          <li>
+            <strong>Tabela</strong>
+            <p>
+            A Tabela é um método que se baseia na observação de vários ciclos menstruais, 
+            para determinar o período fértil do ciclo menstrual da mulher, sendo sua eficácia maior se o 
+            casal não tiver relação sexual com penetração vaginal no período fértil.
+            <br /> <br />
+            O método da Tabela não é indicado em alguns casos, como após o parto ou durante a amamentação, 
+            ou para adolescentes e mulheres na pré-menopausa que estejam apresentando ciclos menstruais irregulares. 
+            Esse método não previne contra as IST´S. 
+            </p> 
+            <figure class="d-flex align-center flex-column">
+              <img cover class="mx-auto" style="max-width: 80%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Ftablea.jpg?alt=media&token=f7b3298b-c8e3-48f1-9dba-106686da25c6" />
+              <label class="d-flex justify-center">Fonte: : Brasil Escola, 2021.</label>
+            </figure>
+          </li>
+          <li>
+            <strong>Coito Interrompido </strong>
+            <p>
+            O método do Coito Interrompido consiste na retirada do pênis da vagina um pouco antes da ejaculação.
+             Contudo, além de não proteger contra as IST 'S, esse método não deve ser estimulado
+              como método anticoncepcional, devido a grande  possibilidade de falha. 
+            </p> 
+            <figure class="d-flex align-center flex-column">
+              <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FcoitoInterrompido.jpg?alt=media&token=c88e2402-4df6-46b8-a35c-1c38d64dd3ba" />
+              <label class="d-flex justify-center">Fonte: UFC, 2017.</label>
+            </figure>
+          </li>
+          <li>
+            <strong>Vasectomia</strong>
+            <p>
+            A Vasectomia consiste em uma cirurgia simples, que se faz em homens que não desejam mais ter filhos. 
+            É um método anticoncepcional considerado permanente ou irreversível, agindo impedindo que os espermatozóides
+             se encontrem com o óvulo.
+            </p> 
+            <figure class="d-flex align-center flex-column">
+              <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fvasectomia.jpg?alt=media&token=978465b8-aa23-47b5-b29b-b20b12bda141" />
+              <label class="d-flex justify-center">Fonte: Mater Prime, 2021.</label>
+            </figure>
+          </li>
+          <li>
+            <strong>Pílula Anticoncepcional de emergência</strong>
+            <p>
+            As pílulas anticoncepcionais de emergência, conhecidas como “pílulas do dia seguinte”, 
+            ajudam a prevenir a gravidez após a relação sexual desprotegida, quando ingerida até 5 dias 
+            após a exposição. São indicados em casos de relações sexuais sem consetimento, sem o uso de 
+            preservativos ou com seu uso incorreto. Contudo, esse método não interrompe uma gravidez já existente.
+            <br /> <br/>
+            Alguns efeitos colaterais podem ser observados, como: alterações nos padrões de sangramento, náuseas, 
+            fadiga e dor abdominal.  
+            </p> 
+            <figure class="d-flex align-center flex-column">
+              <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpilulaEmergencia.jpg?alt=media&token=ac3dbb34-e590-46a7-9579-55504e6bb37e" />
+              <label class="d-flex justify-center">Fonte: BBC, 2019.</label>
+            </figure>
+          </li>
           </ol>
         </li>
+        
       <ol>
     </article>
     `

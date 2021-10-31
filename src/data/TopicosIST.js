@@ -2,6 +2,7 @@ export default [
   {
     titulo: "Apresentação",
     route: "/about/0",
+    icon: "letra-p.png",
     textoHtml: `<article> Olá! Sejam todos Bem-vindos ao <strong>Prev IST</strong>, aqui você poderá
   encontrar diversas informações sobre as Infecções Sexualmente Transmissíveis (IST),
   assim como, suas formas de prevenção e
@@ -17,8 +18,9 @@ export default [
   compartilhem com seus amigos e familiares. Informação e saúde para todos!</article>`,
   },
   {
-    titulo: "O que é uma IST",
+    titulo: "O que é uma IST?",
     route: "/about/1",
+    icon: "ponto-de-interrogacao.png",
     textoHtml: `<article>As Infecções Sexualmente Transmissíveis (IST) são ocasionadas por fungos, 
     bactérias, vírus ou outros microrganismos.  
     Sua transmissão ocorre, em muitos das vezes, por via sexual sem a utilização de camisinha masculina 
@@ -32,6 +34,7 @@ export default [
   {
     titulo: "Sintomas",
     route: "/about/2",
+    icon: "sintomas.png",
     textoHtml: `<article>As IST´s podem se manifestar de diferentes formas como, verrugas, feridas, escorrimento,
      dor pélvica, ardência ao urinar e outras, podendo aparecer principalmente nos órgãos genitais, 
      mas também em outras áreas como boca, mãos e olhos. 
@@ -42,8 +45,9 @@ export default [
     </article>`,
   },
   {
-    titulo: "Quais são as IST",
+    titulo: "Quais são as IST?",
     route: "/about/3",
+    icon: "lista-de-afazeres.png",
     textoHtml: `    <article>
   <ol type="I">
     <li>
@@ -326,6 +330,7 @@ export default [
   {
     titulo: "Métodos contraceptivos",
     route: "/about/4",
+    icon: "pilulas.png",
     textoHtml: `
     <article>
       <ol type="I">

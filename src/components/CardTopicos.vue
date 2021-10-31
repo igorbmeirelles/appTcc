@@ -1,11 +1,11 @@
 <template>
   <v-sheet
     v-ripple="{ class: `primary--text` }"
-    class="sheet-size rounded-lg blue lighten-5 pa-3 mb-3"
+    class="sheet-size rounded-lg blue lighten-5 pa-3 mb-2"
     @click="$emit('click')"
   >
     <figure class="sheet-icon blue lighten-4">
-      <v-img src="@/assets/virus.png" contain max-width="32" max-height="32"></v-img>
+      <v-img :src="require(`@/assets/icons/${cardInfo.icon}`)" contain max-width="32" max-height="32"></v-img>
     </figure>
 
     <h4 class="mt-5 font-weight-medium">{{cardInfo.titulo}}</h4>

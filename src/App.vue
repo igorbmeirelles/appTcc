@@ -32,4 +32,7 @@ export default {
   font-family: "Maven Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
+.v-main {
+  background-color: whitesmoke !important;
+}
 </style>

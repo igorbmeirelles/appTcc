@@ -3,7 +3,7 @@ export default [
     titulo: "Apresentação",
     route: "/about/0",
     icon: "letra-p.png",
-    textoHtml: `<article> Olá! Sejam todos Bem-vindos ao <strong>Prev IST</strong>, aqui você poderá
+    textoHtml: `<article> Olá! Sejam todos Bem-vindos ao <strong>Prev-IST</strong>, aqui você poderá
   encontrar diversas informações sobre as Infecções Sexualmente Transmissíveis (IST),
   assim como, suas formas de prevenção e
   <span class="text-danger"> tratamento</span>, sobre as diferenças corporais
@@ -45,7 +45,7 @@ export default [
     </article>`,
   },
   {
-    titulo: "Quais são as IST?",
+    titulo: "Quais são as principais IST?",
     route: "/about/3",
     icon: "lista-de-afazeres.png",
     textoHtml: `    <article>
@@ -62,6 +62,15 @@ export default [
         Nos homens, são mais frequentes o aparecimento no frênulo e nas mulheres nos
         pequenos e grandes lábios.
       </article>
+      <figure class="d-flex  align-center flex-column">
+      <img
+        contain
+        class="mx-auto"
+        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FcancroMole.png?alt=media&token=aa33c862-18eb-4ab9-a2eb-23a977833e5a"
+        style="max-width: 70%"
+      />
+      <label class="d-flex justify-center">Fonte: DST, 2021.</label>
+    </figure>
       <p class="mt-3 text-caption text-center">
         Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
@@ -80,6 +89,15 @@ export default [
         sintomas são: dor abdominal e nas costas, febre, vômito, dor ao urinar e
         corrimento.
       </article>
+      <figure class="d-flex  align-center flex-column">
+      <img
+        contain
+        class="mx-auto"
+        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fdip.png?alt=media&token=16e3f9bc-ccfa-4e7c-9a3c-387329be7558"
+        style="max-width: 40%"
+      />
+      <label class="d-flex justify-center">Fonte: Jaleko Artmed, 2021.</label>
+    </figure>
       <p class="mt-3 text-caption text-center">
         Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
@@ -97,6 +115,15 @@ export default [
         causando ferida de aspecto vermelho vivo e de sangramento, destruindo assim a
         pele da região infectada.
       </article>
+      <figure class="d-flex  align-center flex-column">
+      <img
+        contain
+        class="mx-auto"
+        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fdonovanose.png?alt=media&token=4fcb9904-fa0e-4814-9b63-97eecb6abc0f"
+        style="max-width: 60%"
+      />
+      <label class="d-flex justify-center">Fonte: Jaleko Artmed, 2021.</label>
+    </figure>
       <p class="mt-3 text-caption text-center">
         Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
@@ -114,6 +141,15 @@ export default [
         Em mulheres, seus sintomas podem estar relacionados com o corrimento vaginal e
         dor no baixo ventre. Em homens corrimento no pênis e dor ao urinar.
       </article>
+      <figure class="d-flex  align-center flex-column">
+      <img
+        contain
+        class="mx-auto"
+        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fgonorreia.png?alt=media&token=01f0446a-fdbf-4df7-bd31-cdd53fb9645d"
+        style="max-width: 60%"
+      />
+      <label class="d-flex justify-center">Fonte: GoConqr, 2020.</label>
+    </figure>
       <p class="mt-3 text-caption text-center">
         Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
@@ -128,8 +164,19 @@ export default [
         representam cerca de mais de 1,4 milhões de mortes em todo o mundo. No Brasil,
         segundo dados do Ministério da Saúde, cerca de 660 mil pessoas no país possuem
         o vírus da hepatite C, constituindo um problema de saúde pública.
+        <figure class="d-flex  align-center flex-column">
+          <img
+            contain
+            class="mx-auto"
+            src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FhepatiteFioCruz.png?alt=media&token=5adf4c3f-1ed3-49d3-ae7b-ad7b5e687286"
+            style="max-width: 60%"
+          />
+          <label class="d-flex justify-center">Fonte: Fiocruz, 2020.</label>
+        </figure>
         <ol>
-          <li><strong>Hepatite A</strong></li>
+          <li>
+          <strong>Hepatite A</strong>
+          
           <article>
             O vírus da hepatite A (HAV) é comumente transmitido através da via
             fecal-oral, sendo assim, por meio de alimentos e água contaminados pelas
@@ -143,22 +190,24 @@ export default [
             A infecção pelo HAV pode acarretar em alguns sintomas ,como: diarreia,
             náuseas, febre, perda de apetite e pele e olhos amarelados.
           </article>
-
-          <li><strong>Hepatite B</strong></li>
-          <article>
-            Segundo dados da Organização Mundial de Saúde, o vírus da hepatite B (
-            HBV) já infectou mais de dois bilhões de pessoas ao redor do mundo, sendo
-            sua evolução silenciosa acarretando a descoberta da doença décadas após
-            sua infecção. <br />
-            <br />A transmissão dessa doença ocorre através do contato de secreções
-            (sangue, sêmen, leite materno e secreção vaginal) com pele e mucosa, pelo
-            compartilhamento de objetos de manicure, lâminas de barbear e piercings.
-            Além disso, relações sexuais desprotegidas também são uma forma de
-            contaminação. A infecção pelo vírus da hepatite B geralmente gera poucos
-            sintomas ou nenhum sintoma característico, sendo necessário assim,
-            realizar exames laboratoriais para comprovar o contato com o vírus.
-          </article>
-
+          </li>
+          <li>
+            <strong>Hepatite B</strong>
+            
+            <article>
+              Segundo dados da Organização Mundial de Saúde, o vírus da hepatite B (
+              HBV) já infectou mais de dois bilhões de pessoas ao redor do mundo, sendo
+              sua evolução silenciosa acarretando a descoberta da doença décadas após
+              sua infecção. <br />
+              <br />A transmissão dessa doença ocorre através do contato de secreções
+              (sangue, sêmen, leite materno e secreção vaginal) com pele e mucosa, pelo
+              compartilhamento de objetos de manicure, lâminas de barbear e piercings.
+              Além disso, relações sexuais desprotegidas também são uma forma de
+              contaminação. A infecção pelo vírus da hepatite B geralmente gera poucos
+              sintomas ou nenhum sintoma característico, sendo necessário assim,
+              realizar exames laboratoriais para comprovar o contato com o vírus.
+            </article>
+          </li>
           <li><strong>Hepatite C</strong></li>
           <article>
             O vírus da hepatite C (HCV) já infectou aproximadamente mais de 71 milhões
@@ -201,8 +250,8 @@ export default [
           <img
             contain
             class="mx-auto"
-            src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FimagemHPV.jpg?alt=media&token=b2f77632-6fd0-4165-83ac-67d4daac7605"
-            style="max-width: 100%"
+            src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fhpv.png?alt=media&token=6999b39d-d500-40f9-9b8c-ee1b3373743d"
+            style="max-width: 70%"
           />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
@@ -237,7 +286,7 @@ export default [
         o resfriado e infecções mais graves como tuberculose ou câncer.
 
         <figure class="d-flex align-center flex-column">
-          <img contain class="mx-auto" style="max-width: 100%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fimagemaids.jpg?alt=media&token=97c6ee7e-2264-4be1-b8cd-58f5b9170671" />
+          <img contain class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FHIVaids.png?alt=media&token=1d3d3328-29db-4795-9019-dc91e4aeaf7f" />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
       </article>
@@ -258,7 +307,10 @@ export default [
         com pessoas infectadas, da gestação, parto e aleitamento materno, sendo a
         mulher a portadora do vírus, e através do contato com sangue contaminado.
       </article>
-
+      <figure class="d-flex align-center flex-column">
+        <img contain class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fhtlv.png?alt=media&token=b95a814d-24a6-4c4b-b07b-1f6e684f7127" />
+        <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
+      </figure>
       <p class="mt-3 text-caption text-center">
         Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
@@ -295,7 +347,7 @@ export default [
           </li>
         </ul>
         <figure class="d-flex align-center flex-column">
-          <img class="mx-auto" style="max-width: 100%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FimagemSifilis.jpg?alt=media&token=f4159c99-8ace-4327-9713-2f69f70cc82c" />
+          <img class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FimagemSifilis.jpg?alt=media&token=f4159c99-8ace-4327-9713-2f69f70cc82c" />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
         <p class="mt-3 text-caption text-center">
@@ -316,7 +368,10 @@ export default [
         Seus sintomas mais característicos se dão através da presença de corrimento
         vaginal intenso, amarelo-esverdeado, espumoso de odor fétido (semelhante a
         peixe).
-
+        <figure class="d-flex align-center flex-column">
+          <img class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Ftricomoniase.png?alt=media&token=711a4b91-a08a-47a5-9c87-6d7d0a4b8613" />
+          <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
+        </figure>
         <p class="mt-3 text-caption text-center">
           Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
           serviço de saúde para o diagnóstico correto e indicação do tratamento
@@ -327,9 +382,10 @@ export default [
   </ol>
 </article>`,
   },
+
   {
     titulo: "Métodos contraceptivos",
-    route: "/about/4",
+    route: "/about/5",
     icon: "pilulas.png",
     textoHtml: `
     <article>

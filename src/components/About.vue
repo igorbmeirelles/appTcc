@@ -2,10 +2,9 @@
   <div class="pa-4">
     <h2 class="mb-3">{{itemExibido.titulo}}</h2>
     <div v-html="itemExibido.textoHtml">
-      Olá! Sejam todos Bem-vindos ao <strong> NOME DO APP</strong>, aqui você poderá
+      Olá! Sejam todos Bem-vindos ao <strong> PREV-IST</strong>, aqui você poderá
       encontrar diversas informações sobre as Infecções Sexualmente Transmissíveis (IST),
-      assim como, suas formas de prevenção e
-      <span class="text-danger"> tratamento </span>, sobre as diferenças corporais
+      assim como, suas formas de prevenção e diagnósticos, sobre as diferenças corporais
       causadas pela puberdade, sobre os métodos contraceptivos e muitos outros conteúdos.
 
       <br />

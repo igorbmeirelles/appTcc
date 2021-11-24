@@ -18,7 +18,7 @@ export default [
   compartilhem com seus amigos e familiares. Informação e saúde para todos!</article>`,
   },
   {
-    titulo: "O que é uma IST?",
+    titulo: "O que é IST?",
     route: "/about/1",
     icon: "ponto-de-interrogacao.png",
     textoHtml: `<article>As Infecções Sexualmente Transmissíveis (IST) são ocasionadas por fungos, 
@@ -45,7 +45,7 @@ export default [
     </article>`,
   },
   {
-    titulo: "Quais são as principais IST?",
+    titulo: "Principais IST",
     route: "/about/3",
     icon: "lista-de-afazeres.png",
     textoHtml: `    <article>
@@ -382,10 +382,232 @@ export default [
   </ol>
 </article>`,
   },
+  {
+    titulo: "Prevenção Combinada",
+    route: "/about/4",
+    icon: "pilulas.png",
+    textoHtml: `
+    <article>
+    A Prevenção Combinada associa diferentes ações de prevenção ao HIV e as outras IST 's, 
+    como as hepatites virais, essas medidas auxiliam os indivíduos a atingirem o estágio de saúde integral. 
+    Essas ações podem estar combinadas de acordo com as características individuais, de saúde e de 
+    relacionamento de cada pessoa. <br/> <br/>
+    Entre os métodos utilizados na Prevenção Combinada, podemos citar: a testagem para o HIV;a prevenção 
+    da transmissão vertical do HIV; o tratamento das IST´s e das hepatites virais; a imunização para as 
+    hepatites A e B; a redução de danos para usuários de álcool e outras drogas; a profilaxia pré-exposição 
+    (PrEP); a profilaxia pós-exposição (PEP); e a terapia anti-retroviral (TARV). 
 
+    <figure class="d-flex  align-center flex-column">
+      <img
+        contain
+        class="mx-auto"
+        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FprevencaoCombinada.png?alt=media&token=900339f6-a893-495d-9a26-8e9ad899b64d"
+        style="max-width: 80%"
+      />
+      <label class="d-flex justify-center">Fonte: Ministério da Saúde, 2019.</label>
+      </figure>
+      <ul type="I" style="padding: 0px">
+        <li>
+          <strong>-	Profilaxia Pós-Exposição (PEP)</strong>
+          <p>
+          A Profilaxia Pós-Exposição (PEP) de risco à infecção pelo HIV consiste no uso de antirretrovirais, 
+          por 28 dias, para reduzir o risco de adquirir essa infecção.<br /> <br/>
+          O atendimento após a exposição ao HIV é uma urgência. A PEP deve ser iniciada o mais 
+          precocemente possível, tendo como limite as 72 horas subsequentes à exposição. Nos casos em que o 
+          atendimento ocorrer após 72 horas da exposição, a PEP não está mais indicada.
+          <a href="http://www.aids.gov.br/pt-br/onde-encontrar-pep" target="_blank"> Clique aqui </a>para acessar 
+          os locais que disponibilizam o tratamento da PEP
+          </p>
+          <figure class="d-flex  align-center flex-column">
+            <img
+              contain
+              class="mx-auto"
+              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fpep.png?alt=media&token=4dbd1821-4477-4abd-8780-457ef9400fdc"
+              style="max-width: 80%"
+            />
+            <label class="d-flex justify-center">Fonte: Agência Aids, 2019.</label>
+          </figure>
+        </li>
+        <li>
+          <strong>-	Profilaxia  Pré-Exposição (PreEP)</strong>
+          <p>
+          A Profilaxia Pré-Exposição ao HIV é o método de prevenção à infecção pelo HIV. 
+          Esse tratamento consiste na tomada diária de um comprimido que permite ao organismo estar preparado 
+          para enfrentar um possível contato com o vírus do HIV. <br/> <br/>
+          É importante lembrar que a PreEP não protege contra as outras IST´s, como a Sífilis e as hepatites 
+          virais, sendo assim, torna-se necessário a combinação desse método com outras estratégias, como a 
+          camisinha. <br/> <br/>
+          <a href="http://www.aids.gov.br/pt-br/acesso_a_informacao/servicos-de-saude/prep" target="_blank">Clique aqui</a> para acessar os locais que disponibilizam o tratamento da PreEP
+          </p>
+          <figure class="d-flex  align-center flex-column">
+            <img
+              contain
+              class="mx-auto"
+              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fremediospre.png?alt=media&token=3d0fa37d-4ecf-43c8-ba70-54c2d9b24b94"
+              style="max-width: 80%"
+            />
+            <label class="d-flex justify-center">Fonte: G1, 2019.</label>
+          </figure>
+        </li>
+        <li>
+          <strong>-	Testagem regular para IST´s</strong>
+          <p>
+          O SUS oferece gratuitamente a testagem para o diagnóstico de HIV, Sífilis e Hepatite C e B. 
+          Os testes rápidos são práticos e realizados a partir da coleta de uma gota de sangue, que fornecem o 
+          resultado em até 30min. O sistema de saúde também oferece os exames laboratoriais que são coletados e 
+          encaminhados para o processamento nos laboratórios. <br/> <br/>
+          Apesar da eficácia desses exames, todos esses procedimentos possuem um período conhecido como 
+          “Janela diagnóstica”, período no qual corresponde ao tempo entre o contato com o vírus e a detecção 
+          do marcador da infecção no organismo. Sendo assim, em casos de resultados negativos que ainda persista 
+          a suspeita de infecção, torna-se aconselhado repetir os testes após 30 dias.
+          </p>
+          <figure class="d-flex  align-center flex-column">
+            <img
+              contain
+              class="mx-auto"
+              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Ftestagem.png?alt=media&token=ad484248-7797-4658-8c72-a4c9a8e84b3e"
+              style="max-width: 80%"
+            />
+            <label class="d-flex justify-center">Fonte: DHOJE, 2018.</label>
+          </figure>
+        </li>
+        <li>
+          <strong>-	Tratamento para prevenção</strong>
+          <p>
+          A adesão ao tratamento e uso dos medicamentos antirretrovirais, em pacientes que vivem com HIV (PVHIV), 
+          garantem o controle da doença e prevenindo a evolução para o estágio de AIDS. Os PVHIV que mantêm o 
+          tratamento regular apresentam carga viral indetectável, baixa quantidade de vírus circulante no organismo, 
+          não irão transmitir, sendo assim, <strong> indetectável é igual intransmissível. </strong>  <br/> <br/>
+          O tratamento de outras IST´s também está disponível gratuitamente no SUS, como em casos de Sífilis, o 
+          tratamento é realizado com injeções do antibiótico penicilina benzatina, variando as doses de acordo com 
+          o estágio clínico da doença e sendo necessário repetir o exame para confirmar a cura da doença.
+          </p>
+          <figure class="d-flex  align-center flex-column">
+            <img
+              contain
+              class="mx-auto"
+              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Ftarv.png?alt=media&token=5311e985-b6b4-4ec4-bfca-c8e684b748d8"
+              style="max-width: 80%"
+            />
+            <label class="d-flex justify-center text-center">TARV- Terapia Antirretroviral<br/> Fonte: DST- São Paulo</label>
+          </figure>
+        </li>
+        <li>
+          <strong>-	Vacinação</strong>
+          <p>
+          No SUS existe gratuitamente a vacinação para Hepatite B, IST altamente transmissível em relações sexuais sem
+           preservativos. Para a imunização completa é necessário realizar três doses, sendo, a primeira dose, a 
+           segunda dose um mês depois e a terceira dose 6 meses após a primeira. <br/> <br/>
+          Outra vacinação também disponível gratuitamente no SUS é para HPV, IST que pode provocar câncer e 
+          verrugas genitais. Atualmente a vacina está disponível para meninas entre 9 a 14 anos e meninos de 11 
+          a 14 anos em duas doses. Também podem ser vacinadas as PVHIV na faixa etária 
+          de 9 a 26 anos com três doses. <br/> <br/>
+          Em casos de dúvidas,  procure uma Unidade Básica de Saúde para mais informações e para completar o seu 
+          esquema vacinal.
+          </p>
+        </li>
+      <ul>
+    </article>
+    `
+  },
+  {
+    titulo: "Puberdade",
+    route: "/about/5",
+    icon: "pilulas.png",
+    textoHtml: `
+    <article>
+      É necessário que todos tenham o conhecimento sobre o funcionamento do seu corpo. 
+      Esse saber os auxilia na saúde reprodutiva e  favorece os cuidados de prevenção contra as 
+      Infecções Sexualmente Transmissíveis e outras doenças que possam afetar a saúde sexual e a 
+      saúde reprodutiva.<br> <br/>
+      A puberdade, período no qual o adolescente apresenta um conjunto de transformações no corpo, 
+      nos sentimentos, no humor, nas responsabilidades e no modo de enxergar o mundo, pode ser 
+      exemplificado nos seguintes itens: 
+      <ul style="padding: 0px">
+        <li>
+          -	Estirão do crescimento: Processo de aceleração do crescimento estatural, 
+          geralmente iniciado pelas mãos e pés marcando  início da fase da adolescência. 
+        </li>
+        <li>
+          -	Maturação sexual: Desenvolvimentos das características sexuais secundárias, 
+          que veremos a seguir separadamente. 
+        </li>
+      </ul>
+      <figure class="d-flex  align-center flex-column">
+        <img
+          contain
+          class="mx-auto"
+          src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fpuberdade.png?alt=media&token=5c211300-0be2-416a-9806-34635dc5d935"
+          style="max-width: 80%"
+        />
+        <label class="d-flex justify-center">Fonte: A Voz do Povo, 2018.</label>
+      </figure>
+
+      <ul type="I" >
+        <li>
+          <br/><strong>Masculino</strong> <br/>
+          Na maturação sexual do sexo masculino, as transformações que ocorrem durante o período da puberdade, são:
+          <ul>
+            <li>
+              -	Aumento do volume testicular 
+            </li>
+            <li>
+              -	Crescimento dos pelos pubianos 
+            </li>
+            <li>
+              -	Crescimento dos pelos pubianos 
+            </li>
+            <li>
+              -	Desenvolvimento do pênis em comprimento e diâmetro 
+            </li>
+            <li>
+              -	Crescimento dos pelos na axila e na face 
+            </li>
+          </ul>
+          <figure class="d-flex  align-center flex-column">
+            <img
+              contain
+              class="mx-auto"
+              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpuberdadeMasculina.png?alt=media&token=3f8d6c50-9418-4d81-984d-02b68158dbb7"
+              style="max-width: 80%"
+            />
+            <label class="d-flex justify-center text-center">Estágios de desenvolvimento da genitália masculina <br/> Fonte: Ministério da Saúde, 2014</label>
+          </figure>
+        </li>
+        <li>
+          <br/> <strong>Feminino</strong> <br/>
+          Na maturação sexual do sexo feminino, as transformações que ocorrem durante o período da puberdade, são:
+          <ul>
+            <li>
+              -	Surgimento do broto mamário (seios)
+            </li>
+            <li>
+              -	Crescimento dos pelos na genitália e nas axilas 
+            </li>
+            <li>
+              -	Aumento do tamanho do quadril 
+            </li>
+            <li>
+              -	Ocorre a primeira menstruação, conhecida como Menarca 
+            </li>
+          </ul>
+          <figure class="d-flex  align-center flex-column">
+            <img
+              contain
+              class="mx-auto"
+              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpuberdadeFeminina.png?alt=media&token=9587a37f-cce8-4603-a25b-c4f89048727a"
+              style="max-width: 80%"
+            />
+            <label class="d-flex justify-center text-center">Estágios de desenvolvimento das mamas <br/> Fonte: Ministério da Saúde, 2013</label>
+          </figure>
+        </li>
+      <ul>
+    </article>
+    `
+  },
   {
     titulo: "Métodos contraceptivos",
-    route: "/about/5",
+    route: "/about/6",
     icon: "pilulas.png",
     textoHtml: `
     <article>
@@ -572,6 +794,37 @@ export default [
         </li>
         
       <ol>
+    </article>
+    `
+  },
+  {
+    titulo: "Violência Sexual ",
+    route: "/about/7",
+    icon: "pilulas.png",
+    textoHtml: `
+    <article>
+    A violência sexual é compreendida como a realização de práticas sexuais contra a vontade da pessoa, 
+    podendo ocorrer em ambientes públicos ou privados, acontecendo por meio do uso da força, ameaça ou 
+    influência psicológica e uso de drogas. <br/> <br/>
+    Segundo o Ministério da Mulher, da Família e dos Direitos Humanos, o abuso sexual é compreendido como 
+    toda ação que se utiliza da criança ou do adolescente para fins sexuais, sendo realizado de modo presencial 
+    ou por meio eletrônico, para estimulação sexual do abusador ou de terceiros. Pessoas acometidas por essas 
+    ações de violência e abuso sexual, passam por atendimentos de proteção, prevenção de novas situações e 
+    medidas para responsabilizar os agressores <br/><br/>
+    No atendimento de saúde, são ofertados para as vítimas de violência sexual serviços psicológico imediato, 
+    profilaxia do HIV e das outas IST, imunização do HBV, testagem para sífilis, HIV e as hepatites virais B 
+    e C. Em casos que resultam em gravidez, torna-se garantido o acesso aos serviços de referência para a 
+    interrupção da gravidez nos casos previstos pela lei, sendo levado em consideração a anatomia e decisão da 
+    mulher.
+
+    <figure class="d-flex  align-center flex-column">
+      <img
+        contain
+        class="mx-auto"
+        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fviolencia.png?alt=media&token=c7a23b31-4beb-48b7-a0a3-44a280e1f935"
+        style="max-width: 80%"
+      />
+    </figure>
     </article>
     `
   },

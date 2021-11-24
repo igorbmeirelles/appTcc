@@ -43,5 +43,6 @@ ol li {
 
 ul li {
   list-style: none;
+  padding: 0;
 }
 </style>

@@ -385,7 +385,7 @@ export default [
   {
     titulo: "Prevenção Combinada",
     route: "/about/4",
-    icon: "pilulas.png",
+    icon: "sintomas.png",
     textoHtml: `
     <article>
     A Prevenção Combinada associa diferentes ações de prevenção ao HIV e as outras IST 's, 
@@ -513,7 +513,7 @@ export default [
   {
     titulo: "Puberdade",
     route: "/about/5",
-    icon: "pilulas.png",
+    icon: "letra-p.png",
     textoHtml: `
     <article>
       É necessário que todos tenham o conhecimento sobre o funcionamento do seu corpo. 
@@ -800,7 +800,7 @@ export default [
   {
     titulo: "Violência Sexual ",
     route: "/about/7",
-    icon: "pilulas.png",
+    icon: "violencia.png",
     textoHtml: `
     <article>
     A violência sexual é compreendida como a realização de práticas sexuais contra a vontade da pessoa, 

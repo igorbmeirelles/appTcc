@@ -35,26 +35,21 @@ export default [
     Ocorreu a substituição da nomenclatura Doenças Sexualmente Transmissíveis (DST) para Infecções 
     Sexualmente Transmissíveis (IST) devido a possibilidade de um indivíduo ter e transmitir uma infecção, 
     mesmo sem sinais e sintomas.</article>
-    `,
-  },
-  {
-    titulo: "Sintomas",
-    route: "/about/2",
-    icon: "sintomas.png",
-    textoHtml: `<article>As IST´s podem se manifestar de diferentes formas como, verrugas, feridas, escorrimento,
+
+    <h3 style="margin-top:16px; margin-bottom: 8px;">Sintomas</h3>
+
+    <article>As IST´s podem se manifestar de diferentes formas como, verrugas, feridas, escorrimento,
      dor pélvica, ardência ao urinar e outras, podendo aparecer principalmente nos órgãos genitais, 
      mas também em outras áreas como boca, mãos e olhos. 
     <br />
     Algumas IST´s podem não apresentar sintomas podendo levar a complicações sérias caso não sejam diagnosticadas
      e tratadas. Devido a isso, é necessário realizar exames laboratoriais para verificar se houve contato com 
      alguma IST.
-    </article>`,
-  },
-  {
-    titulo: "Principais IST",
-    route: "/about/3",
-    icon: "lista-de-afazeres.png",
-    textoHtml: `    <article>
+    </article>
+
+    <h3 style="margin-top:16px;">Principais IST</h3>
+
+    <article>
   <ol type="I">
     <li>
       <strong>Cancro Mole</strong>
@@ -386,11 +381,12 @@ export default [
       </article>
     </li>
   </ol>
-</article>`,
+</article>
+    `,
   },
   {
     titulo: "Prevenção Combinada",
-    route: "/about/4",
+    route: "/about/2",
     icon: "sintomas.png",
     textoHtml: `
     <article>
@@ -518,7 +514,7 @@ export default [
   },
   {
     titulo: "Puberdade",
-    route: "/about/5",
+    route: "/about/3",
     icon: "letra-p.png",
     textoHtml: `
     <article>
@@ -613,7 +609,7 @@ export default [
   },
   {
     titulo: "Métodos contraceptivos",
-    route: "/about/6",
+    route: "/about/4",
     icon: "pilulas.png",
     textoHtml: `
     <article>
@@ -805,7 +801,7 @@ export default [
   },
   {
     titulo: "Violência Sexual ",
-    route: "/about/7",
+    route: "/about/5",
     icon: "violencia.png",
     textoHtml: `
     <article>

@@ -5,8 +5,7 @@ export default [
     icon: "letra-p.png",
     textoHtml: `<article> Olá! Sejam todos Bem-vindos ao <strong>Prev-IST</strong>, aqui você poderá
   encontrar diversas informações sobre as Infecções Sexualmente Transmissíveis (IST),
-  assim como, suas formas de prevenção e
-  <span class="text-danger"> tratamento</span>, sobre as diferenças corporais
+  assim como, suas formas de prevenção, sobre as diferenças corporais
   causadas pela puberdade, sobre os métodos contraceptivos e muitos outros conteúdos.
   <br />
 
@@ -17,7 +16,7 @@ export default [
   compartilhem com seus amigos e familiares. Informação e saúde para todos!</article>
   <div style="display: flex; justify-content:center; margin-top:32px ">
     <video width="80%" height="240" controls>
-      <source src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fprev_ist.mp4?alt=media&token=90eae3f3-3498-45b9-a73a-e6bbc2885bf7" type="video/mp4">
+      <source src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fprev_ist.mp4?alt=media&token=1ad475a2-af82-4a77-b5c0-d31d2ebe7038" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -35,7 +34,8 @@ export default [
     <br/>
     Ocorreu a substituição da nomenclatura Doenças Sexualmente Transmissíveis (DST) para Infecções 
     Sexualmente Transmissíveis (IST) devido a possibilidade de um indivíduo ter e transmitir uma infecção, 
-    mesmo sem sinais e sintomas.</article>`,
+    mesmo sem sinais e sintomas.</article>
+    `,
   },
   {
     titulo: "Sintomas",

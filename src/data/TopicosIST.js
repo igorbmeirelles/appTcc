@@ -438,7 +438,21 @@ export default [
           para enfrentar um possível contato com o vírus do HIV. <br/> <br/>
           É importante lembrar que a PreEP não protege contra as outras IST´s, como a Sífilis e as hepatites 
           virais, sendo assim, torna-se necessário a combinação desse método com outras estratégias, como a 
-          camisinha. <br/> <br/>
+          camisinha. <br/> 
+          Apesar de estar disponível no SUS, a PreEP não está disponível para todos os cidadãos. Esse tratamento é direcionado para certas populações, como: 
+
+          <div style="display: flex">
+            <ul>
+              <li>- Gays</li>
+              <li>- Homens que fazem sexo com homens (HSH)</li>
+              <li>- Pessoas trans</li>
+              <li>- Trabalhadores do sexo</li>
+            </ul>
+            <ul>
+              <li>- Pessoas que fazem uso repetido da PEP</li>
+              <li>- Pessoas que frequentemente deixam de utilizar a camisinha</li>
+            </ul>
+          </div>
           <a href="http://www.aids.gov.br/pt-br/acesso_a_informacao/servicos-de-saude/prep" target="_blank">Clique aqui</a> para acessar os locais que disponibilizam o tratamento da PreEP
           </p>
           <figure class="d-flex  align-center flex-column">

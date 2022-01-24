@@ -28,7 +28,12 @@
           <div v-html="itemExibido.textoHtml"></div>
 
           <div class="d-flex px-4 mt-5">
-            <v-btn v-if="selectedItem != 0" @click="selectedItem--" color="success" text>
+            <v-btn
+              v-if="selectedItem != 0"
+              @click="selectedItem--"
+              color="success"
+              text
+            >
               <v-icon>mdi-chevron-left </v-icon> Anterior
             </v-btn>
             <v-spacer></v-spacer>
@@ -55,9 +60,6 @@ export default {
     selectedItem: 0,
     items: TopicosIST,
   }),
-  created() {
-    console.log(this.$vuetify.breakpoint);
-  },
 };
 </script>
 

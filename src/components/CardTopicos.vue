@@ -5,10 +5,15 @@
     @click="$emit('click')"
   >
     <figure class="sheet-icon blue lighten-4">
-      <v-img :src="require(`@/assets/icons/${cardInfo.icon}`)" contain max-width="32" max-height="32"></v-img>
+      <v-img
+        :src="require(`@/assets/icons/${cardInfo.icon}`)"
+        contain
+        max-width="32"
+        max-height="32"
+      ></v-img>
     </figure>
 
-    <h4 class="mt-5 font-weight-medium">{{cardInfo.titulo}}</h4>
+    <h4 class="mt-5 font-weight-medium">{{ cardInfo.titulo }}</h4>
   </v-sheet>
 </template>
 
@@ -17,9 +22,9 @@ export default {
   props: {
     cardInfo: {
       type: Object,
-      required: true
-    }
-  }
+      required: true,
+    },
+  },
 };
 </script>
 

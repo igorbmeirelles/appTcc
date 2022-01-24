@@ -2,7 +2,11 @@
   <hello-world v-if="$vuetify.breakpoint.smAndUp" />
   <div class="d-flex justify-space-between flex-wrap pa-7" v-else>
     <template v-for="(item, i) in items">
-      <CardTopicos @click="$router.push(`${item.route}`)" :cardInfo="item" :key="i" />
+      <CardTopicos
+        @click="$router.push(`${item.route}`)"
+        :cardInfo="item"
+        :key="i"
+      />
     </template>
   </div>
 </template>
@@ -10,12 +14,12 @@
 <script>
 import HelloWorld from "../components/HelloWorld";
 import CardTopicos from "../components/CardTopicos";
-import TopicosIST from "@/data/TopicosIST.js"
+import TopicosIST from "@/data/TopicosIST.js";
 export default {
   name: "Home",
 
   data: () => ({
-    items: TopicosIST
+    items: TopicosIST,
   }),
   components: {
     HelloWorld,

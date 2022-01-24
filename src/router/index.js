@@ -1,7 +1,7 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
-import AboutPage from "@/views/About/Index.vue"
+import AboutPage from "@/views/About/Index.vue";
 import AboutComponent from "../components/About.vue";
 
 Vue.use(VueRouter);
@@ -12,7 +12,7 @@ const routes = [
     name: "Home",
     component: Home,
     meta: {
-      title: "Home"
+      title: "Home",
     },
   },
   {
@@ -22,15 +22,13 @@ const routes = [
       {
         path: ":id",
         meta: {
-          title: "Sobre"
+          title: "Sobre",
         },
-        component: AboutComponent
-      }
-    ]
+        component: AboutComponent,
+      },
+    ],
   },
 ];
-
-
 
 const router = new VueRouter({
   mode: "history",

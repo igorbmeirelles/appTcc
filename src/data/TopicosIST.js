@@ -524,7 +524,7 @@ export default [
         </li>
       <ul>
     </article>
-    `
+    `,
   },
   {
     titulo: "Puberdade",
@@ -619,7 +619,7 @@ export default [
         </li>
       <ul>
     </article>
-    `
+    `,
   },
   {
     titulo: "Métodos contraceptivos",
@@ -811,7 +811,7 @@ export default [
         
       <ol>
     </article>
-    `
+    `,
   },
   {
     titulo: "Violência Sexual ",
@@ -842,6 +842,6 @@ export default [
       />
     </figure>
     </article>
-    `
+    `,
   },
-]
+];

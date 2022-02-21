@@ -380,6 +380,27 @@ export default [
         </p>
       </article>
     </li>
+    <li>
+    <strong>Herpes</strong>
+    <article>
+      Herpes genital: o vírus é conhecido como herpes simples — herpes vírus tipo 2 (HSV-2). 
+      Infecção caracterizada pelo aparecimento de vesículas, bolhas e úlceras na pele. 
+      Pode causar dor local. Na época de cicatrização, causa coceira e descamação nas lesões. 
+      As bolhas e vesículas se tornam úlceras. 
+      É transmitida pela secreção das vesículas. 
+      Portanto, deve-se evitar o contato com a região afetada pela doença. 
+      É sempre bom observar áreas próximas aos genitais, pois sabemos que a camisinha só cobre área específica.
+      <figure class="d-flex align-center">
+        <img class="mx-auto" style="max-width: 49%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fherpes1.jpg?alt=media&token=60cbaa88-81d4-47aa-911f-89c7b1197701" />
+        <img class="mx-auto" style="max-width: 49%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fherpes2.jpg?alt=media&token=4b22ee3e-4912-456f-b198-efb332f6c7ec" />
+      </figure>
+      <p class="mt-3 text-caption text-center">
+        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+        serviço de saúde para o diagnóstico correto e indicação do tratamento
+        adequado
+      </p>
+    </article>
+  </li>
   </ol>
 </article>
     `,

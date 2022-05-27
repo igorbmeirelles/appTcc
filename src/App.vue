@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar v-if="this.$vuetify.breakpoint.xs" flat app color="cyan" dark>
+    <v-app-bar v-if="this.$vuetify.breakpoint.xs && !showSplashScreen" flat app color="cyan" dark>
       <v-btn
         icon
         @click="$router.push('/')"
@@ -12,18 +12,26 @@
     </v-app-bar>
 
     <v-main>
+      <splash-screen v-if="showSplashScreen" />
       <router-view />
     </v-main>
   </v-app>
 </template>
 
 <script>
+import SplashScreen from "./components/SplashScreen.vue";
 export default {
   name: "App",
-
+  components: { SplashScreen },
   data: () => ({
-    //
+    timer: 4,
+    showSplashScreen: true 
   }),
+  created() {
+    setTimeout(() => {
+      this.showSplashScreen = false;
+    }, this.timer * 1000);
+  }
 };
 </script>
 

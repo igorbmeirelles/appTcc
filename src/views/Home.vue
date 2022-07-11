@@ -25,6 +25,9 @@ export default {
     HelloWorld,
     CardTopicos,
   },
+  created() {
+    this.$ga.page("/home")
+  }
 };
 </script>
 

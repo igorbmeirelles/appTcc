@@ -15,7 +15,7 @@
 import HelloWorld from "../components/HelloWorld";
 import CardTopicos from "../components/CardTopicos";
 import TopicosIST from "@/data/TopicosIST.js";
-import { logarEescrever, escreverResposta } from "../data/db";
+import { logarEescrever } from "../data/db";
 export default {
   name: "Home",
 
@@ -28,9 +28,12 @@ export default {
   },
   created() {
     this.$ga.page("/home");
-    logarEescrever({
-      data: new Date().toLocaleDateString("pt-BR"),
-    });
+    if (!this.$cookies.get("acessado")) {
+      logarEescrever({
+        data: new Date().toLocaleDateString("pt-BR"),
+      });
+      this.$cookies.set("acessado", "true")
+    }
   },
 };
 </script>

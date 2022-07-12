@@ -4,17 +4,17 @@ import router from "./router";
 import store from "./store";
 import vuetify from "./plugins/vuetify";
 import "./registerServiceWorker";
-import VueAnalytics from 'vue-analytics';
-import VueCookies from 'vue-cookies'
+import VueAnalytics from "vue-analytics";
+import VueCookies from "vue-cookies";
 
 Vue.config.productionTip = false;
 
 Vue.use(VueAnalytics, {
-  id: 'G-QMPCSNBKK4',
-  router
+  id: "G-QMPCSNBKK4",
+  router,
 });
 
-Vue.use(VueCookies, { expire: '2h'})
+Vue.use(VueCookies, { expires: "2h" });
 
 new Vue({
   router,

@@ -28,7 +28,7 @@ export default {
   },
   created() {
     this.$ga.page("/home");
-    if (!this.$cookies.get("acessado")) {
+    if (!this.$cookies.get("acessado") && process.env.NODE_ENV === "production") {
       logarEescrever({
         data: new Date().toLocaleDateString("pt-BR"),
       });

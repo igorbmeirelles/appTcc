@@ -6,6 +6,10 @@ import vuetify from "./plugins/vuetify";
 import "./registerServiceWorker";
 import VueAnalytics from "vue-analytics";
 import VueCookies from "vue-cookies";
+import VueApexCharts from 'vue-apexcharts'
+Vue.use(VueApexCharts)
+
+Vue.component('apexchart', VueApexCharts)
 
 Vue.config.productionTip = false;
 

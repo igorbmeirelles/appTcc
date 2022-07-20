@@ -3,6 +3,7 @@ import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
 import AboutPage from "@/views/About/Index.vue";
 import AboutComponent from "../components/About.vue";
+import Dados from "../views/Dados.vue";
 
 Vue.use(VueRouter);
 
@@ -27,6 +28,13 @@ const routes = [
         component: AboutComponent,
       },
     ],
+  },
+  {
+    path: "/dados",
+    component: Dados,
+    meta: {
+      title: "Dados"
+    },
   },
 ];
 

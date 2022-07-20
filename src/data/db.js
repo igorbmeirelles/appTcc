@@ -19,3 +19,12 @@ export async function escreverResposta(resposta) {
       console.error(error);
     });
 }
+
+export async function fbCollection(colecao) {
+  const snapshot = await firebaseApp.firestore().collection(colecao).get()
+  const arrayRetorno = []
+  snapshot.docs.forEach((doc) => {
+    arrayRetorno.push(doc.data())
+  })
+  return arrayRetorno
+}

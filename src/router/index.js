@@ -31,6 +31,7 @@ const routes = [
   },
   {
     path: "/dados",
+    name: "Dados",
     component: Dados,
     meta: {
       title: "Dados"

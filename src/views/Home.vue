@@ -28,11 +28,14 @@ export default {
   },
   created() {
     this.$ga.page("/home");
-    if (!this.$cookies.get("acessado") && process.env.NODE_ENV === "production") {
+    if (
+      !this.$cookies.get("acessado") &&
+      process.env.NODE_ENV === "production"
+    ) {
       logarEescrever({
         data: new Date().toLocaleDateString("pt-BR"),
       });
-      this.$cookies.set("acessado", "true")
+      this.$cookies.set("acessado", "true");
     }
   },
 };

@@ -9,11 +9,36 @@
       >
         <v-icon>mdi-chevron-left</v-icon>
       </v-btn> -->
+      <v-app-bar-nav-icon
+        @click.stop="drawer = !drawer"
+        v-if="this.$vuetify.breakpoint.xs"
+      ></v-app-bar-nav-icon>
       <h2 class="header-text">Prev-IST</h2>
       <v-spacer></v-spacer>
-      <v-btn text class="links" @click="$router.push('/')">Início</v-btn>
-      <v-btn text class="links" @click="$router.push('/quemsomos')">Quem somos</v-btn>
+      <div v-if="!$vuetify.breakpoint.xs">
+        <v-btn text class="links" @click="$router.push('/')">Início</v-btn>
+        <v-btn text class="links" @click="$router.push('/quemsomos')">
+          Quem somos
+        </v-btn>
+      </div>
     </v-app-bar>
+
+    <v-navigation-drawer v-model="drawer" absolute temporary>
+      <v-list nav dense>
+        <v-list-item-group
+          v-model="group"
+          active-class="blue lighten-4 text--accent-4"
+        >
+          <v-list-item @click="$router.push('/')">
+            <v-list-item-title>Início</v-list-item-title>
+          </v-list-item>
+
+          <v-list-item @click="$router.push('/quemsomos')">
+            <v-list-item-title>Quem Somos</v-list-item-title>
+          </v-list-item>
+        </v-list-item-group>
+      </v-list>
+    </v-navigation-drawer>
 
     <v-main>
       <splash-screen v-if="showSplashScreen" />
@@ -30,6 +55,8 @@ export default {
   data: () => ({
     timer: 4,
     showSplashScreen: true,
+    drawer: false,
+    group: "",
   }),
   created() {
     setTimeout(() => {

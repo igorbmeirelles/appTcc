@@ -23,10 +23,18 @@
         </v-col>
 
         <v-col class="col-9 px-4 py-3 overflow-auto">
-          <h2 class="mb-3">{{ itemExibido.titulo }}</h2>
-
-          <div v-html="itemExibido.textoHtml"></div>
-
+          <template v-if="selectedItem != 7">
+            <h2 class="mb-3">{{ itemExibido.titulo }}</h2>
+            <div v-html="itemExibido.textoHtml"></div>
+          </template>
+          <template v-else>
+            <h2 class="mb-3">Deixe sua opinião</h2>
+            <v-textarea
+              label="Diga o que achou do aplicativo"
+              outlined
+              auto-grow
+            ></v-textarea>
+          </template>
           <div class="d-flex px-4 mt-5">
             <v-btn
               v-if="selectedItem != 0"
@@ -58,7 +66,7 @@ export default {
   },
   data: () => ({
     selectedItem: 0,
-    items: TopicosIST,
+    items: [...TopicosIST, { titulo: "Deixe sua opinião" }],
   }),
 };
 </script>

@@ -4,6 +4,7 @@ import Home from "../views/Home.vue";
 import AboutPage from "@/views/About/Index.vue";
 import AboutComponent from "../components/About.vue";
 import Dados from "../views/Dados.vue";
+import QuemSomos from "../views/QuemSomos.vue";
 
 Vue.use(VueRouter);
 
@@ -34,7 +35,15 @@ const routes = [
     name: "Dados",
     component: Dados,
     meta: {
-      title: "Dados"
+      title: "Dados",
+    },
+  },
+  {
+    path: "/quemSomos",
+    name: "QuemSomos",
+    component: QuemSomos,
+    meta: {
+      title: "Quem Somos",
     },
   },
 ];

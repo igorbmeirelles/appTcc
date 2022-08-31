@@ -1,5 +1,5 @@
 <template>
-  <div class="pa-4">
+  <main class="pa-4">
     <h2 class="mb-3">{{ itemExibido.titulo }}</h2>
     <div v-html="itemExibido.textoHtml">
       Olá! Sejam todos Bem-vindos ao <strong> PREV-IST</strong>, aqui você
@@ -18,7 +18,7 @@
       as abas, esclareçam suas dúvidas e compartilhem com seus amigos e
       familiares. Informação e saúde para todos!
     </div>
-  </div>
+  </main>
 </template>
 
 <script>
@@ -26,7 +26,7 @@ import TopicosIST from "@/data/TopicosIST";
 export default {
   computed: {
     itemExibido() {
-      return this.items[this.$route.params.id];
+      return this.items[this.$route.params.id - 1];
     },
   },
   data: () => ({
@@ -46,5 +46,12 @@ ol li {
 ul li {
   list-style: none;
   padding: 0;
+}
+</style>
+
+<style scoped>
+main {
+  max-width: 47.5rem;
+  margin: auto;
 }
 </style>

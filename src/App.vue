@@ -1,20 +1,18 @@
 <template>
   <v-app>
-    <v-app-bar
-      v-if="this.$vuetify.breakpoint.xs && !showSplashScreen"
-      flat
-      app
-      color="cyan"
-      dark
-    >
-      <v-btn
+    <!-- v-if="this.$vuetify.breakpoint.xs && !showSplashScreen" -->
+    <v-app-bar v-if="!showSplashScreen" flat color="white" app>
+      <!-- <v-btn
         icon
         @click="$router.push('/')"
         v-if="$router.currentRoute.path.includes('about')"
       >
         <v-icon>mdi-chevron-left</v-icon>
-      </v-btn>
-      <h3>Prev IST</h3>
+      </v-btn> -->
+      <h2 class="header-text">Prev-IST</h2>
+      <v-spacer></v-spacer>
+      <v-btn text class="links" @click="$router.push('/')">Início</v-btn>
+      <v-btn text class="links" @click="$router.push('/quemsomos')">Quem somos</v-btn>
     </v-app-bar>
 
     <v-main>
@@ -43,10 +41,22 @@ export default {
 
 <style>
 * {
-  font-family: "Maven Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "Poppins", Roboto, sans-serif;
 }
-.v-main {
-  background-color: whitesmoke !important;
+body {
+  background-color: white;
+}
+</style>
+
+<style scoped>
+.header-text {
+  background-image: linear-gradient(to bottom, #00b4db, #0083b0);
+  background-clip: text;
+  -webkit-background-clip: text; /* Alguns navegadores precisam do prefixo */
+  -webkit-text-fill-color: transparent;
+}
+::v-deep .links {
+  font-family: "Poppins" !important;
+  text-transform: none;
 }
 </style>

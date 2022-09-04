@@ -2,16 +2,16 @@
   <v-app>
     <!-- v-if="this.$vuetify.breakpoint.xs && !showSplashScreen" -->
     <v-app-bar v-if="!showSplashScreen" flat color="white" app>
-      <!-- <v-btn
+      <v-btn
         icon
         @click="$router.push('/')"
-        v-if="$router.currentRoute.path.includes('about')"
+        v-if="$router.currentRoute.path != '/'"
       >
-        <v-icon>mdi-chevron-left</v-icon>
-      </v-btn> -->
+        <v-icon> mdi-arrow-left </v-icon>
+      </v-btn>
       <v-app-bar-nav-icon
         @click.stop="drawer = !drawer"
-        v-if="this.$vuetify.breakpoint.xs"
+        v-if="this.$vuetify.breakpoint.xs && $router.currentRoute.path == '/'"
       ></v-app-bar-nav-icon>
       <h2 class="header-text">Prev-IST</h2>
       <v-spacer></v-spacer>
@@ -25,10 +25,7 @@
 
     <v-navigation-drawer v-model="drawer" absolute temporary>
       <v-list nav dense>
-        <v-list-item-group
-          v-model="group"
-          active-class="blue lighten-4 text--accent-4"
-        >
+        <v-list-item-group>
           <v-list-item @click="$router.push('/')">
             <v-list-item-title>Início</v-list-item-title>
           </v-list-item>

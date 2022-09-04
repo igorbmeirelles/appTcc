@@ -25,15 +25,13 @@
 
     <v-navigation-drawer v-model="drawer" absolute temporary>
       <v-list nav dense>
-        <v-list-item-group>
-          <v-list-item @click="$router.push('/')">
-            <v-list-item-title>Início</v-list-item-title>
-          </v-list-item>
+        <v-list-item @click="$router.push('/')">
+          <v-list-item-title>Início</v-list-item-title>
+        </v-list-item>
 
-          <v-list-item @click="$router.push('/quemsomos')">
-            <v-list-item-title>Quem Somos</v-list-item-title>
-          </v-list-item>
-        </v-list-item-group>
+        <v-list-item @click="$router.push('/quemsomos')">
+          <v-list-item-title>Quem Somos</v-list-item-title>
+        </v-list-item>
       </v-list>
     </v-navigation-drawer>
 

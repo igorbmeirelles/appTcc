@@ -1,11 +1,11 @@
 <template>
   <v-app>
     <!-- v-if="this.$vuetify.breakpoint.xs && !showSplashScreen" -->
-    <v-app-bar v-if="!showSplashScreen" flat color="white" app>
+    <v-app-bar v-if="!showSplashScreen" flat color="cyan" app dark>
       <v-btn
         icon
         @click="$router.push('/')"
-        v-if="$router.currentRoute.path != '/'"
+        v-if="$vuetify.breakpoint.xs && $router.currentRoute.path != '/'"
       >
         <v-icon> mdi-arrow-left </v-icon>
       </v-btn>
@@ -13,7 +13,7 @@
         @click.stop="drawer = !drawer"
         v-if="this.$vuetify.breakpoint.xs && $router.currentRoute.path == '/'"
       ></v-app-bar-nav-icon>
-      <h2 class="header-text">Prev-IST</h2>
+      <h3>Prev-IST</h3>
       <v-spacer></v-spacer>
       <div v-if="!$vuetify.breakpoint.xs">
         <v-btn text class="links" @click="$router.push('/')">Início</v-btn>

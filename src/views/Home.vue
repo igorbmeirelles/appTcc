@@ -1,13 +1,19 @@
 <template>
-  <v-container class="d-flex justify-space-between">
-    <!-- <v-img
+  <!-- <v-img
       v-if="this.$vuetify.breakpoint.smAndUp"
       max-width="586"
       max-height="586"
       contain
       src="../assets/research.png"
     /> -->
-    <div style="display: flex; justify-content: center; margin-top: 32px" v-if="this.$vuetify.breakpoint.smAndUp">
+  <v-container
+    class="d-flex justify-space-between"
+    v-if="!$vuetify.breakpoint.xs"
+  >
+    <div
+      style="display: flex; justify-content: center; margin-top: 32px"
+      v-if="this.$vuetify.breakpoint.smAndUp"
+    >
       <video width="80%" max-height="400" controls>
         <source
           src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fprev_ist.mp4?alt=media&token=1ad475a2-af82-4a77-b5c0-d31d2ebe7038"
@@ -44,14 +50,26 @@
       </div>
     </main>
   </v-container>
+  <div class="d-flex justify-space-between flex-wrap pa-7" v-else>
+    <template v-for="(item, i) in items">
+      <CardTopicos
+        @click="$router.push(`${item.route}`)"
+        :cardInfo="item"
+        :key="i"
+      />
+    </template>
+  </div>
 </template>
 
 <script>
 import TopicosIST from "@/data/TopicosIST.js";
 import { logarEescrever } from "../data/db";
+import CardTopicos from "../components/CardTopicos";
 export default {
   name: "Home",
-
+  components: {
+    CardTopicos,
+  },
   data: () => ({
     items: TopicosIST,
   }),
@@ -88,9 +106,9 @@ main {
   max-width: calc(22.5rem - 1rem);
 }
 
-@media (max-width: 600px ) {
+@media (max-width: 600px) {
   main {
-    margin:auto
+    margin: auto;
   }
 }
 p {

@@ -63,6 +63,17 @@
     </footer>
   </main>
 </template>
+<script>
+export default {
+  mounted() {
+    if (process.env.NODE_ENV === "production") {
+      this.$firebase.analytics().logEvent("screen_view", {
+        screen_name: "quem somos"
+      });
+    }
+  },
+}
+</script>
 <style scoped>
 main {
   max-width: 47.5rem;

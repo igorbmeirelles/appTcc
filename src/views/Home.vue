@@ -75,7 +75,9 @@ export default {
   }),
   mounted() {
     if (process.env.NODE_ENV === "production") {
-      this.$firebase.analytics().logEvent("screen_view");
+      this.$firebase.analytics().logEvent("screen_view", {
+        screen_name: "pagina inicial"
+      });
     }
   },
   created() {

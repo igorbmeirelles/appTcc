@@ -32,6 +32,13 @@ export default {
   data: () => ({
     items: TopicosIST,
   }),
+  mounted() {
+    if (process.env.NODE_ENV === "production") {
+      this.$firebase.analytics().logEvent("screen_view", {
+        screen_name: this.itemExibido.titulo,
+      });
+    }
+  },
 };
 </script>
 

@@ -7,7 +7,10 @@ import "./registerServiceWorker";
 import VueAnalytics from "vue-analytics";
 import VueCookies from "vue-cookies";
 import VueApexCharts from 'vue-apexcharts'
+import firebase from './plugins/firebase'
+
 Vue.use(VueApexCharts)
+Vue.use(firebase)
 
 Vue.component('apexchart', VueApexCharts)
 

@@ -419,7 +419,7 @@ export default [
     da transmissão vertical do HIV; o tratamento das IST´s e das hepatites virais; a imunização para as 
     hepatites A e B; a redução de danos para usuários de álcool e outras drogas; a profilaxia pré-exposição 
     (PrEP); a profilaxia pós-exposição (PEP); e a terapia anti-retroviral (TARV). 
-
+    
     <figure class="d-flex  align-center flex-column">
       <img
         contain
@@ -454,6 +454,13 @@ export default [
         <li>
           <strong>-	Profilaxia  Pré-Exposição (PreEP)</strong>
           <p>
+          <video width="240" max-height="240" controls style="display: block; margin: 16px auto">
+            <source
+              src="https://firebasestorage.googleapis.com/v0/b/previst-fb735.appspot.com/o/video_prevencao_combinada.mp4?alt=media&token=09111cfd-e342-4b74-b96b-ba49bc21c2ec"
+              type="video/mp4"
+            />
+            Your browser does not support the video tag.
+          </video>
           A Profilaxia Pré-Exposição ao HIV é o método de prevenção à infecção pelo HIV. 
           Esse tratamento consiste na tomada diária de um comprimido que permite ao organismo estar preparado 
           para enfrentar um possível contato com o vírus do HIV. <br/> <br/>

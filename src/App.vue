@@ -21,6 +21,15 @@
           Quem somos
         </v-btn>
       </div>
+      <v-btn depressed class="links" color="blue lighten-2" max-width="150">
+        <a
+          href="https://forms.gle/wwXZevP5VRK73j9a8"
+          class="link d-block text-decoration-none white--text"
+          target="_blank"
+        >
+          Dúvidas
+        </a>
+      </v-btn>
     </v-app-bar>
 
     <v-navigation-drawer v-model="drawer" absolute temporary>

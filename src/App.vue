@@ -48,6 +48,12 @@
       <splash-screen v-if="showSplashScreen" />
       <router-view />
     </v-main>
+
+    <v-footer v-if="!showSplashScreen && $route.path == '/'" color="cyan">
+      <h5 class="font-weight-medium white--text">
+        Certificado de Registro de Programa de Computador: BR512022002669-4
+      </h5>
+    </v-footer>
   </v-app>
 </template>
 

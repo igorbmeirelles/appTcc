@@ -23,8 +23,53 @@ export default [
   // `,
   // },
   {
-    titulo: "O que é IST?",
+    titulo: "Prêmios",
     route: "/about/1",
+    icon: "recompensa.png",
+    textoHtml: `
+    <div class="flex-grow-1">
+        <h1 class="gradient-text d-flex align-center">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/4604/4604793.png"
+            class="mr-3"
+            style="max-width: 32px; max-height: 32px"
+          ></img>
+          Prêmios
+        </h1>
+        <article class="my-3">
+          <h2 class="d-flex align-center">
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
+              class="mr-3"
+              style="max-width: 24px; max-height: 24px"
+            ></v-img>
+            <span> 17 <sup>a</sup> Semana científica HESFA/UFRJ</span>
+          </h2>
+          <p class="px-2 font-weight-medium">
+            1 <sup class="text-decoration-underline">o</sup> lugar na categoria
+            Emergências e reemergências em Saúde
+          </p>
+        </article>
+        <article class="my-3">
+          <h2 class="d-flex align-center">
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
+              class="mr-3"
+              style="max-width: 24px; max-height: 24px"
+            ></v-img>
+            <span> XXIV SEMANA CIENTÍFICA DA EEAAC - UFF</span>
+          </h2>
+          <p class="px-2 font-weight-medium">
+            1 <sup class="text-decoration-underline">o</sup> lugar Prêmio
+            Rosalda da Cruz Nogueira Paim Saúde
+          </p>
+        </article>
+      </div>
+    `,
+  },
+  {
+    titulo: "O que é IST?",
+    route: "/about/2",
     icon: "ponto-de-interrogacao.png",
     textoHtml: `<article>As Infecções Sexualmente Transmissíveis (IST) são ocasionadas por fungos, 
     bactérias, vírus ou outros microrganismos.  
@@ -407,7 +452,7 @@ export default [
   },
   {
     titulo: "Prevenção Combinada",
-    route: "/about/2",
+    route: "/about/3",
     icon: "sintomas.png",
     textoHtml: `
     <article>
@@ -556,7 +601,7 @@ export default [
   },
   {
     titulo: "Puberdade",
-    route: "/about/3",
+    route: "/about/4",
     icon: "letra-p.png",
     textoHtml: `
     <article>
@@ -651,7 +696,7 @@ export default [
   },
   {
     titulo: "Métodos contraceptivos",
-    route: "/about/4",
+    route: "/about/5",
     icon: "pilulas.png",
     textoHtml: `
     <article>
@@ -843,7 +888,7 @@ export default [
   },
   {
     titulo: "Violência Sexual ",
-    route: "/about/5",
+    route: "/about/6",
     icon: "violencia.png",
     textoHtml: `
     <article>
@@ -874,7 +919,7 @@ export default [
   },
   {
     titulo: "Videos",
-    route: "/about/6",
+    route: "/about/7",
     icon: "video.png",
     textoHtml: `
     <div class="d-flex align-center flex-column" style="gap: 0.5rem">

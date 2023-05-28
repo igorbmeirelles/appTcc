@@ -11,9 +11,50 @@
     v-if="!$vuetify.breakpoint.xs"
   >
     <div
-      style="display: flex; justify-content: center; margin-top: 32px"
+      class="d-flex flex-column justify-center"
       v-if="this.$vuetify.breakpoint.smAndUp"
     >
+      <div class="flex-grow-1">
+        <h1 class="gradient-text d-flex align-center">
+          <v-img
+            src="../assets/icons/recompensa.png"
+            class="mr-3"
+            max-width="32"
+            max-height="32"
+          ></v-img>
+          Prêmios
+        </h1>
+        <article class="my-3">
+          <h2 class="d-flex align-center">
+            <v-img
+              src="../assets/icons/medalha.png"
+              class="mr-3"
+              max-width="24"
+              max-height="24"
+            ></v-img>
+            <span> 17 <sup>a</sup> Semana científica HESFA/UFRJ</span>
+          </h2>
+          <p class="px-2 font-weight-medium">
+            1 <sup class="text-decoration-underline">o</sup> lugar na categoria
+            Emergências e reemergências em Saúde
+          </p>
+        </article>
+        <article class="my-3">
+          <h2 class="d-flex align-center">
+            <v-img
+              src="../assets/icons/medalha.png"
+              class="mr-3"
+              max-width="24"
+              max-height="24"
+            ></v-img>
+            <span> XXIV SEMANA CIENTÍFICA DA EEAAC - UFF</span>
+          </h2>
+          <p class="px-2 font-weight-medium">
+            1 <sup class="text-decoration-underline">o</sup> lugar Prêmio
+            Rosalda da Cruz Nogueira Paim Saúde
+          </p>
+        </article>
+      </div>
       <video width="80%" max-height="400" controls>
         <source
           src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fprev_ist.mp4?alt=media&token=1ad475a2-af82-4a77-b5c0-d31d2ebe7038"
@@ -34,6 +75,7 @@
       <div class="d-flex flex-wrap">
         <template v-for="(item, i) in items">
           <div
+            v-show="item.titulo !== 'Prêmios'"
             class="mb-2 mr-2 blue lighten-4 home-button rounded"
             @click="$router.push(item.route)"
             v-ripple
@@ -76,7 +118,7 @@ export default {
   mounted() {
     if (process.env.NODE_ENV === "production") {
       this.$firebase.analytics().logEvent("screen_view", {
-        screen_name: "pagina inicial"
+        screen_name: "pagina inicial",
       });
     }
   },
@@ -134,5 +176,15 @@ p {
 
 .home-button span {
   font-size: 0.75rem;
+}
+
+.gradient-text {
+  background: linear-gradient(
+    to top right,
+    rgba(19, 84, 122, 0.8),
+    rgba(128, 208, 199, 0.8)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 </style>

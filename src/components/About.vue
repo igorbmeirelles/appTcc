@@ -1,23 +1,9 @@
 <template>
   <main class="pa-4">
-    <h2 class="mb-3">{{ itemExibido.titulo }}</h2>
-    <div v-html="itemExibido.textoHtml">
-      Olá! Sejam todos Bem-vindos ao <strong> PREV-IST</strong>, aqui você
-      poderá encontrar diversas informações sobre as Infecções Sexualmente
-      Transmissíveis (IST), assim como, suas formas de prevenção e diagnósticos,
-      sobre as diferenças corporais causadas pela puberdade, sobre os métodos
-      contraceptivos e muitos outros conteúdos.
-
-      <br />
-      <br />
-
-      Esse aplicativo surgiu como parte do trabalho de conclusão de curso do
-      graduando João Victor Manço Resende da Escola de Enfermagem Aurora de
-      Afonso Costa da Universidade Federal Fluminense (EEAAC-UFF), orientado
-      pelo Dr. Jorge Luiz Lima da Silva. Aproveitem o aplicativo, explorem todas
-      as abas, esclareçam suas dúvidas e compartilhem com seus amigos e
-      familiares. Informação e saúde para todos!
-    </div>
+    <h2 v-if="itemExibido.titulo !== 'Prêmios'" class="mb-3">
+      {{ itemExibido.titulo }}
+    </h2>
+    <div v-html="itemExibido.textoHtml"></div>
   </main>
 </template>
 
@@ -60,5 +46,15 @@ ul li {
 main {
   max-width: 47.5rem;
   margin: auto;
+}
+
+::v-deep .gradient-text {
+  background: linear-gradient(
+    to top right,
+    rgba(19, 84, 122, 0.8),
+    rgba(128, 208, 199, 0.8)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 </style>

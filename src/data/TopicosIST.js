@@ -64,6 +64,22 @@ export default [
             Rosalda da Cruz Nogueira Paim Saúde
           </p>
         </article>
+          <h2 class="d-flex align-center">
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
+              class="mr-3"
+              style="max-width: 24px; max-height: 24px"
+            ></v-img>
+            <span>
+            <a target="_blank" href="http://www.coren-rj.org.br/coren-rj-divulga-lista-dos-profissionais-agraciados-para-o-premio-ivone-lara-a-saude-por-tras-do-samba_31800.html"> 
+            Ivone Lara - A enfermeira por trás do samba
+            </a>
+            </span>
+          </h2>
+          <p class="px-2 font-weight-medium">
+           Inovação sustentabilidade
+          </p>
+        </article>
       </div>
     `,
   },

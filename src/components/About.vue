@@ -4,6 +4,9 @@
       {{ itemExibido.titulo }}
     </h2>
     <div v-html="itemExibido.textoHtml"></div>
+    <v-dialog v-model="modalImagem" max-width="600">
+      <v-img :src="require(`../assets/${currentImage}`)" />
+    </v-dialog>
   </main>
 </template>
 
@@ -17,11 +20,23 @@ export default {
   },
   data: () => ({
     items: TopicosIST,
+    modalImagem: false,
+    currentImage: "corenrj.jpg",
   }),
   mounted() {
     if (process.env.NODE_ENV === "production") {
       this.$firebase.analytics().logEvent("screen_view", {
         screen_name: this.itemExibido.titulo,
+      });
+    }
+
+    if (this.itemExibido.titulo === "Prêmios") {
+      const certificadosLink = document.querySelectorAll(".certificado");
+      certificadosLink.forEach((link) => {
+        link.addEventListener("click", (event) => {
+          this.currentImage = event.target.getAttribute("open-image");
+          this.modalImagem = true;
+        });
       });
     }
   },

@@ -49,6 +49,9 @@ export default [
             1 <sup class="text-decoration-underline">o</sup> lugar na categoria
             Emergências e reemergências em Saúde
           </p>
+          <a class="certificado" open-image="cert17semanacientifica.png"> 
+            Certificação 
+          </a>
         </article>
         <article class="my-3">
           <h2 class="d-flex align-center">
@@ -63,6 +66,9 @@ export default [
             1 <sup class="text-decoration-underline">o</sup> lugar Prêmio
             Rosalda da Cruz Nogueira Paim Saúde
           </p>
+          <a class="certificado" open-image="certrosalda.png"> 
+            Certificação 
+          </a>
         </article>
           <h2 class="d-flex align-center">
             <img
@@ -71,15 +77,36 @@ export default [
               style="max-width: 24px; max-height: 24px"
             ></v-img>
             <span>
-            <a target="_blank" href="http://www.coren-rj.org.br/coren-rj-divulga-lista-dos-profissionais-agraciados-para-o-premio-ivone-lara-a-saude-por-tras-do-samba_31800.html"> 
-            Ivone Lara - A enfermeira por trás do samba
-            </a>
+              Ivone Lara - A enfermeira por trás do samba
             </span>
           </h2>
           <p class="px-2 font-weight-medium">
-           Inovação sustentabilidade
+            Inovação sustentabilidade
+          </p>
+          <a class="certificado" open-image="corenrj.jpg"> Certificação </a>
+          <p class="mt-2 mb-0">
+            <strong> Matérias na mídia: </strong>
+          </p>
+          <p>
+            <a target="_blank" href="http://www.coren-rj.org.br/coren-rj-divulga-lista-dos-profissionais-agraciados-para-o-premio-ivone-lara-a-saude-por-tras-do-samba_31800.html">
+              Coren-RJ divulga lista dos profissionais agraciados para o Prêmio Ivone Lara: a saúde por trás do samba
+            </a>
           </p>
         </article>
+
+        <h2 class="gradient-text">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/3208/3208892.png"
+            class="mr-3"
+            style="max-width: 24px; max-height: 24px"
+          ></img>  
+          Demais matérias de destaque
+        </h2>
+        <p>
+          <a target="_blank" href="https://www.uff.br/?q=noticias/08-02-2023/prev-ist-aplicativo-criado-por-aluno-da-uff-esclarece-duvidas-sobre-saude-sexual">
+            Prev-IST: aplicativo criado por aluno da UFF esclarece dúvidas sobre saúde sexual para diversos públicos
+          </a>
+        </p>
       </div>
     `,
   },
@@ -144,7 +171,7 @@ export default [
       <article>
         A <strong>Doença Inflamatória Pélvica (DIP)</strong> é uma síndrome causada
         por diversos microrganismos, ocorrendo em muitos casos quando não houve o
-        tratamento da infecção pela clamídia e clamídia. <br />
+        tratamento da infecção pela clamídia e gonorreia. <br />
         <br />
         Sua transmissão ocorre através da relação sexual desprotegida com pessoas
         infectadas, podendo levar homens e mulheres à infertilidade. Alguns de seus

@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.previst.twa",
+      "sha256_cert_fingerprints": [
+        "83:57:67:04:60:96:72:C4:5A:72:EA:81:B6:2D:39:20:37:D6:30:23:A9:0E:5E:80:8F:E5:0A:C0:0A:A4:00:8E"
+      ]
+    }
+  }
+]

@@ -23,96 +23,8 @@ export default [
   // `,
   // },
   {
-    titulo: "Prêmios",
-    route: "/about/1",
-    icon: "recompensa.png",
-    textoHtml: `
-    <div class="flex-grow-1">
-        <h1 class="gradient-text d-flex align-center">
-          <img
-            src="https://cdn-icons-png.flaticon.com/512/4604/4604793.png"
-            class="mr-3"
-            style="max-width: 32px; max-height: 32px"
-          ></img>
-          Prêmios
-        </h1>
-        <article class="my-3">
-          <h2 class="d-flex align-center">
-            <img
-              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
-              class="mr-3"
-              style="max-width: 24px; max-height: 24px"
-            ></v-img>
-            <span> 17 <sup>a</sup> Semana científica HESFA/UFRJ</span>
-          </h2>
-          <p class="px-2 font-weight-medium">
-            1 <sup class="text-decoration-underline">o</sup> lugar na categoria
-            Emergências e reemergências em Saúde
-          </p>
-          <a class="certificado" open-image="cert17semanacientifica.png"> 
-            Certificação 
-          </a>
-        </article>
-        <article class="my-3">
-          <h2 class="d-flex align-center">
-            <img
-              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
-              class="mr-3"
-              style="max-width: 24px; max-height: 24px"
-            ></v-img>
-            <span> XXIV SEMANA CIENTÍFICA DA EEAAC - UFF</span>
-          </h2>
-          <p class="px-2 font-weight-medium">
-            1 <sup class="text-decoration-underline">o</sup> lugar Prêmio
-            Rosalda da Cruz Nogueira Paim Saúde
-          </p>
-          <a class="certificado" open-image="certrosalda.png"> 
-            Certificação 
-          </a>
-        </article>
-          <h2 class="d-flex align-center">
-            <img
-              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
-              class="mr-3"
-              style="max-width: 24px; max-height: 24px"
-            ></v-img>
-            <span>
-              Ivone Lara - A enfermeira por trás do samba
-            </span>
-          </h2>
-          <p class="px-2 font-weight-medium">
-            Inovação sustentabilidade
-          </p>
-          <a class="certificado" open-image="corenrj.jpg"> Certificação </a>
-          <p class="mt-2 mb-0">
-            <strong> Matérias na mídia: </strong>
-          </p>
-          <p>
-            <a target="_blank" href="http://www.coren-rj.org.br/coren-rj-divulga-lista-dos-profissionais-agraciados-para-o-premio-ivone-lara-a-saude-por-tras-do-samba_31800.html">
-              Coren-RJ divulga lista dos profissionais agraciados para o Prêmio Ivone Lara: a saúde por trás do samba
-            </a>
-          </p>
-        </article>
-
-        <h2 class="gradient-text">
-          <img
-            src="https://cdn-icons-png.flaticon.com/512/3208/3208892.png"
-            class="mr-3"
-            style="max-width: 24px; max-height: 24px"
-          ></img>  
-          Demais matérias de destaque
-        </h2>
-        <p>
-          <a target="_blank" href="https://www.uff.br/?q=noticias/08-02-2023/prev-ist-aplicativo-criado-por-aluno-da-uff-esclarece-duvidas-sobre-saude-sexual">
-            Prev-IST: aplicativo criado por aluno da UFF esclarece dúvidas sobre saúde sexual para diversos públicos
-          </a>
-        </p>
-      </div>
-    `,
-  },
-  {
     titulo: "O que é IST?",
-    route: "/about/2",
+    route: "/about/3",
     icon: "ponto-de-interrogacao.png",
     textoHtml: `<article>As Infecções Sexualmente Transmissíveis (IST) são ocasionadas por fungos, 
     bactérias, vírus ou outros microrganismos.  
@@ -344,6 +256,12 @@ export default [
           />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
+        <div class="d-flex justify-center">
+          <video width="320" height="400" controls style="margin: auto;">
+            <source src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FVID-20230910-WA0096.mp4?alt=media&token=71427eaa-ea89-4c62-ba14-d057869fbfb9&_gl=1*5tae3u*_ga*MTYyMjY0NjkzMS4xNjk1ODU4NTA0*_ga_CW55HF8NVT*MTY5NTg1ODUwNC4xLjEuMTY5NTg1ODc0OS4yMi4wLjA." 
+                    type="video/mp4">
+          </video>
+        </div>
       </article>
 
       <p class="mt-3 text-caption text-center">
@@ -495,7 +413,7 @@ export default [
   },
   {
     titulo: "Prevenção Combinada",
-    route: "/about/3",
+    route: "/about/4",
     icon: "sintomas.png",
     textoHtml: `
     <article>
@@ -644,7 +562,7 @@ export default [
   },
   {
     titulo: "Puberdade",
-    route: "/about/4",
+    route: "/about/5",
     icon: "letra-p.png",
     textoHtml: `
     <article>
@@ -739,7 +657,7 @@ export default [
   },
   {
     titulo: "Métodos contraceptivos",
-    route: "/about/5",
+    route: "/about/6",
     icon: "pilulas.png",
     textoHtml: `
     <article>
@@ -931,7 +849,7 @@ export default [
   },
   {
     titulo: "Violência Sexual ",
-    route: "/about/6",
+    route: "/about/7",
     icon: "violencia.png",
     textoHtml: `
     <article>
@@ -962,7 +880,7 @@ export default [
   },
   {
     titulo: "Videos",
-    route: "/about/7",
+    route: "/about/8",
     icon: "video.png",
     textoHtml: `
     <div class="d-flex align-center flex-column" style="gap: 0.5rem">
@@ -990,6 +908,99 @@ export default [
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
       </iframe>
+      </div>
+    `,
+  },
+  {
+    titulo: "Sobre nós",
+    route: "/quemSomos",
+    icon: "sobre-nos.png",
+  },
+  {
+    titulo: "Prêmios",
+    route: "/about/1",
+    icon: "recompensa.png",
+    textoHtml: `
+    <div class="flex-grow-1">
+        <h1 class="gradient-text d-flex align-center">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/4604/4604793.png"
+            class="mr-3"
+            style="max-width: 32px; max-height: 32px"
+          ></img>
+          Prêmios
+        </h1>
+        <article class="my-3">
+          <h2 class="d-flex align-center">
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
+              class="mr-3"
+              style="max-width: 24px; max-height: 24px"
+            ></v-img>
+            <span> 17 <sup>a</sup> Semana científica HESFA/UFRJ</span>
+          </h2>
+          <p class="px-2 font-weight-medium">
+            1 <sup class="text-decoration-underline">o</sup> lugar na categoria
+            Emergências e reemergências em Saúde
+          </p>
+          <a class="certificado" open-image="cert17semanacientifica.png"> 
+            Certificação 
+          </a>
+        </article>
+        <article class="my-3">
+          <h2 class="d-flex align-center">
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
+              class="mr-3"
+              style="max-width: 24px; max-height: 24px"
+            ></v-img>
+            <span> XXIV SEMANA CIENTÍFICA DA EEAAC - UFF</span>
+          </h2>
+          <p class="px-2 font-weight-medium">
+            1 <sup class="text-decoration-underline">o</sup> lugar Prêmio
+            Rosalda da Cruz Nogueira Paim Saúde
+          </p>
+          <a class="certificado" open-image="certrosalda.png"> 
+            Certificação 
+          </a>
+        </article>
+          <h2 class="d-flex align-center">
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
+              class="mr-3"
+              style="max-width: 24px; max-height: 24px"
+            ></v-img>
+            <span>
+              Ivone Lara - A enfermeira por trás do samba
+            </span>
+          </h2>
+          <p class="px-2 font-weight-medium">
+            Inovação sustentabilidade
+          </p>
+          <a class="certificado" open-image="corenrj.jpg"> Certificação </a>
+          <p class="mt-2 mb-0">
+            <strong> Matérias na mídia: </strong>
+          </p>
+          <p>
+            <a target="_blank" href="http://www.coren-rj.org.br/coren-rj-divulga-lista-dos-profissionais-agraciados-para-o-premio-ivone-lara-a-saude-por-tras-do-samba_31800.html">
+              Coren-RJ divulga lista dos profissionais agraciados para o Prêmio Ivone Lara: a saúde por trás do samba
+            </a>
+          </p>
+        </article>
+
+        <h2 class="gradient-text">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/3208/3208892.png"
+            class="mr-3"
+            style="max-width: 24px; max-height: 24px"
+          ></img>  
+          Demais matérias de destaque
+        </h2>
+        <p>
+          <a target="_blank" href="https://www.uff.br/?q=noticias/08-02-2023/prev-ist-aplicativo-criado-por-aluno-da-uff-esclarece-duvidas-sobre-saude-sexual">
+            Prev-IST: aplicativo criado por aluno da UFF esclarece dúvidas sobre saúde sexual para diversos públicos
+          </a>
+        </p>
       </div>
     `,
   },

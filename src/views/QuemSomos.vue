@@ -21,17 +21,30 @@
     </div>
     <h3>Equipe envolvida</h3>
     <div>
-      <p>Igor Barreto Meirelles - Cederj - Ciências da Computação</p>
-      <p>João Victor Manço Resende - Acad. Enfermagem - Uff</p>
       <p>
-        Jorge Luiz Lima - Prof. Saúde coletiva e políticas públicas - Mep/ Uff
+        <a href="https://lattes.cnpq.br/6416930033138212" target="_blank">
+          Igor Barreto Meirelles - Cederj - Ciências da Computação
+        </a>
+      </p>
+      <p>
+        <a href="http://lattes.cnpq.br/6014894162579048" target="_blank">
+          João Victor Manço Resende - Enfermeiro - Uff
+        </a>
+      </p>
+      <p>
+        <a href="http://lattes.cnpq.br/8243099229156246" target="_blank"
+          >Jorge Luiz Lima - Prof. Saúde coletiva e políticas públicas - Mep/
+          Uff
+        </a>
       </p>
     </div>
 
     <h3 class="mt-4">
       Você sabia que a UFF tem um setor especializado em IST?
     </h3>
-    <a href="http://www.dst.uff.br/" target="_blank">saiba mais clicando aqui</a>
+    <a href="http://www.dst.uff.br/" target="_blank"
+      >saiba mais clicando aqui</a
+    >
     <address>
       <p>
         Localizado em:
@@ -49,10 +62,83 @@
       <p>Aberto 09h ⋅ Fecha às 22h</p>
       <p>Telefone: (21) 2629-2494</p>
     </address>
-    <h3>Diga o que achou do aplicativo</h3>
+    <h3>Sugestões e dúvidas sobre o conteúdo</h3>
     <a href="https://forms.gle/wwXZevP5VRK73j9a8" class="link" target="_blank">
       Deixe sua opinião clicando aqui!
     </a>
+
+    <h3>Nossas redes sociais</h3>
+    <div class="my-3 d-flex align-center">
+      <v-img
+        src="https://cdn-icons-png.flaticon.com/512/174/174855.png"
+        width="24"
+        max-width="24"
+        height="24"
+        max-height="24"
+      />
+
+      <a
+        class="ml-2"
+        href="https://www.instagram.com/espacoabertosaudeuff/"
+        target="_blank"
+      >
+        @espacoabertosaudeuff
+      </a>
+    </div>
+
+    <div class="my-3 d-flex align-center">
+      <v-img
+        src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
+        width="24"
+        max-width="24"
+        height="24"
+        max-height="24"
+      />
+
+      <a
+        class="ml-2"
+        href="https://www.youtube.com/@EspacoAbertoparaSaudeUFF"
+        target="_blank"
+      >
+        @EspacoAbertoparaSaudeUFF
+      </a>
+    </div>
+
+    <div class="my-3 d-flex align-center">
+      <v-img
+        src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
+        width="24"
+        max-width="24"
+        height="24"
+        max-height="24"
+      />
+
+      <a
+        class="ml-2"
+        href="https://www.youtube.com/@CienciaSaudeUFF"
+        target="_blank"
+      >
+        @CienciaSaudeUFF
+      </a>
+    </div>
+
+    <div class="my-3 d-flex align-center">
+      <v-img
+        src="https://cdn-icons-png.flaticon.com/512/733/733547.png"
+        width="24"
+        max-width="24"
+        height="24"
+        max-height="24"
+      />
+
+      <a
+        class="ml-2"
+        href="https://www.facebook.com/EspacoAbertoParaSaude"
+        target="_blank"
+      >
+        EspacoAbertoParaSaude
+      </a>
+    </div>
 
     <footer class="mt-4 pb-4">
       Este produto faz parte do Programa de Ensino Pesquisa e Extensão Espaço
@@ -68,11 +154,11 @@ export default {
   mounted() {
     if (process.env.NODE_ENV === "production") {
       this.$firebase.analytics().logEvent("screen_view", {
-        screen_name: "quem somos"
+        screen_name: "quem somos",
       });
     }
   },
-}
+};
 </script>
 <style scoped>
 main {

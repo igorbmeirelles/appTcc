@@ -15,9 +15,6 @@ import TopicosIST from "@/data/TopicosIST";
 export default {
   computed: {
     itemExibido() {
-      console.log(
-        this.items.find((item) => item.route.includes(this.$route.params.id))
-      );
       return this.items.find((item) =>
         item.route.includes(this.$route.params.id)
       );

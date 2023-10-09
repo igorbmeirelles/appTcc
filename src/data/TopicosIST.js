@@ -920,6 +920,11 @@ export default [
     `,
   },
   {
+    titulo: "Unidades de Saúde",
+    route: "/unidadesdesaude",
+    icon: "saude.png",
+  },
+  {
     titulo: "Sobre nós",
     route: "/quemSomos",
     icon: "sobre-nos.png",

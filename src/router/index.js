@@ -5,6 +5,7 @@ import AboutPage from "@/views/About/Index.vue";
 import AboutComponent from "../components/About.vue";
 import Dados from "../views/Dados.vue";
 import QuemSomos from "../views/QuemSomos.vue";
+import HealthUnities from "../views/HealthUnities.vue";
 
 Vue.use(VueRouter);
 
@@ -44,6 +45,14 @@ const routes = [
     component: QuemSomos,
     meta: {
       title: "Quem Somos",
+    },
+  },
+  {
+    path: "/unidadesdesaude",
+    name: "UnidadesDeSaude",
+    component: HealthUnities,
+    meta: {
+      title: "Unidades de Saúde",
     },
   },
 ];

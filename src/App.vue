@@ -41,6 +41,14 @@
         <v-list-item @click="$router.push('/quemsomos')">
           <v-list-item-title>Quem Somos</v-list-item-title>
         </v-list-item>
+
+        <v-list-item @click="navigateToForm">
+          <v-list-item-title>Dúvidas</v-list-item-title>
+        </v-list-item>
+
+        <v-list-item @click="openModalRegister">
+          <v-list-item-title>Cerificado de Registro</v-list-item-title>
+        </v-list-item>
       </v-list>
     </v-navigation-drawer>
 
@@ -54,6 +62,31 @@
         Certificado de Registro de Programa de Computador: BR512022002669-4
       </h5>
     </v-footer>
+
+    <v-dialog class="register-dialog" v-model="modalRegister" max-width="600">
+      <v-card style="position: relative">
+        <v-btn
+          tonal
+          fab
+          depressed
+          color="blue-teal"
+          dark
+          style="position: absolute; top: 16px; left: 16px"
+          x-small
+        >
+          <v-icon color="error" @click="modalRegister = false"
+            >mdi-close</v-icon
+          >
+        </v-btn>
+        <v-card-text class="pa-0">
+          <img
+            class="certificate"
+            src="./assets/registro.png"
+            style="display: block; height: 100%; width: 100%; margin: 0 auto"
+          />
+        </v-card-text>
+      </v-card>
+    </v-dialog>
   </v-app>
 </template>
 
@@ -67,7 +100,16 @@ export default {
     showSplashScreen: true,
     drawer: false,
     group: "",
+    modalRegister: false,
   }),
+  methods: {
+    navigateToForm() {
+      window.open("https://forms.gle/wwXZevP5VRK73j9a8", "_blank");
+    },
+    openModalRegister() {
+      this.modalRegister = true;
+    },
+  },
   created() {
     setTimeout(() => {
       this.showSplashScreen = false;
@@ -82,6 +124,10 @@ export default {
 }
 body {
   background-color: white;
+}
+
+.v-dialog:has(.certificate) {
+  margin: 0;
 }
 </style>
 

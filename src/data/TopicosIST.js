@@ -1000,6 +1000,30 @@ export default [
             </a>
           </p>
         </article>
+        </article>
+          <h2 class="d-flex align-center">
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
+              class="mr-3"
+              style="max-width: 24px; max-height: 24px"
+            ></v-img>
+            <span>
+              Laboratório de Inovação em Saúde -  Vigilância em Saúde e Ambiente (LIS-VIG)
+            </span>
+          </h2>
+          <p class="px-2 font-weight-medium">
+            Destaque e Excelência
+          </p>
+          <a class="certificado" open-image="lisvig.jpg"> Certificação </a>
+          <p class="mt-2 mb-0">
+            <strong> Matérias na mídia: </strong>
+          </p>
+          <p>
+            <a target="_blank" href="http://www.coren-rj.org.br/coren-rj-divulga-lista-dos-profissionais-agraciados-para-o-premio-ivone-lara-a-saude-por-tras-do-samba_31800.html">
+              Coren-RJ divulga lista dos profissionais agraciados para o Prêmio Ivone Lara: a saúde por trás do samba
+            </a>
+          </p>
+        </article>
 
         <h2 class="gradient-text">
           <img

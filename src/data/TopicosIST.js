@@ -473,9 +473,9 @@ export default [
           É importante lembrar que a PreEP não protege contra as outras IST´s, como a Sífilis e as hepatites 
           virais, sendo assim, torna-se necessário a combinação desse método com outras estratégias, como a 
           camisinha. <br/> 
-          Quem pode usar: <br />
+          <strong>Quem pode usar:</strong> <br/>
           A PrEP é indicada para qualquer pessoa em situação de vulnerabilidade para o HIV. Deve ser tomada antes da potencial exposição.
-          <br/> Quanto tempo demora para fazer efeito:
+          <br/> <strong>Quanto tempo demora para fazer efeito:</strong>
 
           <br/>Leva de 2 a 7 dias para alcançar níveis de proteção ideais.
           <a href="http://www.aids.gov.br/pt-br/acesso_a_informacao/servicos-de-saude/prep" target="_blank">Clique aqui</a> para acessar os locais que disponibilizam o tratamento da PreEP

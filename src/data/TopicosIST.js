@@ -511,6 +511,27 @@ export default [
             />
             <label class="d-flex justify-center">Fonte: DHOJE, 2018.</label>
           </figure>
+
+          <strong>Estratégias para distribuição do autoteste de HIV no SUS:</strong>
+
+          <p>
+            Pares e parcerias sexuais de pessoas em PrEP;
+            Distribuição fora dos serviços de saúde por OSC, equipes das de saúde e parceiros em locais de sociabilidade da população chave, em horários alternativos;
+            Unidades de saúde: Sala para realização do autoteste em privacidade e distribuição para pares e parcerias sexuais de pessoas testadas nos serviços.
+            O autoteste atualmente distribuído pelo Ministério da Saúde possui uma tarja vermelha indicando que sua venda é proibida. Caso seja observada alguma intenção de venda, orienta-se denunciar na Ouvidoria (ligação para o 156 ou registrar neste formulário).
+          </p>
+
+          <figure class="d-flex  align-center flex-column">
+            <img
+              contain
+              class="mx-auto"
+              src="https://antigo.aids.gov.br/sites/default/files/media/pagina/2018/65862_/autotestes.png"
+              style="max-width: 80%"
+            />
+            <label class="d-flex justify-center">Fonte: Gov.br</label>
+          </figure>
+
+          <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/ScZWndMIWfA?si=5a8QvzYaUWdtoLdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </li>
         <li>
           <strong>-	Tratamento para prevenção</strong>
@@ -543,6 +564,8 @@ export default [
           verrugas genitais. Atualmente a vacina está disponível para meninas entre 9 a 14 anos e meninos de 11 
           a 14 anos em duas doses. Também podem ser vacinadas as PVHIV na faixa etária 
           de 9 a 26 anos com três doses. <br/> <br/>
+          Em julho de 2024, o Ministério da Saúde anunciou que pessoas que usam a PreP, de 16 a 45 anos, agora podem se vacinar gratuitamente contra o HPV.
+          <br/><br/>
           Em casos de dúvidas,  procure uma Unidade Básica de Saúde para mais informações e para completar o seu 
           esquema vacinal.
           </p>

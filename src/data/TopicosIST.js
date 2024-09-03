@@ -1080,7 +1080,7 @@ export default [
   {
     titulo: "MPOX",
     route: "/about/9",
-    icon: "mpox.gif",
+    icon: "recompensa.png",
     textoHtml: `
     <div class="flex-grow-1">
       <article>

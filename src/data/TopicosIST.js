@@ -930,6 +930,13 @@ export default [
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
       </iframe>
+       <iframe 
+          width="350"
+          height="200" 
+          src="https://www.youtube.com/embed/u8APt4-vXaQ?si=XYphVLAHxWfDrMUW" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     `,
   },
@@ -980,7 +987,7 @@ export default [
               src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
               class="mr-3"
               style="max-width: 24px; max-height: 24px"
-            ></v-img>
+            >
             <span> XXIV SEMANA CIENTÍFICA DA EEAAC - UFF</span>
           </h2>
           <p class="px-2 font-weight-medium">
@@ -996,7 +1003,7 @@ export default [
               src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
               class="mr-3"
               style="max-width: 24px; max-height: 24px"
-            ></v-img>
+            >
             <span>
               Ivone Lara - A enfermeira por trás do samba
             </span>
@@ -1052,7 +1059,89 @@ export default [
             Prev-IST: aplicativo criado por aluno da UFF esclarece dúvidas sobre saúde sexual para diversos públicos
           </a>
         </p>
+        <p>
+          <a target="_blank" href="https://www.brasildefato.com.br/2023/03/07/estudante-da-uff-cria-aplicativo-voltado-para-educacao-sexual-e-combate-a-ists">
+            Estudante da UFF cria aplicativo voltado para educação sexual e combate à ISTs
+          </a>
+        </p>
+        <p>
+          <a target="_blank" href="https://apsredes.org/prev-ist-aplicativo-movel-sobre-educacao-sexual-para-adolescentes/">
+            PREV IST: Aplicativo móvel sobre educação sexual para adolescentes
+          </a>
+        </p>
+        <p>
+          <a target="_blank" href="https://tecnologiasocial.uff.br/?p=7086">
+            #TSENTREVISTA: Saúde Coletiva em foco: conheça o aplicativo Prev-IST e o trabalho desenvolvido pelo professor Jorge Luiz Lima, da UFF
+          </a>
+        </p>
       </div>
     `,
   },
+  {
+    titulo: "MPOX",
+    route: "/about/9",
+    icon: "mpox.gif",
+    textoHtml: `
+    <div class="flex-grow-1">
+      <article>
+        <p>
+        Antes conhecida como varíola dos macacos, mas hoje a doença é transmitida também de humanos para humanos.
+        O surto é no continente africano, mas pelo Brasil há casos notificados, principalmente, no RJ e SP. O alerta da OMS pede para que os países fiquem mais alertas para um novo subtipo que pode se espalhar, mas calma que não é uma pandemia!
+        Sintomas: febre, dor de cabeça, dor no corpo, coceira, cansaço, enjoo e vômitos. 
+        Sinais: indivíduo de qualquer idade que apresente início súbito de lesão em mucosas (boca, anus, vagina, olho) E/OU erupção de pele aguda sugestiva de Mpox, única ou várias, em qualquer parte do corpo, ínguas (linfonodos inchados).
+        Os fases da doença na pele são: específicos com máculas, pápulas, vesículas, pústulas e crostas, neta sequência.
+        </p>
+
+        <figure class="d-flex  align-center flex-column">
+          <img
+            contain
+            class="mx-auto"
+            src="https://www.ufrgs.br/telessauders/wp-content/uploads/2022/06/monkeypox-ilustracao-800x287.jpg"
+            style="max-width: 80%"
+          />
+          <label class="d-flex justify-center">Fonte: A Voz do Povo, 2018.</label>
+        </figure>
+
+        <p>
+          Transmissão: de pessoa para pessoa por contato direto com lesões / feridas na pele  (máculas, pápulas, vesículas, pústulas, úlceras ou crostas), fluidos corporais ou materiais contaminados, como roupas, lençóis e objetos de higiene pessoal. 
+        </p>
+
+        <p>
+          O vírus mpox pode sobreviver por até 90 horas em superfícies.
+        </p>
+
+        <p>
+          Pode também ser transmitido por meio de gotículas respiratórias, com contato pessoal próximo e/ou prolongado.
+        </p>
+        <p>
+          O que fazer?
+        </p>
+        <p>
+          Buscar atendimento na unidade básica de saúde informar sobre as pessoas que você teve contato. Os profissionais vão avaliar e saber a melhor conduta.
+        </p>
+        <p>
+          Os doente devem se isolar por 21 dias, evitando contato e com distancia de 1,5m.
+        </p>
+
+        <p>
+        Vacinação: a vacina existente é para um público alvo e tem objetivo de evitar com que os mais vulneráveis desenvolvam a doença (grávidas, portadores de HIV, pessoas com câncer, profissionais de laboratório). A aplicação da vacina após a exposição o vírus deve ocorrer no caso de pessoas que tiveram contato direto com secreções e fluidos corporais de pessoas suspeita (será avaliado pelo profissional).
+        </p>
+        <p>
+        Mais informações em:  <a href="https://www.uff.br/sites/default/files/informes/-informe_tecnico_mpox_uff_final_para_reitoria.pdf" taget="blank"></a> <br />
+        Assista ao vídeo e se inscreva em nosso canal: https://youtu.be/u8APt4-vXaQ
+        </p>
+
+        <iframe 
+          width="350"
+          height="200" 
+          src="https://www.youtube.com/embed/u8APt4-vXaQ?si=XYphVLAHxWfDrMUW" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        
+      </article>
+    </div>
+    `
+  }
 ];

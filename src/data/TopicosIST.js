@@ -1099,7 +1099,7 @@ export default [
             src="https://www.ufrgs.br/telessauders/wp-content/uploads/2022/06/monkeypox-ilustracao-800x287.jpg"
             style="max-width: 80%"
           />
-          <label class="d-flex justify-center">Fonte: A Voz do Povo, 2018.</label>
+          <label class="d-flex justify-center">Fonte: WHO, 2022</label>
         </figure>
 
         <p>
@@ -1127,7 +1127,7 @@ export default [
         Vacinação: a vacina existente é para um público alvo e tem objetivo de evitar com que os mais vulneráveis desenvolvam a doença (grávidas, portadores de HIV, pessoas com câncer, profissionais de laboratório). A aplicação da vacina após a exposição o vírus deve ocorrer no caso de pessoas que tiveram contato direto com secreções e fluidos corporais de pessoas suspeita (será avaliado pelo profissional).
         </p>
         <p>
-        Mais informações em:  <a href="https://www.uff.br/sites/default/files/informes/-informe_tecnico_mpox_uff_final_para_reitoria.pdf" taget="blank"></a> <br />
+        Mais informações em:  <a href="https://www.uff.br/sites/default/files/informes/-informe_tecnico_mpox_uff_final_para_reitoria.pdf" taget="blank">informe_tecnico_mpox_uff_final_para_reitoria.pdf</a> <br />
         Assista ao vídeo e se inscreva em nosso canal: https://youtu.be/u8APt4-vXaQ
         </p>
 

@@ -946,13 +946,6 @@ export default [
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
           </iframe>
-          <iframe 
-          width="350"
-          height="200" 
-          src="https://www.youtube.com/embed/b-9wAtI0O4E?si=ryzNpXxA9RKwAW7u" 
-          title="YouTube video player" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     `,
   },
@@ -1157,6 +1150,13 @@ export default [
             #TSENTREVISTA: Saúde Coletiva em foco: conheça o aplicativo Prev-IST e o trabalho desenvolvido pelo professor Jorge Luiz Lima, da UFF
           </a>
         </p>
+        <iframe 
+          width="350"
+          height="200" 
+          src="https://www.youtube.com/embed/b-9wAtI0O4E?si=ryzNpXxA9RKwAW7u" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     `,
   },

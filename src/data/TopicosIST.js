@@ -938,6 +938,14 @@ export default [
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
+       <iframe 
+          width="350"
+          height="200" 
+          src="https://www.youtube.com/embed/b-9wAtI0O4E?si=TTj1rNOA0t4yJEOg" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
     `,
   },
   {
@@ -949,6 +957,73 @@ export default [
     titulo: "Sobre nós",
     route: "/quemSomos",
     icon: "sobre-nos.png",
+  },
+  {
+    titulo: "MPOX",
+    route: "/about/9",
+    icon: "mpox.gif",
+    textoHtml: `
+    <div class="flex-grow-1">
+      <article>
+        <p>
+        Antes conhecida como varíola dos macacos, mas hoje a doença é transmitida também de humanos para humanos.
+        O surto é no continente africano, mas pelo Brasil há casos notificados, principalmente, no RJ e SP. O alerta da OMS pede para que os países fiquem mais alertas para um novo subtipo que pode se espalhar, mas calma que não é uma pandemia!
+        Sintomas: febre, dor de cabeça, dor no corpo, coceira, cansaço, enjoo e vômitos. 
+        Sinais: indivíduo de qualquer idade que apresente início súbito de lesão em mucosas (boca, anus, vagina, olho) E/OU erupção de pele aguda sugestiva de Mpox, única ou várias, em qualquer parte do corpo, ínguas (linfonodos inchados).
+        Os fases da doença na pele são: específicos com máculas, pápulas, vesículas, pústulas e crostas, neta sequência.
+        </p>
+
+        <figure class="d-flex  align-center flex-column">
+          <img
+            contain
+            class="mx-auto"
+            src="https://www.ufrgs.br/telessauders/wp-content/uploads/2022/06/monkeypox-ilustracao-800x287.jpg"
+            style="max-width: 80%"
+          />
+          <label class="d-flex justify-center">Fonte: WHO, 2022</label>
+        </figure>
+
+        <p>
+          Transmissão: de pessoa para pessoa por contato direto com lesões / feridas na pele  (máculas, pápulas, vesículas, pústulas, úlceras ou crostas), fluidos corporais ou materiais contaminados, como roupas, lençóis e objetos de higiene pessoal. 
+        </p>
+
+        <p>
+          O vírus mpox pode sobreviver por até 90 horas em superfícies.
+        </p>
+
+        <p>
+          Pode também ser transmitido por meio de gotículas respiratórias, com contato pessoal próximo e/ou prolongado.
+        </p>
+        <p>
+          O que fazer?
+        </p>
+        <p>
+          Buscar atendimento na unidade básica de saúde informar sobre as pessoas que você teve contato. Os profissionais vão avaliar e saber a melhor conduta.
+        </p>
+        <p>
+          Os doente devem se isolar por 21 dias, evitando contato e com distancia de 1,5m.
+        </p>
+
+        <p>
+        Vacinação: a vacina existente é para um público alvo e tem objetivo de evitar com que os mais vulneráveis desenvolvam a doença (grávidas, portadores de HIV, pessoas com câncer, profissionais de laboratório). A aplicação da vacina após a exposição o vírus deve ocorrer no caso de pessoas que tiveram contato direto com secreções e fluidos corporais de pessoas suspeita (será avaliado pelo profissional).
+        </p>
+        <p>
+        Mais informações em:  <a href="https://www.uff.br/sites/default/files/informes/-informe_tecnico_mpox_uff_final_para_reitoria.pdf" taget="blank">informe_tecnico_mpox_uff_final_para_reitoria.pdf</a> <br />
+        Assista ao vídeo e se inscreva em nosso canal: https://youtu.be/u8APt4-vXaQ
+        </p>
+
+        <iframe 
+          width="350"
+          height="200" 
+          src="https://www.youtube.com/embed/u8APt4-vXaQ?si=XYphVLAHxWfDrMUW" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        
+      </article>
+    </div>
+    `
   },
   {
     titulo: "Prêmios",
@@ -1077,71 +1152,4 @@ export default [
       </div>
     `,
   },
-  {
-    titulo: "MPOX",
-    route: "/about/9",
-    icon: "mpox.gif",
-    textoHtml: `
-    <div class="flex-grow-1">
-      <article>
-        <p>
-        Antes conhecida como varíola dos macacos, mas hoje a doença é transmitida também de humanos para humanos.
-        O surto é no continente africano, mas pelo Brasil há casos notificados, principalmente, no RJ e SP. O alerta da OMS pede para que os países fiquem mais alertas para um novo subtipo que pode se espalhar, mas calma que não é uma pandemia!
-        Sintomas: febre, dor de cabeça, dor no corpo, coceira, cansaço, enjoo e vômitos. 
-        Sinais: indivíduo de qualquer idade que apresente início súbito de lesão em mucosas (boca, anus, vagina, olho) E/OU erupção de pele aguda sugestiva de Mpox, única ou várias, em qualquer parte do corpo, ínguas (linfonodos inchados).
-        Os fases da doença na pele são: específicos com máculas, pápulas, vesículas, pústulas e crostas, neta sequência.
-        </p>
-
-        <figure class="d-flex  align-center flex-column">
-          <img
-            contain
-            class="mx-auto"
-            src="https://www.ufrgs.br/telessauders/wp-content/uploads/2022/06/monkeypox-ilustracao-800x287.jpg"
-            style="max-width: 80%"
-          />
-          <label class="d-flex justify-center">Fonte: WHO, 2022</label>
-        </figure>
-
-        <p>
-          Transmissão: de pessoa para pessoa por contato direto com lesões / feridas na pele  (máculas, pápulas, vesículas, pústulas, úlceras ou crostas), fluidos corporais ou materiais contaminados, como roupas, lençóis e objetos de higiene pessoal. 
-        </p>
-
-        <p>
-          O vírus mpox pode sobreviver por até 90 horas em superfícies.
-        </p>
-
-        <p>
-          Pode também ser transmitido por meio de gotículas respiratórias, com contato pessoal próximo e/ou prolongado.
-        </p>
-        <p>
-          O que fazer?
-        </p>
-        <p>
-          Buscar atendimento na unidade básica de saúde informar sobre as pessoas que você teve contato. Os profissionais vão avaliar e saber a melhor conduta.
-        </p>
-        <p>
-          Os doente devem se isolar por 21 dias, evitando contato e com distancia de 1,5m.
-        </p>
-
-        <p>
-        Vacinação: a vacina existente é para um público alvo e tem objetivo de evitar com que os mais vulneráveis desenvolvam a doença (grávidas, portadores de HIV, pessoas com câncer, profissionais de laboratório). A aplicação da vacina após a exposição o vírus deve ocorrer no caso de pessoas que tiveram contato direto com secreções e fluidos corporais de pessoas suspeita (será avaliado pelo profissional).
-        </p>
-        <p>
-        Mais informações em:  <a href="https://www.uff.br/sites/default/files/informes/-informe_tecnico_mpox_uff_final_para_reitoria.pdf" taget="blank">informe_tecnico_mpox_uff_final_para_reitoria.pdf</a> <br />
-        Assista ao vídeo e se inscreva em nosso canal: https://youtu.be/u8APt4-vXaQ
-        </p>
-
-        <iframe 
-          width="350"
-          height="200" 
-          src="https://www.youtube.com/embed/u8APt4-vXaQ?si=XYphVLAHxWfDrMUW" 
-          title="YouTube video player" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        
-      </article>
-    </div>
-    `
-  }
 ];

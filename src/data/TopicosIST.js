@@ -1104,19 +1104,16 @@ export default [
               style="max-width: 24px; max-height: 24px"
             ></v-img>
             <span>
-              Laboratório de Inovação em Saúde -  Vigilância em Saúde e Ambiente (LIS-VIG)
+              Excelência Científica
             </span>
           </h2>
-          <p class="px-2 font-weight-medium">
-            Destaque e Excelência
-          </p>
-          <a class="certificado" open-image="lisvig.jpg"> Certificação </a>
+          <a class="certificado" open-image="certUFF.jpeg"> Certificação </a>
           <p class="mt-2 mb-0">
             <strong> Matérias na mídia: </strong>
           </p>
           <p>
-            <a target="_blank" href="http://www.coren-rj.org.br/coren-rj-divulga-lista-dos-profissionais-agraciados-para-o-premio-ivone-lara-a-saude-por-tras-do-samba_31800.html">
-              Coren-RJ divulga lista dos profissionais agraciados para o Prêmio Ivone Lara: a saúde por trás do samba
+            <a target="_blank" href="https://www.uff.br/informe/uff-valoriza-pesquisas-de-sua-comunidade-com-premio-de-excelencia-cientifica/">
+              UFF valoriza pesquisas de sua comunidade com Prêmio de Excelência Científica
             </a>
           </p>
         </article>

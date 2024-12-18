@@ -1146,6 +1146,11 @@ export default [
             #TSENTREVISTA: Saúde Coletiva em foco: conheça o aplicativo Prev-IST e o trabalho desenvolvido pelo professor Jorge Luiz Lima, da UFF
           </a>
         </p>
+        <p>
+          <a target="_blank" href="https://www.uff.br/17-12-2024/aplicativo-simplifica-a-educacao-de-adolescentes-sobre-o-hpv/">
+            Aplicativo simplifica a educação de adolescentes sobre o HPV
+          </a>
+        </p>
         <iframe 
           width="350"
           height="200" 

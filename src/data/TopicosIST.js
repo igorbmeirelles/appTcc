@@ -1117,6 +1117,26 @@ export default [
             </a>
           </p>
         </article>
+        <article class="my-3">
+          <h2 class="d-flex align-center">
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/2583/2583256.png"
+              class="mr-3"
+              style="max-width: 24px; max-height: 24px"
+            ></v-img>
+            <span>Laboratório de Inovação em Saúde - Vigilância em Saúde e Ambiente (LIS-VIG)</span>
+          </h2>
+          <p class="px-2 font-weight-medium">
+            Certificado de Excelência
+            <br />
+            Organização Pan-Americana da Saúde/Organização Mundial da Saúde (OPAS/OMS)
+            <br />
+            Fundação Municipal de Saúde de Niterói (FMS)
+          </p>
+          <a class="certificado" open-image="certOpas.jpeg"> 
+            Certificação 
+          </a>
+        </article>
 
         <h2 class="gradient-text">
           <img

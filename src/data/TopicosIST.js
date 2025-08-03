@@ -424,7 +424,7 @@ export default [
     Entre os métodos utilizados na Prevenção Combinada, podemos citar: a testagem para o HIV;a prevenção 
     da transmissão vertical do HIV; o tratamento das IST´s e das hepatites virais; a imunização para as 
     hepatites A e B; a redução de danos para usuários de álcool e outras drogas; a profilaxia pré-exposição 
-    (PrEP); a profilaxia pós-exposição (PEP); e a terapia anti-retroviral (TARV). 
+    (PrEP); a profilaxia pós-exposição (PEP); e a terapia antirretroviral (TARV). 
     
     <figure class="d-flex  align-center flex-column">
       <img
@@ -444,7 +444,7 @@ export default [
           O atendimento após a exposição ao HIV é uma urgência. A PEP deve ser iniciada o mais 
           precocemente possível, tendo como limite as 72 horas subsequentes à exposição. Nos casos em que o 
           atendimento ocorrer após 72 horas da exposição, a PEP não está mais indicada.
-          <a href="http://www.aids.gov.br/pt-br/onde-encontrar-pep" target="_blank"> Clique aqui </a>para acessar 
+          <a href="https://gq.globo.com/sexo/noticia/2024/02/hiv-onde-achar-pep-principais-cidades-brasileiras.ghtml" target="_blank"> Clique aqui </a>para acessar 
           os locais que disponibilizam o tratamento da PEP
           </p>
           <figure class="d-flex  align-center flex-column">
@@ -568,6 +568,21 @@ export default [
           <br/><br/>
           Em casos de dúvidas,  procure uma Unidade Básica de Saúde para mais informações e para completar o seu 
           esquema vacinal.
+          </p>
+        </li>
+        <li>
+          <strong>Novidades no tratamento para HIV</strong>
+          <p>
+            Desenvolvido pela farmacêutica Gilead Sciences, sediada nos EUA, o lenacapavir comercializado desde 2022, mas indicado apenas para pessoas infectadas com resistência a antirretrovirais comuns.
+          </p>
+          <p>
+            O medicamento atua por um mecanismo diferente: enquanto a maioria dos antirretrovirais interfere na produção do material genético do HIV, o lenacapavir impede a formação do chamado capsídeo, estrutura que guarda o RNA do vírus e possibilita sua entrada no interior das células. Ao bloquear esse processo, o HIV é impedido de se replicar, o que mantém a infecção controlada.
+          </p>
+          <p>
+            O medicamento injetável aplicado somente duas vezes por ano se provou tão eficaz que o estudo clínico chegou a ser interrompido precocemente.
+          </p>
+          <p>
+            Saiba mais em <a href="https://g1.globo.com/saude/noticia/2024/07/24/remedio-injetavel-aplicado-duas-vezes-por-ano-e-100percent-eficaz-na-prevencao-do-hiv-mostra-estudo.ghtml" target="_blank"> Clique aqui </a>
           </p>
         </li>
       <ul>
@@ -1147,7 +1162,7 @@ export default [
           Demais matérias de destaque
         </h2>
         <p>
-          <a target="_blank" href="https://www.uff.br/?q=noticias/08-02-2023/prev-ist-aplicativo-criado-por-aluno-da-uff-esclarece-duvidas-sobre-saude-sexual">
+          <a target="_blank" href="https://www.uff.br/08-02-2023/prev-ist-aplicativo-criado-por-aluno-da-uff-esclarece-duvidas-sobre-saude-sexual-para-diversos-publicos/">
             Prev-IST: aplicativo criado por aluno da UFF esclarece dúvidas sobre saúde sexual para diversos públicos
           </a>
         </p>

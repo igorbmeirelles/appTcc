@@ -97,7 +97,7 @@
 
       <a
         class="ml-2"
-        href="https://www.youtube.com/@EspacoAbertoparaSaudeUFF"
+        href="https://www.youtube.com/@espacoabertosaudeuff"
         target="_blank"
       >
         @EspacoAbertoparaSaudeUFF
@@ -115,7 +115,7 @@
 
       <a
         class="ml-2"
-        href="https://www.youtube.com/@CienciaSaudeUFF"
+        href="https://www.youtube.com/c/Ci%C3%AAnciaSa%C3%BAdeUFF"
         target="_blank"
       >
         @CienciaSaudeUFF
@@ -143,7 +143,7 @@
     <footer class="mt-4 pb-4">
       Este produto faz parte do Programa de Ensino Pesquisa e Extensão Espaço
       Aberto para Saúde:
-      <a href="https://www.instagram.com/espacoabertosaudeuff/" target="_blank">
+      <a href="https://linktr.ee/labmapps" target="_blank">
         saiba mais
       </a>
     </footer>

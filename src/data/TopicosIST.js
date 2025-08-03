@@ -766,11 +766,11 @@ export default [
               </figure>
             </li>
             <li>
-              <strong>Camisinha feminina</strong>
+              <strong>camisinha interna</strong>
               <p>
-              A camisinha feminina é um tubo feito de plástico resistente, que não diminui o prazer sexual, 
+              A camisinha interna é um tubo feito de plástico resistente, que não diminui o prazer sexual, 
               e é colocado dentro da vagina para evitar o contato com o pênis sendo eficaz para proteger da 
-              gravidez e das IST 'S. A camisinha feminina deve ser usada em todas as relações sexuais, mesmo 
+              gravidez e das IST 'S. A camisinha interna deve ser usada em todas as relações sexuais, mesmo 
               durante a menstruação.
               </p> 
               <figure class="d-flex align-center flex-column">
@@ -869,6 +869,59 @@ export default [
               <label class="d-flex justify-center">Fonte: BBC, 2019.</label>
             </figure>
           </li>
+          <li>
+            <strong>O que é o chip anticoncepcional?</strong>
+            <p>
+              O chip anticoncepcional é um tipo de implante usado para evitar gravidez. Ele é pequeno, parece um palitinho, com cerca de 4 centímetros de comprimento. Dentro dele tem um hormônio chamado etonogestrel, parecido com a progesterona, que é um hormônio feminino.
+            </p>
+            <p>
+              Esse hormônio vai sendo liberado aos poucos no corpo. Isso impede que a mulher ovule (libere óvulo) e também deixa o muco do útero mais grosso, dificultando a entrada dos espermatozoides. Assim, a gravidez é evitada.
+            </p>
+            <p>
+              No Brasil, o único chip aprovado oficialmente é o <strong>Implanon</strong>, que passou por vários estudos e foi reconhecido pela Anvisa. Ele funciona muito bem e tem uma vantagem: a mulher não precisa lembrar de tomar remédio todo dia ou todo mês. O chip faz tudo sozinho.
+            </p>
+            <p>
+              Atualmente, pode ser fornecido pelo SUS com a indicação do serviço de saúde (unidade básica, saúde da família ou policlínica).
+            </p>
+            <strong>Implanon engorda? O que você precisa saber</strong>
+            <p>
+              Muitas mulheres se preocupam com o peso quando escolhem um método anticoncepcional. Mas pode ficar tranquila: o implante Implanon <strong>não causa ganho de peso direto</strong>. Em poucos casos, pode acontecer <strong>retenção de líquido</strong>, o que provoca <strong>inchaço</strong>. Isso é raro.
+            </p>
+            <p>
+            Mulheres que já têm tendência a engordar podem sentir esse inchaço nos primeiros <strong>6 meses</strong> depois de colocarem o chip. Se isso acontecer, não se preocupe: você estará acompanhada por um profissional que vai te ajudar com qualquer sintoma após o procedimento.
+            </p>
+            <p>
+             📌 Para evitar esse tipo de problema:
+            <ul>
+              <li>
+                Coma de forma saudável, evite produtos ultraprocessados 🍎
+              </li> 
+              <li>
+                Pratique atividades físicas 🏃‍♀️♀️
+              </li>
+             </ul>
+            </p>
+            <p>Também pode surgir <strong>acne (espinhas)</strong> em quem tem a pele mais oleosa. Nesse caso, vale procurar um dermatologista ou ginecologista para acompanhar e orientar.</p>
+
+            <p>Outro possível efeito é o chamado <strong>escape menstrual</strong>, que é um pequeno sangramento fora do período da menstruação. É bem raro, mas se acontecer, fale com seu médico.</p>
+
+            <p><strong>Quem pode usar o chip anticoncepcional?</strong></p>
+
+            <p>O chip anticoncepcional é uma boa opção para mulheres que querem evitar gravidez de forma prática e segura. Ele é especialmente indicado para quem <strong>não pode usar o DIU</strong> ou tem <strong>problemas com estrogênio</strong>, um hormônio presente na maioria das pílulas anticoncepcionais.</p>
+
+            <p>Se você tem <strong>endometriose</strong> ou quer <strong>diminuir o fluxo menstrual</strong> e as <strong>cólicas</strong>, o Implanon pode ajudar.</p>
+
+            <p>🚫 <strong>Porém, o chip não é indicado para:</strong></p>
+
+            <ul>
+              <li>Quem tem <strong>problemas no fígado</strong></li>
+              <li>Quem sofre de <strong>sangramento vaginal fora do comum</strong></li>
+              <li>Quem tem <strong>alergia ao hormônio etonogestrel</strong> ou a <strong>esteroides sexuais</strong></li>
+            </ul>
+
+            <p>⚠️ <strong>E o mais importante:</strong> sempre procure o serviço de saúde, pois a <strong>enfermeira pode te orientar</strong> e indicar o médico para acompanhamento!</p>
+
+          </li>
           </ol>
         </li>
         
@@ -903,7 +956,37 @@ export default [
         src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fviolencia.png?alt=media&token=c7a23b31-4beb-48b7-a0a3-44a280e1f935"
         style="max-width: 80%"
       />
+      <p><a href="https://leidominutoseguinte.mpf.mp.br/" taget="blank">Lei do Minuto Seguinte - Ministério Público Federal</a></p>
     </figure>
+
+    <p><strong>Entendendo o estupro virtual</strong></p>
+
+    <p>O estupro virtual é reconhecido legalmente como um crime grave, com a mesma seriedade de um estupro cometido no ambiente físico. A legislação brasileira não faz distinção entre o "mundo real" e o virtual, e a vítima pode ser homem ou mulher.</p>
+
+    <p>Conforme a <strong>Lei 12.015/09</strong>, que alterou o Código Penal em 2009, o conceito de estupro foi ampliado. Anteriormente, a penetração era um elemento essencial para a configuração do crime. Atualmente, o <strong>Artigo 213 do Código Penal</strong> define estupro de forma mais abrangente como:</p>
+
+    <p><strong>"Constranger alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir que com ele se pratique outro ato libidinoso."</strong></p>
+
+    <p>Isso significa que atos como <strong>masturbação</strong> ou <strong>sexo oral</strong>, realizados sob coerção ou ameaça, também se enquadram na definição de estupro, independentemente de ocorrerem presencialmente ou por meios virtuais.</p>
+
+    <p>Por ser considerado um <strong>crime hediondo</strong>, o estupro virtual <strong>não permite fiança</strong> e a pena varia de <strong>6 a 10 anos de reclusão</strong>.</p>
+
+    <p><strong>A abrangência do "Ato Libidinoso" e as Formas do Estupro Virtual</strong></p>
+
+    <p>O termo <strong>"ato libidinoso"</strong> abarca qualquer conduta que vise à satisfação sexual, e no contexto virtual, isso se manifesta de diversas maneiras, mesmo sem a possibilidade de "conjunção carnal" (relação sexual com penetração). A internet e as redes sociais facilitam a prática desses atos sem contato físico, tornando o estupro virtual uma realidade complexa e multifacetada.</p>
+
+    <p><strong>Como o estupro virtual pode ocorrer</strong></p>
+
+    <p>O estupro virtual pode ser perpetrado por pessoas já conhecidas da vítima no mundo real, que podem usar informações ou materiais comprometedores para chantagem. No entanto, ele também pode surgir de interações com <strong>"contatinhos"</strong> online, onde o envio voluntário de <strong>"nudes"</strong> (fotos ou vídeos íntimos) despretensiosamente pode se tornar uma ferramenta para a coerção.</p>
+
+    <p>Além disso, <strong>ataques hackers</strong> representam outra via para o estupro virtual. Criminosos podem invadir dispositivos como computadores e celulares, acessando e roubando fotos e vídeos íntimos. Com esse material em mãos, a vítima é então <strong>chanteada para a realização de atos libidinosos</strong>, como se expor pela webcam.</p>
+
+    <p><strong>As consequências psicológicas</strong></p>
+
+    <p>As consequências psicológicas de um estupro virtual podem ser tão devastadoras quanto as de um estupro físico. Vítimas frequentemente experimentam sentimentos intensos de <strong>humilhação</strong>, <strong>angústia</strong>, <strong>raiva</strong> (direcionada tanto a si quanto ao agressor), <strong>medo</strong>, <strong>culpa</strong> e <strong>desespero</strong>. Esses traumas podem levar ao desenvolvimento de condições graves como <strong>Transtorno de Estresse Pós-Traumático (TEPT)</strong>, <strong>síndrome do pânico</strong> e <strong>depressão</strong>.</p>
+
+    <p><a href="https://www.migalhas.com.br/arquivos/2025/5/96709F10DC9470_InterfacescomofenomenoInceleos.pdf" target="_blank"><strong>Saiba mais neste artigo</strong></a></p>
+
     </article>
     `,
   },

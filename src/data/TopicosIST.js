@@ -571,7 +571,7 @@ export default [
           </p>
         </li>
         <li>
-          <strong>Novidades no tratamento para HIV</strong>
+          <strong>- Novidades no tratamento para HIV</strong>
           <p>
             Desenvolvido pela farmacêutica Gilead Sciences, sediada nos EUA, o lenacapavir comercializado desde 2022, mas indicado apenas para pessoas infectadas com resistência a antirretrovirais comuns.
           </p>
@@ -871,6 +871,10 @@ export default [
           </li>
           <li>
             <strong>O que é o chip anticoncepcional?</strong>
+            <figure class="d-flex align-center flex-column">
+              <img cover class="mx-auto" style="max-width: 50%" src="blob:https://web.whatsapp.com/a1361472-9d68-4d7d-b602-db88798aad50" />
+              <img cover class="mx-auto" style="max-width: 50%" src="blob:https://web.whatsapp.com/ac685e2a-7355-4151-b933-b3f7661aee0e" />
+            </figure>
             <p>
               O chip anticoncepcional é um tipo de implante usado para evitar gravidez. Ele é pequeno, parece um palitinho, com cerca de 4 centímetros de comprimento. Dentro dele tem um hormônio chamado etonogestrel, parecido com a progesterona, que é um hormônio feminino.
             </p>

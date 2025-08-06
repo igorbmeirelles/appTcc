@@ -262,6 +262,7 @@ export default [
                     type="video/mp4">
           </video>
         </div>
+
       </article>
 
       <p class="mt-3 text-caption text-center">
@@ -562,10 +563,24 @@ export default [
            segunda dose um mês depois e a terceira dose 6 meses após a primeira. <br/> <br/>
           Outra vacinação também disponível gratuitamente no SUS é para HPV, IST que pode provocar câncer e 
           verrugas genitais. Atualmente a vacina está disponível para meninas entre 9 a 14 anos e meninos de 11 
-          a 14 anos em duas doses. Também podem ser vacinadas as PVHIV na faixa etária 
-          de 9 a 26 anos com três doses. <br/> <br/>
+          a 14 anos em duas doses. <br/> <br/>
           Em julho de 2024, o Ministério da Saúde anunciou que pessoas que usam a PreP, de 16 a 45 anos, agora podem se vacinar gratuitamente contra o HPV.
           <br/><br/>
+          
+           <p>
+        Atenção: A Secretaria de Estado de Saúde do Rio amplia a partir de 04/08/25, a faixa etária da vacinação contra o HPV (Papilomavírus Humano). 
+Procure o posto de saúde mais próximo e se informe! 
+</p>
+<p>
+A meta é vacinar, até dezembro de 2025, 90% do público-alvo: jovens entre 15 e 19 anos que ainda não foram imunizados, totalizando cerca de 520 mil pessoas em todo o estado do Rio de Janeiro. 
+</p>
+<p>
+O HPV é considerado a infecção sexualmente transmissível mais comum do mundo. 
+</p>
+<p>
+Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as taxas de câncer de colo de útero.
+        </p>
+        
           Em casos de dúvidas,  procure uma Unidade Básica de Saúde para mais informações e para completar o seu 
           esquema vacinal.
           </p>
@@ -872,8 +887,8 @@ export default [
           <li>
             <strong>O que é o chip anticoncepcional?</strong>
             <figure class="d-flex align-center flex-column">
-              <img cover class="mx-auto" style="max-width: 50%" src="blob:https://web.whatsapp.com/a1361472-9d68-4d7d-b602-db88798aad50" />
-              <img cover class="mx-auto" style="max-width: 50%" src="blob:https://web.whatsapp.com/ac685e2a-7355-4151-b933-b3f7661aee0e" />
+              <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/storage-eb37e.appspot.com/o/WhatsApp%20Image%202025-07-28%20at%2011.33.47%20PM.jpeg?alt=media&token=1cfdf4bb-fa03-4beb-9be3-9305ce0c0e2a" />
+              <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/storage-eb37e.appspot.com/o/WhatsApp%20Image%202025-07-28%20at%2011.36.36%20PM.jpeg?alt=media&token=c67ecb58-1fe1-49ba-ae91-6892ee4494cf" />
             </figure>
             <p>
               O chip anticoncepcional é um tipo de implante usado para evitar gravidez. Ele é pequeno, parece um palitinho, com cerca de 4 centímetros de comprimento. Dentro dele tem um hormônio chamado etonogestrel, parecido com a progesterona, que é um hormônio feminino.
@@ -895,35 +910,35 @@ export default [
             Mulheres que já têm tendência a engordar podem sentir esse inchaço nos primeiros <strong>6 meses</strong> depois de colocarem o chip. Se isso acontecer, não se preocupe: você estará acompanhada por um profissional que vai te ajudar com qualquer sintoma após o procedimento.
             </p>
             <p>
-             📌 Para evitar esse tipo de problema:
+             Para evitar esse tipo de problema:
             <ul>
               <li>
-                Coma de forma saudável, evite produtos ultraprocessados 🍎
+                Coma de forma saudável, evite produtos ultraprocessados
               </li> 
               <li>
                 Pratique atividades físicas 🏃‍♀️♀️
               </li>
              </ul>
             </p>
-            <p>Também pode surgir <strong>acne (espinhas)</strong> em quem tem a pele mais oleosa. Nesse caso, vale procurar um dermatologista ou ginecologista para acompanhar e orientar.</p>
+            <p>Também pode surgir acne (espinhas) em quem tem a pele mais oleosa. Nesse caso, vale procurar um dermatologista ou ginecologista para acompanhar e orientar.</p>
 
-            <p>Outro possível efeito é o chamado <strong>escape menstrual</strong>, que é um pequeno sangramento fora do período da menstruação. É bem raro, mas se acontecer, fale com seu médico.</p>
+            <p>Outro possível efeito é o chamado escape menstrual, que é um pequeno sangramento fora do período da menstruação. É bem raro, mas se acontecer, fale com seu médico.</p>
 
-            <p><strong>Quem pode usar o chip anticoncepcional?</strong></p>
+            <p>Quem pode usar o chip anticoncepcional?</p>
 
-            <p>O chip anticoncepcional é uma boa opção para mulheres que querem evitar gravidez de forma prática e segura. Ele é especialmente indicado para quem <strong>não pode usar o DIU</strong> ou tem <strong>problemas com estrogênio</strong>, um hormônio presente na maioria das pílulas anticoncepcionais.</p>
+            <p>O chip anticoncepcional é uma boa opção para mulheres que querem evitar gravidez de forma prática e segura. Ele é especialmente indicado para quem não pode usar o DIU ou tem problemas com estrogênio, um hormônio presente na maioria das pílulas anticoncepcionais.</p>
 
-            <p>Se você tem <strong>endometriose</strong> ou quer <strong>diminuir o fluxo menstrual</strong> e as <strong>cólicas</strong>, o Implanon pode ajudar.</p>
+            <p>Se você tem <strong>endometriose</strong> ou quer diminuir o fluxo menstrual e as cólicas o Implanon pode ajudar.</p>
 
-            <p>🚫 <strong>Porém, o chip não é indicado para:</strong></p>
+            <p>Porém, o chip não é indicado para:</p>
 
             <ul>
-              <li>Quem tem <strong>problemas no fígado</strong></li>
-              <li>Quem sofre de <strong>sangramento vaginal fora do comum</strong></li>
-              <li>Quem tem <strong>alergia ao hormônio etonogestrel</strong> ou a <strong>esteroides sexuais</strong></li>
-            </ul>
+              <li>Quem tem problemas no fígado</li>
+              <li>Quem sofre de sangramento vaginal fora do comum</li>
+              <li>Quem tem alergia ao hormônio etonogestrel ou a esteroides sexuais</li>
+              </ul>
 
-            <p>⚠️ <strong>E o mais importante:</strong> sempre procure o serviço de saúde, pois a <strong>enfermeira pode te orientar</strong> e indicar o médico para acompanhamento!</p>
+            <p>⚠️ E o mais importante: sempre procure o serviço de saúde, pois a enfermeira pode te orientar e indicar o médico para acompanhamento!</p>
 
           </li>
           </ol>
@@ -963,31 +978,31 @@ export default [
       <p><a href="https://leidominutoseguinte.mpf.mp.br/" taget="blank">Lei do Minuto Seguinte - Ministério Público Federal</a></p>
     </figure>
 
-    <p><strong>Entendendo o estupro virtual</strong></p>
+    <p>Entendendo o estupro virtual</p>
 
     <p>O estupro virtual é reconhecido legalmente como um crime grave, com a mesma seriedade de um estupro cometido no ambiente físico. A legislação brasileira não faz distinção entre o "mundo real" e o virtual, e a vítima pode ser homem ou mulher.</p>
 
-    <p>Conforme a <strong>Lei 12.015/09</strong>, que alterou o Código Penal em 2009, o conceito de estupro foi ampliado. Anteriormente, a penetração era um elemento essencial para a configuração do crime. Atualmente, o <strong>Artigo 213 do Código Penal</strong> define estupro de forma mais abrangente como:</p>
+    <p>Conforme a Lei 12.015/09, que alterou o Código Penal em 2009, o conceito de estupro foi ampliado. Anteriormente, a penetração era um elemento essencial para a configuração do crime. Atualmente, o Artigo 213 do Código Penal define estupro de forma mais abrangente como:</p>
 
-    <p><strong>"Constranger alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir que com ele se pratique outro ato libidinoso."</strong></p>
+    <p>"Constranger alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir que com ele se pratique outro ato libidinoso."</p>
 
-    <p>Isso significa que atos como <strong>masturbação</strong> ou <strong>sexo oral</strong>, realizados sob coerção ou ameaça, também se enquadram na definição de estupro, independentemente de ocorrerem presencialmente ou por meios virtuais.</p>
+    <p>Isso significa que atos como masturbação ou sexo oral, realizados sob coerção ou ameaça, também se enquadram na definição de estupro, independentemente de ocorrerem presencialmente ou por meios virtuais.</p>
 
-    <p>Por ser considerado um <strong>crime hediondo</strong>, o estupro virtual <strong>não permite fiança</strong> e a pena varia de <strong>6 a 10 anos de reclusão</strong>.</p>
+    <p>Por ser considerado um crime hediondo, o estupro virtual não permite fiança e a pena varia de 6 a 10 anos de reclusão.</p>
 
-    <p><strong>A abrangência do "Ato Libidinoso" e as Formas do Estupro Virtual</strong></p>
+    <p>A abrangência do "Ato Libidinoso" e as Formas do Estupro Virtual</p>
 
-    <p>O termo <strong>"ato libidinoso"</strong> abarca qualquer conduta que vise à satisfação sexual, e no contexto virtual, isso se manifesta de diversas maneiras, mesmo sem a possibilidade de "conjunção carnal" (relação sexual com penetração). A internet e as redes sociais facilitam a prática desses atos sem contato físico, tornando o estupro virtual uma realidade complexa e multifacetada.</p>
+    <p>O termo "ato libidinoso" abarca qualquer conduta que vise à satisfação sexual, e no contexto virtual, isso se manifesta de diversas maneiras, mesmo sem a possibilidade de "conjunção carnal" (relação sexual com penetração). A internet e as redes sociais facilitam a prática desses atos sem contato físico, tornando o estupro virtual uma realidade complexa e multifacetada.</p>
 
-    <p><strong>Como o estupro virtual pode ocorrer</strong></p>
+    <p>Como o estupro virtual pode ocorrer</p>
 
-    <p>O estupro virtual pode ser perpetrado por pessoas já conhecidas da vítima no mundo real, que podem usar informações ou materiais comprometedores para chantagem. No entanto, ele também pode surgir de interações com <strong>"contatinhos"</strong> online, onde o envio voluntário de <strong>"nudes"</strong> (fotos ou vídeos íntimos) despretensiosamente pode se tornar uma ferramenta para a coerção.</p>
+    <p>O estupro virtual pode ser perpetrado por pessoas já conhecidas da vítima no mundo real, que podem usar informações ou materiais comprometedores para chantagem. No entanto, ele também pode surgir de interações com "contatinhos" online, onde o envio voluntário de "nudes" (fotos ou vídeos íntimos) despretensiosamente pode se tornar uma ferramenta para a coerção.</p>
 
-    <p>Além disso, <strong>ataques hackers</strong> representam outra via para o estupro virtual. Criminosos podem invadir dispositivos como computadores e celulares, acessando e roubando fotos e vídeos íntimos. Com esse material em mãos, a vítima é então <strong>chanteada para a realização de atos libidinosos</strong>, como se expor pela webcam.</p>
+    <p>Além disso, ataques hackers representam outra via para o estupro virtual. Criminosos podem invadir dispositivos como computadores e celulares, acessando e roubando fotos e vídeos íntimos. Com esse material em mãos, a vítima é então chanteada para a realização de atos libidinosos, como se expor pela webcam.</p>
 
-    <p><strong>As consequências psicológicas</strong></p>
+    <p>As consequências psicológicas</p>
 
-    <p>As consequências psicológicas de um estupro virtual podem ser tão devastadoras quanto as de um estupro físico. Vítimas frequentemente experimentam sentimentos intensos de <strong>humilhação</strong>, <strong>angústia</strong>, <strong>raiva</strong> (direcionada tanto a si quanto ao agressor), <strong>medo</strong>, <strong>culpa</strong> e <strong>desespero</strong>. Esses traumas podem levar ao desenvolvimento de condições graves como <strong>Transtorno de Estresse Pós-Traumático (TEPT)</strong>, <strong>síndrome do pânico</strong> e <strong>depressão</strong>.</p>
+    <p>As consequências psicológicas de um estupro virtual podem ser tão devastadoras quanto as de um estupro físico. Vítimas frequentemente experimentam sentimentos intensos de humilhação, angústia, raiva (direcionada tanto a si quanto ao agressor), medo, culpa e desespero. Esses traumas podem levar ao desenvolvimento de condições graves como Transtorno de Estresse Pós-Traumático (TEPT), síndrome do pânico e depressão.</p>
 
     <p><a href="https://www.migalhas.com.br/arquivos/2025/5/96709F10DC9470_InterfacescomofenomenoInceleos.pdf" target="_blank"><strong>Saiba mais neste artigo</strong></a></p>
 

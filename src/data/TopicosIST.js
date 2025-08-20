@@ -558,12 +558,80 @@ export default [
         <li>
           <strong>-	Vacinação</strong>
           <p>
+            <strong>HPV quadrivalente</strong>
+            <p>
+              -Crianças e adolescentes (9 a 14 anos): dose única.
+            </p>
+            <p>
+              -Pessoas imunodeprimidas recebem 3 doses:
+            </p>
+            <p>
+              1ª dose no dia de visita ao posto de saúde ou UBS/ ESF;
+            </p>
+            <p>
+              2ª dose, 2 meses após a primeira,
+            </p>
+            <p>
+              3ª dose, 6 meses após a 1ª dose.
+            </p>
+            <p>
+              -Pessoas vítimas de abuso sexual (9 a 14 anos) 2 doses:
+            </p>
+            <p>
+              1ª dose no dia de visita ao posto de saúde ou UBS/ ESF;
+            </p>
+            <p>
+              2ª dose, 6 meses após a 1ª dose.
+            </p>
+            <p>
+              -Pessoas vítimas de abuso sexual (15 a 45 anos) 2 doses:
+            </p>
+
+            <p>
+              1ª dose no dia de visita ao posto de saúde ou UBS/ ESF;
+            </p>
+            <p>
+              2ª dose, 2 meses após a primeira,
+            </p>
+            <p>
+              3ª dose, 6 meses após a 1ª dose.
+            </p>
+            <p>
+              -Pessoas com papilomatose respiratória
+            </p>
+            <p>
+              1ª dose no dia de visita ao posto de saúde ou UBS/ ESF;
+            </p>
+
+            <p>
+              2ª dose, 2 meses após a primeira
+            </p>
+
+            <p>
+              3ª dose, 6 meses após a 1ª dose.
+            </p>
+
+            <p>
+              -Usuários de PrEP
+            </p>
+
+            <p>
+              1ª dose no dia de visita ao posto de saúde ou UBS/ ESF;
+            </p>
+            <p>
+              2ª dose, 2 meses após a primeira
+            </p>
+            <p>
+              3ª dose, 6 meses após a 1ª dose.
+            </p>
+          </p>
+          <p>
           No SUS existe gratuitamente a vacinação para Hepatite B, IST altamente transmissível em relações sexuais sem
            preservativos. Para a imunização completa é necessário realizar três doses, sendo, a primeira dose, a 
            segunda dose um mês depois e a terceira dose 6 meses após a primeira. <br/> <br/>
           Outra vacinação também disponível gratuitamente no SUS é para HPV, IST que pode provocar câncer e 
           verrugas genitais. Atualmente a vacina está disponível para meninas entre 9 a 14 anos e meninos de 11 
-          a 14 anos em duas doses. <br/> <br/>
+          a 14 anos. <br/> <br/>
           Em julho de 2024, o Ministério da Saúde anunciou que pessoas que usam a PreP, de 16 a 45 anos, agora podem se vacinar gratuitamente contra o HPV.
           <br/><br/>
           

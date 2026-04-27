@@ -23,31 +23,31 @@ export default [
   // `,
   // },
   {
-    titulo: "O que é IST?",
+    titulo: "O que são ISTs?",
     route: "/about/3",
     icon: "ponto-de-interrogacao.png",
-    textoHtml: `<article>As Infecções Sexualmente Transmissíveis (IST) são ocasionadas por fungos, 
+    textoHtml: `<article>As Infecções Sexualmente Transmissíveis (ISTs) são ocasionadas por fungos, 
     bactérias, vírus ou outros microrganismos.  
-    Sua transmissão ocorre, em muitos das vezes, por via sexual sem a utilização de camisinha masculina 
+    Sua transmissão ocorre, em muitos das vezes, por via sexual sem a utilização de camisinha externa 
     ou feminina, outras formas de transmissão são através da gestação, amamentação e compartilhamento de 
     objetos pessoais. 
     <br/>
     Ocorreu a substituição da nomenclatura Doenças Sexualmente Transmissíveis (DST) para Infecções 
-    Sexualmente Transmissíveis (IST) devido a possibilidade de um indivíduo ter e transmitir uma infecção, 
+    Sexualmente Transmissíveis (ISTs) devido a possibilidade de um indivíduo ter e transmitir uma infecção, 
     mesmo sem sinais e sintomas.</article>
 
     <h3 style="margin-top:16px; margin-bottom: 8px;">Sintomas</h3>
 
-    <article>As IST´s podem se manifestar de diferentes formas como, verrugas, feridas, escorrimento,
+    <article>As ISTs podem se manifestar de diferentes formas como, verrugas, feridas, escorrimento,
      dor pélvica, ardência ao urinar e outras, podendo aparecer principalmente nos órgãos genitais, 
      mas também em outras áreas como boca, mãos e olhos. 
     <br />
-    Algumas IST´s podem não apresentar sintomas podendo levar a complicações sérias caso não sejam diagnosticadas
+    Algumas ISTs podem não apresentar sintomas podendo levar a complicações sérias caso não sejam diagnosticadas
      e tratadas. Devido a isso, é necessário realizar exames laboratoriais para verificar se houve contato com 
-     alguma IST.
+     alguma ISTs.
     </article>
 
-    <h3 style="margin-top:16px;">Principais IST</h3>
+    <h3 style="margin-top:16px;">Principais ISTs</h3>
 
     <article>
   <ol type="I">
@@ -73,7 +73,7 @@ export default [
       <label class="d-flex justify-center">Fonte: DST, 2021.</label>
     </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -100,7 +100,7 @@ export default [
       <label class="d-flex justify-center">Fonte: Jaleko Artmed, 2021.</label>
     </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -108,7 +108,7 @@ export default [
     <li>
       <strong>Donovanose</strong>
       <article>
-        A <strong> Donovanose </strong> é uma IST causada por uma bactéria que acomete
+        A <strong> Donovanose </strong> é uma ISTs causada por uma bactéria que acomete
         a pele e mucosa das regiões da genitália, virilha e ânus, apresentando uma
         predileção pelas regiões de dobras e região perianal. <br />
         <br />
@@ -126,7 +126,7 @@ export default [
       <label class="d-flex justify-center">Fonte: Jaleko Artmed, 2021.</label>
     </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -152,7 +152,7 @@ export default [
       <label class="d-flex justify-center">Fonte: GoConqr, 2020.</label>
     </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -266,7 +266,7 @@ export default [
       </article>
 
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -300,7 +300,7 @@ export default [
       </article>
 
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -320,7 +320,7 @@ export default [
         <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
       </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -359,7 +359,7 @@ export default [
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
         <p class="mt-3 text-caption text-center">
-          Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+          Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
           serviço de saúde para o diagnóstico correto e indicação do tratamento
           adequado
         </p>
@@ -381,7 +381,7 @@ export default [
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
         <p class="mt-3 text-caption text-center">
-          Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+          Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
           serviço de saúde para o diagnóstico correto e indicação do tratamento
           adequado
         </p>
@@ -402,7 +402,7 @@ export default [
         <img class="mx-auto" style="max-width: 49%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fherpes2.jpg?alt=media&token=4b22ee3e-4912-456f-b198-efb332f6c7ec" />
       </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento
         adequado
       </p>
@@ -418,12 +418,12 @@ export default [
     icon: "sintomas.png",
     textoHtml: `
     <article>
-    A Prevenção Combinada associa diferentes ações de prevenção ao HIV e as outras IST 's, 
+    A Prevenção Combinada associa diferentes ações de prevenção ao HIV e as outras ISTs, 
     como as hepatites virais, essas medidas auxiliam os indivíduos a atingirem o estágio de saúde integral. 
     Essas ações podem estar combinadas de acordo com as características individuais, de saúde e de 
     relacionamento de cada pessoa. <br/> <br/>
     Entre os métodos utilizados na Prevenção Combinada, podemos citar: a testagem para o HIV;a prevenção 
-    da transmissão vertical do HIV; o tratamento das IST´s e das hepatites virais; a imunização para as 
+    da transmissão vertical do HIV; o tratamento das ISTs e das hepatites virais; a imunização para as 
     hepatites A e B; a redução de danos para usuários de álcool e outras drogas; a profilaxia pré-exposição 
     (PrEP); a profilaxia pós-exposição (PEP); e a terapia antirretroviral (TARV). 
     
@@ -471,7 +471,7 @@ export default [
           A Profilaxia Pré-Exposição ao HIV é o método de prevenção à infecção pelo HIV. 
           Esse tratamento consiste na tomada diária de um comprimido que permite ao organismo estar preparado 
           para enfrentar um possível contato com o vírus do HIV. <br/> <br/>
-          É importante lembrar que a PreEP não protege contra as outras IST´s, como a Sífilis e as hepatites 
+          É importante lembrar que a PreEP não protege contra as outras ISTs, como a Sífilis e as hepatites 
           virais, sendo assim, torna-se necessário a combinação desse método com outras estratégias, como a 
           camisinha. <br/> 
           <strong>Quem pode usar:</strong> <br/>
@@ -492,7 +492,44 @@ export default [
           </figure>
         </li>
         <li>
-          <strong>-	Testagem regular para IST´s</strong>
+          <strong>Camisinha externa</strong>
+          <p>
+          A camisinha externa é o método eficaz na proteção contra a grvidez e as ISTs, 
+          impedindo o contato do pênis com a boca, ânus e vagina. A camisinha é prática, 
+          devendo ser usada no momento da relação sexual e descartada em seguida.
+          <br/> <br/>
+          Para o seu uso seguro, devemos nos atentar para algumas dicas de uso, como: Não deixar a 
+          camisinha exposta ao sol; não carregar permanentemente em carteira ou bolso; nunca utilizar duas 
+          camisinhas ao mesmo tempo; verificar se a embalagem não está furada antes do uso.
+          </p> 
+          <figure class="d-flex align-center flex-column">
+            <img cover class="mx-auto" style="max-width: 50%" src="https://www.treslagoas.ms.gov.br/wp-content/uploads/2025/10/NOVOS-PRESEVATIVOS-21-10-1-scaled.jpg" />
+            <label class="d-flex justify-center">Fonte: Tres Lagoas Ms GOV</label>
+          </figure>
+          <figure class="d-flex align-center flex-column">
+            <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha2.jpg?alt=media&token=da9a228e-b1fc-42a3-8d88-56b65f3c36f6" />
+            <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
+          </figure>
+        </li>
+        <li>
+          <strong>camisinha interna</strong>
+          <p>
+          A camisinha interna é um tubo feito de plástico resistente, que não diminui o prazer sexual, 
+          e é colocado dentro da vagina para evitar o contato com o pênis sendo eficaz para proteger da 
+          gravidez e das ISTs. A camisinha interna deve ser usada em todas as relações sexuais, mesmo 
+          durante a menstruação.
+          </p> 
+          <figure class="d-flex align-center flex-column">
+            <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha3.jpg?alt=media&token=50c00f79-bda3-4e0c-b44e-1c0eefb4cc28" />
+            <label class="d-flex justify-center">Fonte: Google</label>
+          </figure>
+          <figure class="d-flex align-center flex-column">
+            <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha4.jpg?alt=media&token=daa6b618-190a-43a8-9681-090ee08eb3f5" />
+            <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
+          </figure>
+        </li>
+        <li>
+          <strong>-	Testagem regular para ISTs</strong>
           <p>
           O SUS oferece gratuitamente a testagem para o diagnóstico de HIV, Sífilis e Hepatite C e B. 
           Os testes rápidos são práticos e realizados a partir da coleta de uma gota de sangue, que fornecem o 
@@ -626,10 +663,10 @@ export default [
             </p>
           </p>
           <p>
-          No SUS existe gratuitamente a vacinação para Hepatite B, IST altamente transmissível em relações sexuais sem
+          No SUS existe gratuitamente a vacinação para Hepatite B, ISTs altamente transmissível em relações sexuais sem
            preservativos. Para a imunização completa é necessário realizar três doses, sendo, a primeira dose, a 
            segunda dose um mês depois e a terceira dose 6 meses após a primeira. <br/> <br/>
-          Outra vacinação também disponível gratuitamente no SUS é para HPV, IST que pode provocar câncer e 
+          Outra vacinação também disponível gratuitamente no SUS é para HPV, ISTs que pode provocar câncer e 
           verrugas genitais. Atualmente a vacina está disponível para meninas entre 9 a 14 anos e meninos de 11 
           a 14 anos. <br/> <br/>
           Em julho de 2024, o Ministério da Saúde anunciou que pessoas que usam a PreP, de 16 a 45 anos, agora podem se vacinar gratuitamente contra o HPV.
@@ -829,9 +866,9 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               </figure>
             </li>
             <li>
-              <strong>Camisinha masculina</strong>
+              <strong>Camisinha externa</strong>
               <p>
-              A camisinha masculina é o método eficaz na proteção contra a grvidez e as IST´s, 
+              A camisinha externa é o método eficaz na proteção contra a grvidez e as ISTs, 
               impedindo o contato do pênis com a boca, ânus e vagina. A camisinha é prática, 
               devendo ser usada no momento da relação sexual e descartada em seguida.
               <br/> <br/>
@@ -853,7 +890,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               <p>
               A camisinha interna é um tubo feito de plástico resistente, que não diminui o prazer sexual, 
               e é colocado dentro da vagina para evitar o contato com o pênis sendo eficaz para proteger da 
-              gravidez e das IST 'S. A camisinha interna deve ser usada em todas as relações sexuais, mesmo 
+              gravidez e das ISTs. A camisinha interna deve ser usada em todas as relações sexuais, mesmo 
               durante a menstruação.
               </p> 
               <figure class="d-flex align-center flex-column">
@@ -905,7 +942,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             <br /> <br />
             O método da Tabela não é indicado em alguns casos, como após o parto ou durante a amamentação, 
             ou para adolescentes e mulheres na pré-menopausa que estejam apresentando ciclos menstruais irregulares. 
-            Esse método não previne contra as IST´S. 
+            Esse método não previne contra as ISTs. 
             </p> 
             <figure class="d-flex align-center flex-column">
               <img cover class="mx-auto" style="max-width: 80%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Ftablea.jpg?alt=media&token=f7b3298b-c8e3-48f1-9dba-106686da25c6" />
@@ -916,7 +953,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             <strong>Coito Interrompido </strong>
             <p>
             O método do Coito Interrompido consiste na retirada do pênis da vagina um pouco antes da ejaculação.
-             Contudo, além de não proteger contra as IST 'S, esse método não deve ser estimulado
+             Contudo, além de não proteger contra as ISTs, esse método não deve ser estimulado
               como método anticoncepcional, devido a grande  possibilidade de falha. 
             </p> 
             <figure class="d-flex align-center flex-column">
@@ -1031,7 +1068,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
     ações de violência e abuso sexual, passam por atendimentos de proteção, prevenção de novas situações e 
     medidas para responsabilizar os agressores <br/><br/>
     No atendimento de saúde, são ofertados para as vítimas de violência sexual serviços psicológico imediato, 
-    profilaxia do HIV e das outas IST, imunização do HBV, testagem para sífilis, HIV e as hepatites virais B 
+    profilaxia do HIV e das outas ISTs, imunização do HBV, testagem para sífilis, HIV e as hepatites virais B 
     e C. Em casos que resultam em gravidez, torna-se garantido o acesso aos serviços de referência para a 
     interrupção da gravidez nos casos previstos pela lei, sendo levado em consideração a anatomia e decisão da 
     mulher.
@@ -1208,7 +1245,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
         
       </article>
     </div>
-    `
+    `,
   },
   {
     titulo: "Prêmios",

@@ -461,13 +461,7 @@ export default [
         <li>
           <strong>-	Profilaxia  Pré-Exposição (PreEP)</strong>
           <p>
-          <video width="240" max-height="240" controls style="display: block; margin: 16px auto">
-            <source
-              src="https://firebasestorage.googleapis.com/v0/b/previst-fb735.appspot.com/o/video_prevencao_combinada.mp4?alt=media&token=09111cfd-e342-4b74-b96b-ba49bc21c2ec"
-              type="video/mp4"
-            />
-            Your browser does not support the video tag.
-          </video>
+          <iframe style="display: block; margin: 16px auto"  src="https://www.youtube.com/embed/JgN7QvNoARo?si=OnNUR3UvttQ4wkIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           A Profilaxia Pré-Exposição ao HIV é o método de prevenção à infecção pelo HIV. 
           Esse tratamento consiste na tomada diária de um comprimido que permite ao organismo estar preparado 
           para enfrentar um possível contato com o vírus do HIV. <br/> <br/>
@@ -479,7 +473,7 @@ export default [
           <br/> <strong>Quanto tempo demora para fazer efeito:</strong>
 
           <br/>Leva de 2 a 7 dias para alcançar níveis de proteção ideais.
-          <a href="http://www.aids.gov.br/pt-br/acesso_a_informacao/servicos-de-saude/prep" target="_blank">Clique aqui</a> para acessar os locais que disponibilizam o tratamento da PreEP
+          <a href="https://www.gov.br/aids/pt-br/assuntos/prevencao-combinada/prep-profilaxia-pre-exposicao/prep-profilaxia-pre-exposicao" target="_blank">Clique aqui</a> para acessar os locais que disponibilizam o tratamento da PreEP
           </p>
           <figure class="d-flex  align-center flex-column">
             <img

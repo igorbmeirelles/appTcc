@@ -51,7 +51,7 @@ export default [
     <article>
   <ol type="I">
     <li>
-      <strong>Cancro Mole</strong>
+      <strong>Cancro mole</strong>
       <article>
         O <strong> cancro mole </strong> é causado pela infecção de uma bactéria,
         sendo sua transmissão através da relação sexual sem o uso de preservativos com

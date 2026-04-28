@@ -3,10 +3,10 @@ export default [
   //   titulo: "Apresentação",
   //   route: "/about/0",
   //   icon: "letra-p.png",
-  //   textoHtml: `<article> Olá! Sejam todos Bem-vindos ao <strong>Prev-IST</strong>, aqui você poderá
+  //   textoHtml: `<article> Olá! Sejam todos bem-vindos ao <strong>Prev-IST</strong>, aqui você poderá
   // encontrar diversas informações sobre as Infecções Sexualmente Transmissíveis (IST),
   // assim como, suas formas de prevenção, sobre as diferenças corporais
-  // causadas pela puberdade, sobre os métodos contraceptivos e muitos outros conteúdos.
+  // causadas pela puberdade, sobre os métodos contraceptivos e outros conteúdos.
   // <br />
 
   // Esse aplicativo surgiu como parte do trabalho de conclusão de curso do graduando
@@ -131,7 +131,7 @@ export default [
     </li>
 
     <li>
-      <strong>Gonorreia e Clamídia</strong>
+      <strong>Gonorreia e clamídia</strong>
       <article>
         São infecções causadas por diferentes bactérias, que na maioria das vezes
         estão associadas podendo causar infecção no órgão genital, garganta e olhos. A
@@ -157,7 +157,7 @@ export default [
     </li>
 
     <li>
-      <strong>Hepatites Virais </strong>
+      <strong>Hepatites virais </strong>
       <article>
         Os vírus hepatotrópico, vírus causadores das hepatites virais (vírus das
         hepatites A, B, C, D e E), são doenças que afetam o tecido do fígado e
@@ -182,13 +182,13 @@ export default [
             fecal-oral, sendo assim, por meio de alimentos e água contaminados pelas
             fezes. Contudo, nas últimas décadas observou-se um aumento dos casos
             associados a práticas sexuais que envolvam a possibilidade do contato
-            fecal-oral. <br /><br />
+            anal-oral. <br /><br />
             Como medida de diminuir as taxas e riscos de infecção, torna-se importante
             incentivar hábitos de higiene antes e após as relações sexuais, assim
             como, o uso de preservativos.<br />
             <br />
-            A infecção pelo HAV pode acarretar em alguns sintomas ,como: diarreia,
-            náuseas, febre, perda de apetite e pele e olhos amarelados.
+            A infecção pelo HAV pode acarretar em alguns sintomas, como: diarreia;
+            náuseas; febre; perda de apetite e pele e olhos amarelados.
           </article>
           </li>
           <li>
@@ -196,27 +196,27 @@ export default [
             
             <article>
               Segundo dados da Organização Mundial de Saúde, o vírus da hepatite B (
-              HBV) já infectou mais de dois bilhões de pessoas ao redor do mundo, sendo
+              HBV) infectou mais de dois bilhões de pessoas ao redor do mundo, sendo
               sua evolução silenciosa acarretando a descoberta da doença décadas após
               sua infecção. <br />
               <br />A transmissão dessa doença ocorre através do contato de secreções
               (sangue, sêmen, leite materno e secreção vaginal) com pele e mucosa, pelo
               compartilhamento de objetos de manicure, lâminas de barbear e piercings.
               Além disso, relações sexuais desprotegidas também são uma forma de
-              contaminação. A infecção pelo vírus da hepatite B geralmente gera poucos
-              sintomas ou nenhum sintoma característico, sendo necessário assim,
+              infecção. A infecção pelo vírus da hepatite B geralmente gera poucos
+              ou nenhum sintoma característico, sendo necessário assim,
               realizar exames laboratoriais para comprovar o contato com o vírus.
             </article>
           </li>
           <li><strong>Hepatite C</strong></li>
           <article>
-            O vírus da hepatite C (HCV) já infectou aproximadamente mais de 71 milhões
-            de pessoas em todo mundo, em muitos dos casos são assintomáticos, o que
+            O vírus da hepatite C (HCV) infectou aproximadamente mais de 71 milhões
+            de pessoas em todo mundo, muitos dos casos são assintomáticos o que
             dificulta o seu diagnóstico e tratamento. <br />
             <br />
             Seus sintomas geralmente são inespecíficos, podendo levar anos para sua
             manifestação. Sua transmissão ocorre através do contato com sangue
-            contaminado, através do compartilhamento de agulhas, seringas e outros
+            contaminado,  compartilhamento de agulhas, seringas e outros
             objetos, além da falta de esterilização de equipamentos odontológicos e de
             manicure. Relações sexuais sem preservativos também podem transmitir o
             vírus.
@@ -238,7 +238,7 @@ export default [
         contato direto com a verruga, sêmen e outras secreções que contenham o vírus
         do HPV, podendo infectar a pele e mucosa (oral e genital). <br />
         <br />Essa infecção pode gerar verrugas de aspecto semelhante a uma couve
-        flor, nos homens, são mais comuns no pênis e no escroto, nas mulheres, na
+        flor, nos homens, são mais comuns no pênis e no escroto (saco), nas mulheres, na
         vagina e colo de útero. O ânus também é uma região de aparecimento dessas
         verrugas. <br />
         <br />
@@ -274,7 +274,7 @@ export default [
       <strong>HIV/ AIDS</strong>
       <article>
         O <strong> HIV </strong>(Vírus da Imunodeficiência Humana), quando infecta uma
-        pessoa, ataca suas células do sistema imunológico responsável pela defesa do
+        pessoa, ataca as células do sistema imunológico responsável pela defesa do
         organismo contra outras doenças. Após a infecção, podem ocorrer sinais e
         sintomas inespecíficos e depois um grande período assintomático que pode durar
         décadas. <br />
@@ -286,11 +286,11 @@ export default [
         <br />
         A <strong>AIDS</strong>, sigla em inglês para a Síndrome da Imunodeficiência
         Adquirida, é uma doença do sistema imunológico humano resultante da infecção
-        pelo vírus HIV. Sendo assim, ter HIV não significa estar com AIDS. <br />
+        pelo vírus HIV. Sendo assim, ter HIV não significa estar com a síndrome. <br />
         <br />
-        A AIDS se caracteriza pelo enfraquecimento do sistema imunológico do corpo,
-        com o organismo mais vulnerável ao aparecimento de doenças oportunistas, como,
-        o resfriado e infecções mais graves como tuberculose ou câncer.
+        A aids/sida se caracteriza pelo enfraquecimento do sistema imunológico do corpo,
+        com o organismo mais vulnerável ao aparecimento de doenças oportunistas, como:
+        resfriado; infecções respiratórias mais graves como tuberculose; (doenças oportunistas); e até mesmo câncer.
 
         <figure class="d-flex align-center flex-column">
           <img contain class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FHIVaids.png?alt=media&token=1d3d3328-29db-4795-9019-dc91e4aeaf7f" />
@@ -310,9 +310,8 @@ export default [
         Das pessoas infectadas pelo vírus do HTLV 1 e 2, cerca de apenas 10% irão
         apresentar sintomas ao longo da vida, sendo assim, sua transmissão silenciosa
         pode atingir diversas pessoas. <br /><br />
-        Seus modos de transmissão são através de práticas sexuais sem preservativos
-        com pessoas infectadas, da gestação, parto e aleitamento materno, sendo a
-        mulher a portadora do vírus, e através do contato com sangue contaminado.
+        Seus modos de transmissão são: através de práticas sexuais sem preservativos
+        com pessoas infectadas; através da gestação, através parto e aleitamento materno, e através do contato com sangue contaminado.
       </article>
       <figure class="d-flex align-center flex-column">
         <img contain class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fhtlv.png?alt=media&token=b95a814d-24a6-4c4b-b07b-1f6e684f7127" />
@@ -330,25 +329,25 @@ export default [
         Sífilis é uma doença causada por uma bactéria que atinge os humanos, quando
         não tratada pode evoluir para formas graves afetando diversos órgãos e sistema
         nervoso e cardiovascular. Sua transmissão ocorre principalmente através do
-        contato sexual desprotegido com uma pessoa infectada e através da gestação de
+        contato sexual desprotegido com uma pessoa infectada, e através da gestação de
         uma mulher com sífilis não tratada. <br /><br />
-        A Sífilis pode ser dividida em estágios que orientam seus sintomas e
+        A sífilis pode ser dividida em estágios que orientam seus sintomas e
         tratamentos, sendo estes:
         <ul>
           <li>
-            - Sífilis primária: Fase característica do aparecimento de uma lesão
-            denominada de “cancro duro”no local de entrada da bactéria (pênis, vulva,
-            vagina, colo uterino, ânus, boca).
+            - Sífilis primária: fase característica do aparecimento de uma lesão
+            denominada de “cancro duro” no local de entrada da bactéria (pênis, vulva,
+            vagina, colo uterino, ânus ou boca).
           </li>
           <li>
-            - Sífilis secundária: Ocorre a cicatrização do cancro e o surgimento de
+            - Sífilis secundária: ocorre a cicatrização do cancro e o surgimento de
             manchas róseas pouco visíveis no tronco e membros. Com o tempo essas
             lesões cutâneas se tornam mais visíveis. Há presenças de outros sintomas
             como, febre e mal-estar. - Sífilis latente: período em que não se observa
             nenhum sinal ou sintoma.
           </li>
           <li>
-            - Sífilis terciária: Estágio no qual ocorre o acometimento do sistema
+            - Sífilis terciária: estágio no qual ocorre o acometimento do sistema
             nervoso e do sistema cardiovascular, sendo frequente em aproximadamente
             25% dos casos de sífilis não tratada.
           </li>
@@ -368,7 +367,7 @@ export default [
     <li>
       <strong>Tricomoníase</strong>
       <article>
-        Doença causada por um protozoário, a Tricomoníase atinge normalmente mais
+        Doença causada por um protozoário, a tricomoníase atinge normalmente mais
         mulheres do que homens sendo aproximadamente 30% de seus casos assintomáticos.
         Além disso, a presença desta infecção está associada com maior facilidade de
         contaminação por outras doenças como a DIP. <br /><br />
@@ -412,17 +411,17 @@ export default [
     `,
   },
   {
-    titulo: "Prevenção Combinada",
+    titulo: "Prevenção combinada",
     route: "/about/4",
     icon: "sintomas.png",
     textoHtml: `
     <article>
-    A Prevenção combinada associa diferentes ações de prevenção ao HIV e as outras ISTs, 
+    A prevenção combinada associa diferentes ações de prevenção ao HIV e as outras ISTs, 
     como as hepatites virais, essas medidas auxiliam os indivíduos a atingirem o estágio de saúde integral. 
     Essas ações podem estar combinadas de acordo com as características individuais, de saúde e de 
     relacionamento de cada pessoa. <br/> <br/>
-    Entre os métodos utilizados na Prevenção Combinada, podemos citar: a testagem para o HIV;a prevenção 
-    da transmissão vertical do HIV; o tratamento das ISTs e das hepatites virais; a imunização para as 
+    Entre os métodos utilizados na prevenção combinada, podemos citar: a testagem para o HIV; a prevenção 
+    da transmissão vertical do HIV (grávida para filho); o tratamento das ISTs e das hepatites virais; a imunização para as 
     hepatites A e B; a redução de danos para usuários de álcool e outras drogas; a profilaxia pré-exposição 
     (PrEP); a profilaxia pós-exposição (PEP); e a terapia antirretroviral (TARV). 
     
@@ -458,7 +457,7 @@ export default [
           </figure>
         </li>
         <li>
-          <strong>-	Profilaxia  Pré-Exposição (PreEP)</strong>
+          <strong>-	Profilaxia Pré-Exposição (PreEP)</strong>
           <p>
           <iframe style="display: block; margin: 16px auto"  src="https://www.youtube.com/embed/JgN7QvNoARo?si=OnNUR3UvttQ4wkIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           A Profilaxia Pré-Exposição ao HIV é o método de prevenção à infecção pelo HIV. 
@@ -471,7 +470,7 @@ export default [
           A PrEP é indicada para qualquer pessoa em situação de vulnerabilidade para o HIV. Deve ser tomada antes da potencial exposição.
           <br/> <strong>Quanto tempo demora para fazer efeito:</strong>
 
-          <br/>Leva de 2 a 7 dias para alcançar níveis de proteção ideais.
+          <br/>Leva de 2 a 7 dias para alcançar níveis de proteção ideais. Ocorreu uma atualização em 2025 sobre a forma de uso, incluindo o uso sob demanda.
           <a href="https://www.gov.br/aids/pt-br/assuntos/prevencao-combinada/prep-profilaxia-pre-exposicao/prep-profilaxia-pre-exposicao" target="_blank">Clique aqui</a> para acessar os locais que disponibilizam o tratamento da PreEP
           </p>
           <figure class="d-flex  align-center flex-column">
@@ -488,10 +487,10 @@ export default [
           <strong>Camisinha externa</strong>
           <p>
           A camisinha externa é o método eficaz na proteção contra a grvidez e as ISTs, 
-          impedindo o contato do pênis com a boca, ânus e vagina. A camisinha é prática, 
-          devendo ser usada no momento da relação sexual e descartada em seguida.
+          impedindo o contato do pênis com a boca, ânus e vagina. O preservativo é prático, 
+          devendo ser usado no momento da relação sexual e descartado em seguida.
           <br/> <br/>
-          Para o seu uso seguro, devemos nos atentar para algumas dicas de uso, como: Não deixar a 
+          Para o seu uso seguro, devemos nos atentar para algumas dicas de uso, como: não deixar a 
           camisinha exposta ao sol; não carregar permanentemente em carteira ou bolso; nunca utilizar duas 
           camisinhas ao mesmo tempo; verificar se a embalagem não está furada antes do uso.
           </p> 
@@ -508,8 +507,8 @@ export default [
           <strong>camisinha interna</strong>
           <p>
           A camisinha interna é um tubo feito de plástico resistente, que não diminui o prazer sexual, 
-          e é colocado dentro da vagina para evitar o contato com o pênis sendo eficaz para proteger da 
-          gravidez e das ISTs. A camisinha interna deve ser usada em todas as relações sexuais, mesmo 
+          é colocado dentro da vagina ou ânus para evitar o contato com o pênis sendo eficaz para evitar a 
+          gravidez e as ISTs. A camisinha interna deve ser usada em todas as relações sexuais, mesmo 
           durante a menstruação.
           </p> 
           <figure class="d-flex align-center flex-column">
@@ -524,12 +523,12 @@ export default [
         <li>
           <strong>-	Testagem regular para ISTs</strong>
           <p>
-          O SUS oferece gratuitamente a testagem para o diagnóstico de HIV, Sífilis e Hepatite C e B. 
+          O SUS oferece gratuitamente a testagem para o diagnóstico de HIV, sífilis e hepatites C e B. 
           Os testes rápidos são práticos e realizados a partir da coleta de uma gota de sangue, que fornecem o 
-          resultado em até 30min. O sistema de saúde também oferece os exames laboratoriais que são coletados e 
-          encaminhados para o processamento nos laboratórios. <br/> <br/>
+          resultado em até 30min. O sistema de saúde também oferece os exames de sangue que são coletados e 
+          encaminhados para laudos laboratoriais. <br/> <br/>
           Apesar da eficácia desses exames, todos esses procedimentos possuem um período conhecido como 
-          “Janela diagnóstica”, período no qual corresponde ao tempo entre o contato com o vírus e a detecção 
+          “janela diagnóstica”, período no qual corresponde ao tempo entre o contato com o vírus e a detecção 
           do marcador da infecção no organismo. Sendo assim, em casos de resultados negativos que ainda persista 
           a suspeita de infecção, torna-se aconselhado repetir os testes após 30 dias.
           </p>
@@ -548,7 +547,7 @@ export default [
           <p>
             Pares e parcerias sexuais de pessoas em PrEP;
             Distribuição fora dos serviços de saúde por OSC, equipes das de saúde e parceiros em locais de sociabilidade da população chave, em horários alternativos;
-            Unidades de saúde: Sala para realização do autoteste em privacidade e distribuição para pares e parcerias sexuais de pessoas testadas nos serviços.
+            Unidades de saúde: sala para realização do autoteste em privacidade e distribuição para pares e parcerias sexuais de pessoas testadas nos serviços.
             O autoteste atualmente distribuído pelo Ministério da Saúde possui uma tarja vermelha indicando que sua venda é proibida. Caso seja observada alguma intenção de venda, orienta-se denunciar na Ouvidoria (ligação para o 156 ou registrar neste formulário).
           </p>
 
@@ -567,11 +566,11 @@ export default [
         <li>
           <strong>-	Tratamento para prevenção</strong>
           <p>
-          A adesão ao tratamento e uso dos medicamentos antirretrovirais, em pacientes que vivem com HIV (PVHIV), 
-          garantem o controle da doença e prevenindo a evolução para o estágio de AIDS. Os PVHIV que mantêm o 
+          A adesão ao tratamento e uso dos medicamentos antirretrovirais, em pessoas que vivem com HIV (PVHIV), 
+          garantem o controle da doença e prevenindo a evolução para o estágio de aids/sida. As PVHIV que mantêm o 
           tratamento regular apresentam carga viral indetectável, baixa quantidade de vírus circulante no organismo, 
           não irão transmitir, sendo assim, <strong> indetectável é igual intransmissível. </strong>  <br/> <br/>
-          O tratamento de outras IST´s também está disponível gratuitamente no SUS, como em casos de Sífilis, o 
+          O tratamento de outras IST´s também está disponível gratuitamente no SUS, como em casos de sífilis, o 
           tratamento é realizado com injeções do antibiótico penicilina benzatina, variando as doses de acordo com 
           o estágio clínico da doença e sendo necessário repetir o exame para confirmar a cura da doença.
           </p>
@@ -589,77 +588,52 @@ export default [
           <strong>-	Vacinação</strong>
           <p>
             <strong>HPV quadrivalente</strong>
-            <p>
+        <p>
               -Crianças e adolescentes (9 a 14 anos): dose única.
-            </p>
-            <p>
+        <p>
               -Pessoas imunodeprimidas recebem 3 doses:
-            </p>
-            <p>
+        <p>
               1ª dose no dia de visita ao posto de saúde ou UBS/ ESF;
-            </p>
-            <p>
+        <p>
               2ª dose, 2 meses após a primeira,
-            </p>
-            <p>
+        <p>
               3ª dose, 6 meses após a 1ª dose.
-            </p>
-            <p>
+        <p>
               -Pessoas vítimas de abuso sexual (9 a 14 anos) 2 doses:
-            </p>
-            <p>
+        <p>
               1ª dose no dia de visita ao posto de saúde ou UBS/ ESF;
-            </p>
-            <p>
+        </p>
               2ª dose, 6 meses após a 1ª dose.
-            </p>
-            <p>
+        <p>
               -Pessoas vítimas de abuso sexual (15 a 45 anos) 2 doses:
-            </p>
-
-            <p>
+        <p>
               1ª dose no dia de visita ao posto de saúde ou UBS/ ESF;
-            </p>
-            <p>
+        <p>
               2ª dose, 2 meses após a primeira,
-            </p>
-            <p>
+        <p>
               3ª dose, 6 meses após a 1ª dose.
-            </p>
-            <p>
+        <p>
               -Pessoas com papilomatose respiratória
-            </p>
-            <p>
+        <p>
               1ª dose no dia de visita ao posto de saúde ou UBS/ ESF;
-            </p>
-
-            <p>
+        <p>
               2ª dose, 2 meses após a primeira
-            </p>
-
-            <p>
+        <p>
               3ª dose, 6 meses após a 1ª dose.
-            </p>
-
-            <p>
+        <p>
               -Usuários de PrEP
-            </p>
-
-            <p>
+        <p>
               1ª dose no dia de visita ao posto de saúde ou UBS/ ESF;
-            </p>
-            <p>
+        <p>
               2ª dose, 2 meses após a primeira
-            </p>
-            <p>
+        <p>
               3ª dose, 6 meses após a 1ª dose.
             </p>
-          </p>
-          <p>
-          No SUS existe gratuitamente a vacinação para Hepatite B, ISTs altamente transmissível em relações sexuais sem
+            <p>
+          No SUS existe gratuitamente a vacinação para hepatite B, IST altamente transmissível em relações sexuais sem
            preservativos. Para a imunização completa é necessário realizar três doses, sendo, a primeira dose, a 
            segunda dose um mês depois e a terceira dose 6 meses após a primeira. <br/> <br/>
-          Outra vacinação também disponível gratuitamente no SUS é para HPV, ISTs que pode provocar câncer e 
+          Outra vacinação também disponível gratuitamente no SUS é para HPV, IST que pode provocar câncer e 
           verrugas genitais. Atualmente a vacina está disponível para meninas entre 9 a 14 anos e meninos de 11 
           a 14 anos. <br/> <br/>
           Em julho de 2024, o Ministério da Saúde anunciou que pessoas que usam a PreP, de 16 a 45 anos, agora podem se vacinar gratuitamente contra o HPV.
@@ -680,7 +654,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
         </p>
         
           Em casos de dúvidas,  procure uma Unidade Básica de Saúde para mais informações e para completar o seu 
-          esquema vacinal.
+          esquema vacinal. Para saber mais sobre vacinas vicite nosso app https://maisvacinas.netlify.app/ 
           </p>
         </li>
         <li>
@@ -717,7 +691,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
       exemplificado nos seguintes itens: 
       <ul style="padding: 0px">
         <li>
-          -	Estirão do crescimento: Processo de aceleração do crescimento estatural, 
+          -	Estirão do crescimento: processo de aceleração do crescimento estatural, 
           geralmente iniciado pelas mãos e pés marcando  início da fase da adolescência. 
         </li>
         <li>
@@ -771,16 +745,16 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           Na maturação sexual do sexo feminino, as transformações que ocorrem durante o período da puberdade, são:
           <ul>
             <li>
-              -	Surgimento do broto mamário (seios)
+              -	Surgimento do broto mamário (mamas);
             </li>
             <li>
-              -	Crescimento dos pelos na genitália e nas axilas 
+              -	Crescimento dos pelos na genitália e nas axilas; 
             </li>
             <li>
-              -	Aumento do tamanho do quadril 
+              -	Aumento do tamanho do quadril; 
             </li>
             <li>
-              -	Ocorre a primeira menstruação, conhecida como Menarca 
+              -	Ocorre a primeira menstruação, conhecida como menarca. 
             </li>
           </ul>
           <figure class="d-flex  align-center flex-column">
@@ -816,7 +790,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           Para isso, torna-se  importante procurar um serviço de saúde para receber informações sobre os métodos anticoncepcionais 
           disponíveis e para obter o método escolhido que estão disponíveis no Sistema Único de Saúde (SUS).
           </p>
-          <p class="text-caption" style="text-align: center">Nessa seção iremos abordar alguns dos diferentes tipos de métodos contraceptivos e suas vantagens e desvantagens. </p>
+          <p class="text-caption" style="text-align: center">Nesta seção, iremos abordar alguns dos diferentes tipos de métodos contraceptivos e suas vantagens e desvantagens. </p>
           <figure class="d-flex align-center flex-column">
             <img contain class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fbbc2018.png?alt=media&token=8a2569d4-77a0-4eaf-8882-f900f5fc2b14" />
             <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
@@ -826,16 +800,16 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           <strong>Quais são?</strong>
           <ol>
             <li>
-            <strong>Pílulas Anticoncepcionais</strong>
+            <strong>Pílulas anticoncepcionais</strong>
             <p>
             As pílulas anticoncepcionais são métodos hormonais que impedem a ovulação e dificultam a passagem dos espermatozóides.
              Esse método é indicado para qualquer mulher, adolescente ou adulta, sendo recomendado o uso diário 
              preferencialmente no mesmo horário, em casos de esquecimento, deve-se tomar a pílula de imediato.
             <br/> <br/>
             Alguns efeitos colaterais ao uso desses hormônios são relatados, como:  diminuição da quantidade e dias de 
-            sangramento, alterações de peso, alterações de humor e dores de cabeça. Contudo, seu uso ajuda na proteção 
+            sangramento; alterações de peso; alterações de humor; e dores de cabeça. Contudo, seu uso ajuda na proteção 
             contra a gravidez, doença inflamatória pélvica e ajudam na redução das cólicas menstruais. 
-            Além disso, as pílulas anticoncepcionais não protegem contra as IST´s.
+            Além disso, as pílulas anticoncepcionais não protegem contra as ISTs.
             </p>
             <figure class="d-flex align-center flex-column">
               <img cover class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpilulaAnticoncepcional.jpg?alt=media&token=9cb9ca22-3588-4aab-9ea0-e8ad65fa609e" />
@@ -843,10 +817,10 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             </figure>
             </li>
             <li>
-              <strong>Injeções Anticoncepcionais</strong>
+              <strong>Injeções anticoncepcionais</strong>
               <p>
               As injeções anticoncepcionais são feitas de hormônios parecidos com os produzidos pelo corpo, 
-              agindo também impedindo a ovulação. Existem diferentes opções dessas injeções, sendo possível optar 
+              impedindo a ovulação. Existem diferentes opções dessas injeções, sendo possível optar 
               pela injeção mensal ou trimestral.
               <br/> <br/>
               Alguns efeitos colaterais podem ser observados após três meses, como sangramento irregular ou 
@@ -865,7 +839,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               impedindo o contato do pênis com a boca, ânus e vagina. A camisinha é prática, 
               devendo ser usada no momento da relação sexual e descartada em seguida.
               <br/> <br/>
-              Para o seu uso seguro, devemos nos atentar para algumas dicas de uso, como: Não deixar a 
+              Para o seu uso seguro, devemos nos atentar para algumas dicas de uso, como: não deixar a 
               camisinha exposta ao sol; não carregar permanentemente em carteira ou bolso; nunca utilizar duas 
               camisinhas ao mesmo tempo; verificar se a embalagem não está furada antes do uso.
               </p> 
@@ -882,8 +856,8 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               <strong>camisinha interna</strong>
               <p>
               A camisinha interna é um tubo feito de plástico resistente, que não diminui o prazer sexual, 
-              e é colocado dentro da vagina para evitar o contato com o pênis sendo eficaz para proteger da 
-              gravidez e das ISTs. A camisinha interna deve ser usada em todas as relações sexuais, mesmo 
+              é colocado dentro da vagina ou ânus para evitar o contato com o pênis sendo eficaz para evitar 
+              gravidez e  ISTs. A camisinha interna deve ser usada em todas as relações sexuais, mesmo 
               durante a menstruação.
               </p> 
               <figure class="d-flex align-center flex-column">
@@ -900,10 +874,10 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             <p>
             É uma capa flexível, com uma borda em forma de anel, que é colocada na vagina cobrindo o colo 
             do útero. Esse método evita a gravidez impedindo a entrada dos espermatozóides dentro do útero, 
-            contudo não previne contra as IST´S. Existem diafragmas de diversos tamanhos, sendo necessária a 
+            contudo não previne contra as ISTs. Existem diafragmas de diversos tamanhos, sendo necessária a 
             medição por profissional de saúde para determinar o mais adequado para cada mulher.
             <br /> <br /> 
-            O Diafragma não deve ser utilizado em períodos de menstruação e deve ser retirado de seis a 
+            O diafragma não deve ser utilizado em períodos de menstruação, e deve ser retirado de seis a 
             oito horas após a última relação sexual.
             </p> 
             <figure class="d-flex align-center flex-column">
@@ -919,7 +893,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             espermatozóide com o óvulo. <br/> <br/>
             A mulher que usa DIU pode apresentar aumento do sangramento menstrual e aumento na duração da menstruação 
             ou apresentar cólicas. Esse dispositivo deve ser colocado por um profissional de saúde treinado e a 
-            capacidade de engravidar retorna após a retirada do DIU. Esse método não previne contra as IST´S. 
+            capacidade de engravidar retorna, após a retirada do DIU. Esse método não previne contra as ISTs. 
             </p> 
             <figure class="d-flex align-center flex-column">
               <img cover class="mx-auto" style="max-width: 80%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fdiu.jpg?alt=media&token=09f78318-6134-4c34-aebe-3a37ab4c6232" />
@@ -933,7 +907,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             para determinar o período fértil do ciclo menstrual da mulher, sendo sua eficácia maior se o 
             casal não tiver relação sexual com penetração vaginal no período fértil.
             <br /> <br />
-            O método da Tabela não é indicado em alguns casos, como após o parto ou durante a amamentação, 
+            O método da tabela não é indicado em alguns casos, como após o parto ou durante a amamentação, 
             ou para adolescentes e mulheres na pré-menopausa que estejam apresentando ciclos menstruais irregulares. 
             Esse método não previne contra as ISTs. 
             </p> 
@@ -947,7 +921,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             <p>
             O método do coito interrompido consiste na retirada do pênis da vagina um pouco antes da ejaculação.
              Contudo, além de não proteger contra as ISTs, esse método não deve ser estimulado
-              como método anticoncepcional, devido a grande  possibilidade de falha. 
+              como método anticoncepcional, devido a grande possibilidade de falha. 
             </p> 
             <figure class="d-flex align-center flex-column">
               <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FcoitoInterrompido.jpg?alt=media&token=c88e2402-4df6-46b8-a35c-1c38d64dd3ba" />
@@ -967,15 +941,15 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             </figure>
           </li>
           <li>
-            <strong>Pílula Anticoncepcional de emergência</strong>
+            <strong>Pílula anticoncepcional de emergência</strong>
             <p>
             As pílulas anticoncepcionais de emergência, conhecidas como “pílulas do dia seguinte”, 
             ajudam a prevenir a gravidez após a relação sexual desprotegida, quando ingerida até 5 dias 
             após a exposição. São indicados em casos de relações sexuais sem consetimento, sem o uso de 
             preservativos ou com seu uso incorreto. Contudo, esse método não interrompe uma gravidez já existente.
             <br /> <br/>
-            Alguns efeitos colaterais podem ser observados, como: alterações nos padrões de sangramento, náuseas, 
-            fadiga e dor abdominal.  
+            Alguns efeitos colaterais podem ser observados, como: alterações nos padrões de sangramento; náuseas; 
+            fadiga; e dor abdominal.  
             </p> 
             <figure class="d-flex align-center flex-column">
               <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpilulaEmergencia.jpg?alt=media&token=ac3dbb34-e590-46a7-9579-55504e6bb37e" />
@@ -983,7 +957,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             </figure>
           </li>
           <li>
-            <strong>O que é o chip anticoncepcional?</strong>
+            <strong>O que é o chip anticoncepcional? (implanon)</strong>
             <figure class="d-flex align-center flex-column">
               <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/storage-eb37e.appspot.com/o/WhatsApp%20Image%202025-07-28%20at%2011.33.47%20PM.jpeg?alt=media&token=1cfdf4bb-fa03-4beb-9be3-9305ce0c0e2a" />
               <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/storage-eb37e.appspot.com/o/WhatsApp%20Image%202025-07-28%20at%2011.36.36%20PM.jpeg?alt=media&token=c67ecb58-1fe1-49ba-ae91-6892ee4494cf" />
@@ -1011,7 +985,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
              Para evitar esse tipo de problema:
             <ul>
               <li>
-                Coma de forma saudável, evite produtos ultraprocessados
+                Se alimente  de forma saudável, evite produtos ultraprocessados
               </li> 
               <li>
                 Pratique atividades físicas 🏃‍♀️♀️
@@ -1047,7 +1021,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
     `,
   },
   {
-    titulo: "Violência Sexual ",
+    titulo: "Violência sexual ",
     route: "/about/7",
     icon: "violencia.png",
     textoHtml: `
@@ -1088,7 +1062,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
 
     <p>Por ser considerado um crime hediondo, o estupro virtual não permite fiança e a pena varia de 6 a 10 anos de reclusão.</p>
 
-    <p>A abrangência do "Ato Libidinoso" e as Formas do Estupro Virtual</p>
+    <p>A abrangência do "ato libidinoso" e as formas do estupro virtual</p>
 
     <p>O termo "ato libidinoso" abarca qualquer conduta que vise à satisfação sexual, e no contexto virtual, isso se manifesta de diversas maneiras, mesmo sem a possibilidade de "conjunção carnal" (relação sexual com penetração). A internet e as redes sociais facilitam a prática desses atos sem contato físico, tornando o estupro virtual uma realidade complexa e multifacetada.</p>
 
@@ -1185,7 +1159,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
         O surto é no continente africano, mas pelo Brasil há casos notificados, principalmente, no RJ e SP. O alerta da OMS pede para que os países fiquem mais alertas para um novo subtipo que pode se espalhar, mas calma que não é uma pandemia!
         Sintomas: febre, dor de cabeça, dor no corpo, coceira, cansaço, enjoo e vômitos. 
         Sinais: indivíduo de qualquer idade que apresente início súbito de lesão em mucosas (boca, anus, vagina, olho) E/OU erupção de pele aguda sugestiva de Mpox, única ou várias, em qualquer parte do corpo, ínguas (linfonodos inchados).
-        Os fases da doença na pele são: específicos com máculas, pápulas, vesículas, pústulas e crostas, neta sequência.
+        As fases da doença na pele são: específicos com máculas, pápulas, vesículas, pústulas e crostas, neta sequência.
         </p>
 
         <figure class="d-flex  align-center flex-column">

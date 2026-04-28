@@ -505,7 +505,7 @@ export default [
           </figure>
         </li>
         <li>
-          <strong>camisinha interna</strong>
+          <strong>Camisinha interna</strong>
           <p>
           A camisinha interna é um tubo feito de plástico resistente, que não diminui o prazer sexual, 
           é colocado dentro da vagina ou ânus para evitar o contato com o pênis sendo eficaz para evitar a 
@@ -860,7 +860,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               </figure>
             </li>
             <li>
-              <strong>camisinha interna</strong>
+              <strong>Camisinha interna</strong>
               <p>
               A camisinha interna é um tubo feito de plástico resistente, que não diminui o prazer sexual, 
               é colocado dentro da vagina ou ânus para evitar o contato com o pênis sendo eficaz para evitar 

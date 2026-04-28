@@ -12,7 +12,7 @@ export default [
   // Esse aplicativo surgiu como parte do trabalho de conclusão de curso do graduando
   // João Victor Manço Resende da Escola de Enfermagem Aurora de Afonso Costa da
   // Universidade Federal Fluminense (EEAAC-UFF), orientado pelo Dr. Jorge Luiz Lima da
-  // Silva. Aproveitem o aplicativo, explorem todas as abas, esclareçam suas dúvidas e
+  // Silva (MEP/PPGSC/MPES-UFF). Aproveitem o aplicativo, explorem todas as abas, esclareçam suas dúvidas e
   // compartilhem com seus amigos e familiares. Informação e saúde para todos!</article>
   // <div style="display: flex; justify-content:center; margin-top:32px ">
   //   <video width="80%" height="240" controls>
@@ -28,12 +28,11 @@ export default [
     icon: "ponto-de-interrogacao.png",
     textoHtml: `<article>As Infecções Sexualmente Transmissíveis (ISTs) são ocasionadas por fungos, 
     bactérias, vírus ou outros microrganismos.  
-    Sua transmissão ocorre, em muitos das vezes, por via sexual sem a utilização de camisinha externa 
-    ou feminina, outras formas de transmissão são através da gestação, amamentação e compartilhamento de 
+    Sua transmissão ocorre muitas vezes, por via sexual sem a utilização de preservativos, e outras formas de transmissão são através da gestação, amamentação e compartilhamento de 
     objetos pessoais. 
     <br/>
     Ocorreu a substituição da nomenclatura Doenças Sexualmente Transmissíveis (DST) para Infecções 
-    Sexualmente Transmissíveis (ISTs) devido a possibilidade de um indivíduo ter e transmitir uma infecção, 
+    Sexualmente Transmissíveis (ISTs), devido a possibilidade de um indivíduo ter e transmitir uma infecção, 
     mesmo sem sinais e sintomas.</article>
 
     <h3 style="margin-top:16px; margin-bottom: 8px;">Sintomas</h3>
@@ -54,13 +53,13 @@ export default [
     <li>
       <strong>Cancro Mole</strong>
       <article>
-        O <strong> Cancro mole </strong> é causado pela infecção de uma bactéria,
+        O <strong> cancro mole </strong> é causado pela infecção de uma bactéria,
         sendo sua transmissão através da relação sexual sem o uso de preservativos com
-        uma pessoa infectada, sendo mais frequente em homens. <br />
+        uma pessoa infectada, sendo mais frequente nos homens. <br />
         <br />
         Seus sintomas consistem no aparecimento de feridas múltiplas e dolorosas com
         presença de pus nos órgãos genitais, além de surgimento de nódulos na virilha.
-        Nos homens, são mais frequentes o aparecimento no frênulo e nas mulheres nos
+        Nos homens, são mais frequentes o aparecimento no frênulo (freio do pênis) e nas mulheres nos
         pequenos e grandes lábios.
       </article>
       <figure class="d-flex  align-center flex-column">
@@ -73,7 +72,7 @@ export default [
       <label class="d-flex justify-center">Fonte: DST, 2021.</label>
     </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -87,8 +86,8 @@ export default [
         <br />
         Sua transmissão ocorre através da relação sexual desprotegida com pessoas
         infectadas, podendo levar homens e mulheres à infertilidade. Alguns de seus
-        sintomas são: dor abdominal e nas costas, febre, vômito, dor ao urinar e
-        corrimento.
+        sintomas são: dor abdominal; nas costas; febre; vômito; dor ao urinar e
+        corrimento vaginal.
       </article>
       <figure class="d-flex  align-center flex-column">
       <img
@@ -100,7 +99,7 @@ export default [
       <label class="d-flex justify-center">Fonte: Jaleko Artmed, 2021.</label>
     </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -108,7 +107,7 @@ export default [
     <li>
       <strong>Donovanose</strong>
       <article>
-        A <strong> Donovanose </strong> é uma ISTs causada por uma bactéria que acomete
+        A <strong> donovanose </strong> é uma IST causada por uma bactéria que acomete
         a pele e mucosa das regiões da genitália, virilha e ânus, apresentando uma
         predileção pelas regiões de dobras e região perianal. <br />
         <br />
@@ -126,7 +125,7 @@ export default [
       <label class="d-flex justify-center">Fonte: Jaleko Artmed, 2021.</label>
     </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -152,7 +151,7 @@ export default [
       <label class="d-flex justify-center">Fonte: GoConqr, 2020.</label>
     </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -266,7 +265,7 @@ export default [
       </article>
 
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -300,7 +299,7 @@ export default [
       </article>
 
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -320,7 +319,7 @@ export default [
         <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
       </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento adequado
       </p>
     </li>
@@ -359,7 +358,7 @@ export default [
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
         <p class="mt-3 text-caption text-center">
-          Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
+          Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
           serviço de saúde para o diagnóstico correto e indicação do tratamento
           adequado
         </p>
@@ -381,7 +380,7 @@ export default [
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
         <p class="mt-3 text-caption text-center">
-          Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
+          Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
           serviço de saúde para o diagnóstico correto e indicação do tratamento
           adequado
         </p>
@@ -402,7 +401,7 @@ export default [
         <img class="mx-auto" style="max-width: 49%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fherpes2.jpg?alt=media&token=4b22ee3e-4912-456f-b198-efb332f6c7ec" />
       </figure>
       <p class="mt-3 text-caption text-center">
-        Na presença de qualquer sinal ou sintoma dessa ISTs, recomenda-se procurar um
+        Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
         serviço de saúde para o diagnóstico correto e indicação do tratamento
         adequado
       </p>
@@ -418,7 +417,7 @@ export default [
     icon: "sintomas.png",
     textoHtml: `
     <article>
-    A Prevenção Combinada associa diferentes ações de prevenção ao HIV e as outras ISTs, 
+    A Prevenção combinada associa diferentes ações de prevenção ao HIV e as outras ISTs, 
     como as hepatites virais, essas medidas auxiliam os indivíduos a atingirem o estágio de saúde integral. 
     Essas ações podem estar combinadas de acordo com as características individuais, de saúde e de 
     relacionamento de cada pessoa. <br/> <br/>
@@ -722,7 +721,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           geralmente iniciado pelas mãos e pés marcando  início da fase da adolescência. 
         </li>
         <li>
-          -	Maturação sexual: Desenvolvimentos das características sexuais secundárias, 
+          -	Maturação sexual: desenvolvimentos das características sexuais secundárias, 
           que veremos a seguir separadamente. 
         </li>
       </ul>
@@ -913,9 +912,9 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             </figure>
           </li>
           <li>
-            <strong>Dispositivo IntraUterino (DIU)</strong>
+            <strong>Dispositivo intraUterino (DIU)</strong>
             <p>
-            O Dispositivo Intra-Uterino (DIU), é um objeto colocado no interior do útero para evitar a gravidez, 
+            O Dispositivo Intra-Uterino (DIU) é um objeto colocado no interior do útero para evitar a gravidez, 
             podendo ser recoberto por cobre ou conter hormônio. O DIU não provoca aborto, pois impede o encontro do 
             espermatozóide com o óvulo. <br/> <br/>
             A mulher que usa DIU pode apresentar aumento do sangramento menstrual e aumento na duração da menstruação 
@@ -930,7 +929,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           <li>
             <strong>Tabela</strong>
             <p>
-            A Tabela é um método que se baseia na observação de vários ciclos menstruais, 
+            A tabela é um método que se baseia na observação de vários ciclos menstruais, 
             para determinar o período fértil do ciclo menstrual da mulher, sendo sua eficácia maior se o 
             casal não tiver relação sexual com penetração vaginal no período fértil.
             <br /> <br />
@@ -944,9 +943,9 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             </figure>
           </li>
           <li>
-            <strong>Coito Interrompido </strong>
+            <strong>Coito interrompido </strong>
             <p>
-            O método do Coito Interrompido consiste na retirada do pênis da vagina um pouco antes da ejaculação.
+            O método do coito interrompido consiste na retirada do pênis da vagina um pouco antes da ejaculação.
              Contudo, além de não proteger contra as ISTs, esse método não deve ser estimulado
               como método anticoncepcional, devido a grande  possibilidade de falha. 
             </p> 
@@ -958,7 +957,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           <li>
             <strong>Vasectomia</strong>
             <p>
-            A Vasectomia consiste em uma cirurgia simples, que se faz em homens que não desejam mais ter filhos. 
+            A vasectomia consiste em uma cirurgia simples, que se faz em homens que não desejam mais ter filhos. 
             É um método anticoncepcional considerado permanente ou irreversível, agindo impedindo que os espermatozóides
              se encontrem com o óvulo.
             </p> 

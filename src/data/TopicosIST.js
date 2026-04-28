@@ -483,6 +483,7 @@ export default [
             <label class="d-flex justify-center">Fonte: G1, 2019.</label>
           </figure>
         </li>
+        https://www.youtube.com/watch?v=zW30fCnYnq8 
         <li>
           <strong>Camisinha externa</strong>
           <p>
@@ -520,6 +521,12 @@ export default [
             <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
           </figure>
         </li>
+        <strong>-	O esquema DoxyPEP </strong>
+                  <p>
+         A doxiciclina, um antibiótico pertencente à classe das tetraciclinas.Este medicamento é muito usado no tratamento de vários tipos de infecções, com a vantagem de ser comprimido de ingestão por via oral.          
+         O Ministério da saúde orienta tomar 200mg do antibiótico, ou seja 2, comprimidos de uma só vez em dose única, preferencialmente de 24 horas a no  máximo,  até 72 horas após o sexo oral, anal ou vaginal sem preservativo. Não se deve tomar mais do que uma dose a cada 24h. 
+         O médico deverá ser consultado no posto de saúde para receita desse remédio.  Assista ao vídeo a seguir.
+         https://www.youtube.com/watch?v=JgN7QvNoARo&feature=youtu.be 
         <li>
           <strong>-	Testagem regular para ISTs</strong>
           <p>

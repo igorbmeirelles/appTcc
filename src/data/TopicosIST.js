@@ -577,7 +577,7 @@ export default [
           garantem o controle da doença e prevenindo a evolução para o estágio de aids/sida. As PVHIV que mantêm o 
           tratamento regular apresentam carga viral indetectável, baixa quantidade de vírus circulante no organismo, 
           não irão transmitir, sendo assim, <strong> indetectável é igual intransmissível. </strong>  <br/> <br/>
-          O tratamento de outras IST´s também está disponível gratuitamente no SUS, como em casos de sífilis, o 
+          Tratamento de outras ISTs também estão disponíveis gratuitamente no SUS, como em casos de sífilis, o 
           tratamento é realizado com injeções do antibiótico penicilina benzatina, variando as doses de acordo com 
           o estágio clínico da doença e sendo necessário repetir o exame para confirmar a cura da doença.
           </p>

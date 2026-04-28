@@ -3,7 +3,7 @@ export default [
   //   titulo: "Apresentação",
   //   route: "/about/0",
   //   icon: "letra-p.png",
-  //   textoHtml: `<article> Olá! Sejam todos bem-vindos ao <strong>Prev-IST</strong>, aqui você poderá
+  //   textoHtml: `<article> Olá! Fique à vontade no <strong>Prev-IST</strong>, aqui você poderá
   // encontrar diversas informações sobre as Infecções Sexualmente Transmissíveis (IST),
   // assim como, suas formas de prevenção, sobre as diferenças corporais
   // causadas pela puberdade, sobre os métodos contraceptivos e outros conteúdos.

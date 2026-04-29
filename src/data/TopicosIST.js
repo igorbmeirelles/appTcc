@@ -743,6 +743,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             />
             <label class="d-flex justify-center text-center">Estágios de desenvolvimento da genitália masculina <br/> Fonte: Ministério da Saúde, 2014</label>
           </figure>
+          <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/hP-tT23lAOQ?si=2_pqVa57hS7XuL55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </li>
         <li>
           <br/> <strong>Feminino</strong> <br/>

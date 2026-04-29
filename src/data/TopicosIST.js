@@ -734,7 +734,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               contain
               class="mx-auto"
               src="https://www.fcm.unicamp.br/adolescentes/sites/default/files/inline-images/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(2).jpg "
-              style="max-width: 80%"
+              style="max-width: 100%"
             />
             <label class="d-flex justify-center">Fonte: A Voz do Povo, 2018.</label>
           </figure>
@@ -761,14 +761,15 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               contain
               class="mx-auto"
               src="https://www.fcm.unicamp.br/adolescentes/sites/default/files/inline-images/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(3).jpg "
-              style="max-width: 80%"
+              style="max-width: 100%"
             />
             <label class="d-flex justify-center text-center">Estágios de desenvolvimento das mamas <br/> Fonte: Ministério da Saúde, 2013</label>
           </figure>
+
+          <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/tGrks1qY_7A?si=xKttBjHc8PGa_MP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </li>
       <ul>
-      <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/tGrks1qY_7A?si=xKttBjHc8PGa_MP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+      
     </article>
     `,
   },
@@ -1127,6 +1128,10 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
           </iframe>
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/YdvxCiK7_04?si=dkW6DsAAwhX7u5mn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/aEv8L-cGV4A?si=u9G_xTLx-9su9Xnl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/od0yb0INBpA?si=ydQF6_57Fgyhw3lI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/9vx998WrKho?si=0r2GeUwmJjw-2QSD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     `,
   },

@@ -730,7 +730,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             <li>
               -	Desenvolvimento do pênis em comprimento e diâmetro 
             </li>
-            <li><iframe style="display: block; margin: 16px auto"  src="https://www.youtube.com/embed/JgN7QvNoARo?si=OnNUR3UvttQ4wkIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <li>
               -	Crescimento dos pelos na axila e na face 
             </li>
           </ul>

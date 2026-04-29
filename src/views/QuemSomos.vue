@@ -6,7 +6,7 @@
     Costa da Universidade Federal Fluminense (EEAAC-UFF), orientado pelo Dr.
     Jorge Luiz Lima da Silva. Aproveitem o aplicativo, explorem todas as abas,
     esclareçam suas dúvidas e compartilhem com seus amigos e familiares.
-    Informação e saúde para todos! <a href="https://linktr.ee/labmapps">Saiba mais sobre nossos produtos clicando aqui (linktr.ee/labmapps)</a>
+    Informação e saúde para todos! <a href="https://linktr.ee/labmapps" target="_blank">Saiba mais sobre nossos produtos clicando aqui (linktr.ee/labmapps)</a>
     <div
       class="mb-4"
       style="display: flex; justify-content: center; margin-top: 32px"

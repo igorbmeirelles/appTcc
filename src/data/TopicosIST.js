@@ -66,7 +66,7 @@ export default [
       <img
         contain
         class="mx-auto"
-        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FcancroMole.png?alt=media&token=aa33c862-18eb-4ab9-a2eb-23a977833e5a"
+        src="https://medical-enc.com.ua/myagkiy-shankr.jpg"
         style="max-width: 70%"
       />
       <label class="d-flex justify-center">Fonte: DST, 2021.</label>
@@ -93,7 +93,7 @@ export default [
       <img
         contain
         class="mx-auto"
-        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fdip.png?alt=media&token=16e3f9bc-ccfa-4e7c-9a3c-387329be7558"
+        src="https://static.wixstatic.com/media/5cef64_4db202d7807a4cde98e3b9f1e4643c03~mv2.png/v1/fill/w_1000,h_856,al_c,q_90/5cef64_4db202d7807a4cde98e3b9f1e4643c03~mv2.png "
         style="max-width: 40%"
       />
       <label class="d-flex justify-center">Fonte: Jaleko Artmed, 2021.</label>
@@ -119,7 +119,7 @@ export default [
       <img
         contain
         class="mx-auto"
-        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fdonovanose.png?alt=media&token=4fcb9904-fa0e-4814-9b63-97eecb6abc0f"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB63QjulT-67yHImN5-4ZZWQ0Jc1H69eM8Tg&s"
         style="max-width: 60%"
       />
       <label class="d-flex justify-center">Fonte: Jaleko Artmed, 2021.</label>
@@ -145,7 +145,7 @@ export default [
       <img
         contain
         class="mx-auto"
-        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fgonorreia.png?alt=media&token=01f0446a-fdbf-4df7-bd31-cdd53fb9645d"
+        src="https://cdn.medizzy.com/B1TqgtaxtAdqL1B6s8SEt_ROBfg=/1067x550/img/posts/18cb5eae-255d-4c80-8b5e-ae255d5c80d9 "
         style="max-width: 60%"
       />
       <label class="d-flex justify-center">Fonte: GoConqr, 2020.</label>
@@ -168,7 +168,7 @@ export default [
           <img
             contain
             class="mx-auto"
-            src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FhepatiteFioCruz.png?alt=media&token=5adf4c3f-1ed3-49d3-ae7b-ad7b5e687286"
+            src="https://intranet.canalsaude.fiocruz.br/assets/img/noticias/-2020-07-28-3o5FrOopOr.jpg "
             style="max-width: 60%"
           />
           <label class="d-flex justify-center">Fonte: Fiocruz, 2020.</label>
@@ -250,7 +250,7 @@ export default [
           <img
             contain
             class="mx-auto"
-            src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fhpv.png?alt=media&token=6999b39d-d500-40f9-9b8c-ee1b3373743d"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCn0tif4YE8dhjCc1ofVGjKmI5eGZMiATZhg5pBEBtZTmSWd2mELpZmZNNWQbH-k2Mev4ywHX54JmemxVuf_SviP42TiOWUZ4IpAhTKOuSKZYJaUPmQ8hTm_ebesYr_5Fhcu3VAekcMBc/s320/unnamed.jpg"
             style="max-width: 70%"
           />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
@@ -293,7 +293,7 @@ export default [
         resfriado; infecções respiratórias mais graves como tuberculose; (doenças oportunistas); e até mesmo câncer.
 
         <figure class="d-flex align-center flex-column">
-          <img contain class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FHIVaids.png?alt=media&token=1d3d3328-29db-4795-9019-dc91e4aeaf7f" />
+          <img contain class="mx-auto" style="max-width: 70%" src="https://static.todamateria.com.br/upload/tr/as/trasmissaodohiv-cke.jpg " />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
       </article>
@@ -314,7 +314,7 @@ export default [
         com pessoas infectadas; através da gestação, através parto e aleitamento materno, e através do contato com sangue contaminado.
       </article>
       <figure class="d-flex align-center flex-column">
-        <img contain class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fhtlv.png?alt=media&token=b95a814d-24a6-4c4b-b07b-1f6e684f7127" />
+        <img contain class="mx-auto" style="max-width: 50%" src="https://s3.glbimg.com/v1/AUTH_35862ca5c6ab48b992baf1f1b4f7062e/extra-globo-com/incoming/13958127-e29-c3d/w448/17_htlv.jpg " />
         <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
       </figure>
       <p class="mt-3 text-caption text-center">
@@ -353,7 +353,7 @@ export default [
           </li>
         </ul>
         <figure class="d-flex align-center flex-column">
-          <img class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FimagemSifilis.jpg?alt=media&token=f4159c99-8ace-4327-9713-2f69f70cc82c" />
+          <img class="mx-auto" style="max-width: 70%" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRInX3IcBProAEI40j9VsyYa8p-eAqbXYRDn8qubU6YlOlmh3PY " />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
         <p class="mt-3 text-caption text-center">
@@ -375,7 +375,7 @@ export default [
         vaginal intenso, amarelo-esverdeado, espumoso de odor fétido (semelhante a
         peixe).
         <figure class="d-flex align-center flex-column">
-          <img class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Ftricomoniase.png?alt=media&token=711a4b91-a08a-47a5-9c87-6d7d0a4b8613" />
+          <img class="mx-auto" style="max-width: 50%" src="https://portalartmed-public.grupoa.education/artmed_blog/b246882a-036d-46c6-be3b-f0c796d3c8e2.png " />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
         <p class="mt-3 text-caption text-center">
@@ -396,8 +396,7 @@ export default [
       Portanto, deve-se evitar o contato com a região afetada pela doença. 
       É sempre bom observar áreas próximas aos genitais, pois sabemos que a camisinha só cobre área específica.
       <figure class="d-flex align-center">
-        <img class="mx-auto" style="max-width: 49%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fherpes1.jpg?alt=media&token=60cbaa88-81d4-47aa-911f-89c7b1197701" />
-        <img class="mx-auto" style="max-width: 49%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fherpes2.jpg?alt=media&token=4b22ee3e-4912-456f-b198-efb332f6c7ec" />
+        <img class="mx-auto" style="max-width: 49%" src="https://ep-cms-td-conteudodoc-prd-cdfqcebge4fub7hv.a01.azurefd.net/cms-wordpress/wp-content/uploads/2023/10/12710.jpg " />
       </figure>
       <p class="mt-3 text-caption text-center">
         Na presença de qualquer sinal ou sintoma dessa IST, recomenda-se procurar um
@@ -429,7 +428,7 @@ export default [
       <img
         contain
         class="mx-auto"
-        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FprevencaoCombinada.png?alt=media&token=900339f6-a893-495d-9a26-8e9ad899b64d"
+        src="https://unaids.org.br/wp-content/uploads/2022/04/2022_04_30_Mandala-Prevencao-Combinada.jpeg "
         style="max-width: 80%"
       />
       <label class="d-flex justify-center">Fonte: Ministério da Saúde, 2019.</label>
@@ -445,12 +444,15 @@ export default [
           atendimento ocorrer após 72 horas da exposição, a PEP não está mais indicada.
           <a href="https://gq.globo.com/sexo/noticia/2024/02/hiv-onde-achar-pep-principais-cidades-brasileiras.ghtml" target="_blank"> Clique aqui </a>para acessar 
           os locais que disponibilizam o tratamento da PEP
+          <a href="https://www.gov.br/aids/pt-br/central-de-conteudo/pcdts/2021/hiv-aids/prot_clinico_diretrizes_terap_pep_-risco_infeccao_hiv_ist_hv_2021.pdf" target="_blank"> Saiba mais</a>para acessar 
+          
+           
           </p>
           <figure class="d-flex  align-center flex-column">
             <img
               contain
               class="mx-auto"
-              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fpep.png?alt=media&token=4dbd1821-4477-4abd-8780-457ef9400fdc"
+              src="https://gapabs.org.br/wp-content/uploads/2024/09/card_pep_caminho.jpg"
               style="max-width: 80%"
             />
             <label class="d-flex justify-center">Fonte: Agência Aids, 2019.</label>
@@ -477,13 +479,13 @@ export default [
             <img
               contain
               class="mx-auto"
-              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fremediospre.png?alt=media&token=3d0fa37d-4ecf-43c8-ba70-54c2d9b24b94"
+              src="https://diariofarma.com.br/wp-content/uploads/2024/09/Captura-de-Tela-2024-09-09-as-18.51.10.png"
               style="max-width: 80%"
             />
             <label class="d-flex justify-center">Fonte: G1, 2019.</label>
           </figure>
         </li>
-        https://www.youtube.com/watch?v=zW30fCnYnq8 
+
         <li>
           <strong>Camisinha externa</strong>
           <p>
@@ -500,7 +502,7 @@ export default [
             <label class="d-flex justify-center">Fonte: Tres Lagoas Ms GOV</label>
           </figure>
           <figure class="d-flex align-center flex-column">
-            <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha2.jpg?alt=media&token=da9a228e-b1fc-42a3-8d88-56b65f3c36f6" />
+            <img cover class="mx-auto" style="max-width: 50%" src="https://img.comunidades.net/est/estrategiasaudedafamilia/camisinha_masculina.jpg " />
             <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
           </figure>
         </li>
@@ -513,11 +515,11 @@ export default [
           durante a menstruação.
           </p> 
           <figure class="d-flex align-center flex-column">
-            <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha3.jpg?alt=media&token=50c00f79-bda3-4e0c-b44e-1c0eefb4cc28" />
+            <img cover class="mx-auto" style="max-width: 50%" src="https://www.meionews.com/uploads/imagens/2016/10/20/entenda-quais-sao-os-beneficios-de-usar-a-camisinha-feminina-c96a3398-3476-4358-835a-4c127817fbf0.jpg " />
             <label class="d-flex justify-center">Fonte: Google</label>
           </figure>
           <figure class="d-flex align-center flex-column">
-            <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha4.jpg?alt=media&token=daa6b618-190a-43a8-9681-090ee08eb3f5" />
+            <img cover class="mx-auto" style="max-width: 50%" src="https://img.comunidades.net/est/estrategiasaudedafamilia/camisinha_feminina.jpg" />
             <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
           </figure>
         </li>
@@ -543,7 +545,7 @@ export default [
             <img
               contain
               class="mx-auto"
-              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Ftestagem.png?alt=media&token=ad484248-7797-4658-8c72-a4c9a8e84b3e"
+              src="https://img.vozdascomunidades.com.br/wp-content/uploads/2023/12/07154732/53381783638_9e5f2a09bc_k-900x600.jpg"
               style="max-width: 80%"
             />
             <label class="d-flex justify-center">Fonte: DHOJE, 2018.</label>
@@ -585,7 +587,7 @@ export default [
             <img
               contain
               class="mx-auto"
-              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Ftarv.png?alt=media&token=5311e985-b6b4-4ec4-bfca-c8e684b748d8"
+              src="https://www.gov.br/saude/pt-br/assuntos/noticias/2024/maio/saude-facilita-acesso-a-tratamento-antiviral-a-pacientes-do-rs-que-vivem-com-hiv-e-hepatites/tarv.jpg/@@images/image "
               style="max-width: 80%"
             />
             <label class="d-flex justify-center text-center">TARV- Terapia Antirretroviral<br/> Fonte: DST- São Paulo</label>
@@ -710,7 +712,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
         <img
           contain
           class="mx-auto"
-          src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fpuberdade.png?alt=media&token=5c211300-0be2-416a-9806-34635dc5d935"
+          src="https://www.fcm.unicamp.br/adolescentes/sites/default/files/inline-images/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(2).jpg "
           style="max-width: 80%"
         />
         <label class="d-flex justify-center">Fonte: A Voz do Povo, 2018.</label>
@@ -741,7 +743,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             <img
               contain
               class="mx-auto"
-              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpuberdadeMasculina.png?alt=media&token=3f8d6c50-9418-4d81-984d-02b68158dbb7"
+              src="https://www.fcm.unicamp.br/adolescentes/sites/default/files/inline-images/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(3).jpg "
               style="max-width: 80%"
             />
             <label class="d-flex justify-center text-center">Estágios de desenvolvimento da genitália masculina <br/> Fonte: Ministério da Saúde, 2014</label>
@@ -768,7 +770,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             <img
               contain
               class="mx-auto"
-              src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpuberdadeFeminina.png?alt=media&token=9587a37f-cce8-4603-a25b-c4f89048727a"
+              src="https://www.fcm.unicamp.br/adolescentes/sites/default/files/inline-images/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(3).jpg "
               style="max-width: 80%"
             />
             <label class="d-flex justify-center text-center">Estágios de desenvolvimento das mamas <br/> Fonte: Ministério da Saúde, 2013</label>
@@ -799,7 +801,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           </p>
           <p class="text-caption" style="text-align: center">Nesta seção, iremos abordar alguns dos diferentes tipos de métodos contraceptivos e suas vantagens e desvantagens. </p>
           <figure class="d-flex align-center flex-column">
-            <img contain class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fbbc2018.png?alt=media&token=8a2569d4-77a0-4eaf-8882-f900f5fc2b14" />
+            <img contain class="mx-auto" style="max-width: 70%" src="https://emfoco.med.br/wp-content/uploads/2024/04/anticoncepcional.jpg.webp" />
             <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
           </figure>
         </li>
@@ -819,7 +821,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             Além disso, as pílulas anticoncepcionais não protegem contra as ISTs.
             </p>
             <figure class="d-flex align-center flex-column">
-              <img cover class="mx-auto" style="max-width: 70%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpilulaAnticoncepcional.jpg?alt=media&token=9cb9ca22-3588-4aab-9ea0-e8ad65fa609e" />
+              <img cover class="mx-auto" style="max-width: 70%" src="https://www.buscofem.com.br/assets/images/dicas/como-funcionam-as-pilulas-os-anticoncepcionais-orais.png_596639839f5679.79653353.png " />
               <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
             </figure>
             </li>
@@ -835,7 +837,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               endometriose e ajudar no ganho de peso.
               </p> 
               <figure class="d-flex align-center flex-column">
-                <img cover class="mx-auto" style="max-width: 100%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FinjecaoAnticoncepcional.jpg?alt=media&token=8c531f22-18b1-4d80-b088-90455a2a0389" />
+                <img cover class="mx-auto" style="max-width: 100%" src="https://www.dicasdemulher.com.br/wp-content/uploads/2023/04/injecao-anticoncepcional-000.png " />
                 <label class="d-flex justify-center">Fonte: TuaSaúde, 2020.</label>
               </figure>
             </li>
@@ -851,13 +853,10 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               camisinhas ao mesmo tempo; verificar se a embalagem não está furada antes do uso.
               </p> 
               <figure class="d-flex align-center flex-column">
-                <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha1.jpg?alt=media&token=77680acc-ee28-49a2-9457-e04c31dab101" />
+                <img cover class="mx-auto" style="max-width: 50%" src="https://www.treslagoas.ms.gov.br/wp-content/uploads/2025/10/NOVOS-PRESEVATIVOS-21-10-1-scaled-420x280_c.jpg" />
                 <label class="d-flex justify-center">Fonte: Google</label>
               </figure>
-              <figure class="d-flex align-center flex-column">
-                <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha2.jpg?alt=media&token=da9a228e-b1fc-42a3-8d88-56b65f3c36f6" />
-                <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
-              </figure>
+
             </li>
             <li>
               <strong>Camisinha interna</strong>
@@ -868,12 +867,8 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               durante a menstruação.
               </p> 
               <figure class="d-flex align-center flex-column">
-                <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha3.jpg?alt=media&token=50c00f79-bda3-4e0c-b44e-1c0eefb4cc28" />
+                <img cover class="mx-auto" style="max-width: 50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pr%C3%A9servatif_f%C3%A9minin.jpg/1920px-Pr%C3%A9servatif_f%C3%A9minin.jpg " />
                 <label class="d-flex justify-center">Fonte: Google</label>
-              </figure>
-              <figure class="d-flex align-center flex-column">
-                <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fcamisinha4.jpg?alt=media&token=daa6b618-190a-43a8-9681-090ee08eb3f5" />
-                <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
               </figure>
             </li>
             <li>
@@ -888,7 +883,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             oito horas após a última relação sexual.
             </p> 
             <figure class="d-flex align-center flex-column">
-              <img cover class="mx-auto" style="max-width: 80%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fdiafragma.jpg?alt=media&token=560043ae-e89b-4283-a34f-a8479049ffc7" />
+              <img cover class="mx-auto" style="max-width: 80%" src="https://www.greenme.com.br/wp-content/uploads/2018/02/diafragma-como-usar.jpg" />
               <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
             </figure>
           </li>
@@ -903,7 +898,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             capacidade de engravidar retorna, após a retirada do DIU. Esse método não previne contra as ISTs. 
             </p> 
             <figure class="d-flex align-center flex-column">
-              <img cover class="mx-auto" style="max-width: 80%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fdiu.jpg?alt=media&token=09f78318-6134-4c34-aebe-3a37ab4c6232" />
+              <img cover class="mx-auto" style="max-width: 80%" src="https://www.febrasgo.org.br/media/k2/items/cache/ccb4e23c8aa216f1e96d31ab209c036b_L.jpg" />
               <label class="d-flex justify-center">Fonte: BBC, 2018.</label>
             </figure>
           </li>
@@ -919,7 +914,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             Esse método não previne contra as ISTs. 
             </p> 
             <figure class="d-flex align-center flex-column">
-              <img cover class="mx-auto" style="max-width: 80%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Ftablea.jpg?alt=media&token=f7b3298b-c8e3-48f1-9dba-106686da25c6" />
+              <img cover class="mx-auto" style="max-width: 80%" src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/491933b351299f9745efff02603e6130.jpg" />
               <label class="d-flex justify-center">Fonte: : Brasil Escola, 2021.</label>
             </figure>
           </li>
@@ -931,7 +926,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               como método anticoncepcional, devido a grande possibilidade de falha. 
             </p> 
             <figure class="d-flex align-center flex-column">
-              <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FcoitoInterrompido.jpg?alt=media&token=c88e2402-4df6-46b8-a35c-1c38d64dd3ba" />
+              <img cover class="mx-auto" style="max-width: 50%" src="https://pt.quizur.com/_image?href=https%3A%2F%2Fdev-beta.quizur.com%2Fstorage%2Fv1%2Fobject%2Fpublic%2F%2Fimagens%2F%2F20336128%2Fad0f9259-cdc5-4faa-8241-d44a98622b20.png&w=400&h=400&f=webp " />
               <label class="d-flex justify-center">Fonte: UFC, 2017.</label>
             </figure>
           </li>
@@ -943,7 +938,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
              se encontrem com o óvulo.
             </p> 
             <figure class="d-flex align-center flex-column">
-              <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fvasectomia.jpg?alt=media&token=978465b8-aa23-47b5-b29b-b20b12bda141" />
+              <img cover class="mx-auto" style="max-width: 50%" src="https://urocentro.com/wp-content/uploads/2024/01/aa222-300x204-1.png" />
               <label class="d-flex justify-center">Fonte: Mater Prime, 2021.</label>
             </figure>
           </li>
@@ -959,15 +954,14 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             fadiga; e dor abdominal.  
             </p> 
             <figure class="d-flex align-center flex-column">
-              <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FpilulaEmergencia.jpg?alt=media&token=ac3dbb34-e590-46a7-9579-55504e6bb37e" />
+              <img cover class="mx-auto" style="max-width: 50%" src="https://s3.glbimg.com/v1/AUTH_35862ca5c6ab48b992baf1f1b4f7062e/extra-globo-com/incoming/15226011-f8d-67a/w448/pilula-do-dia-seguinte_web.jpg" />
               <label class="d-flex justify-center">Fonte: BBC, 2019.</label>
             </figure>
           </li>
           <li>
             <strong>O que é o chip anticoncepcional? (implanon)</strong>
             <figure class="d-flex align-center flex-column">
-              <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/storage-eb37e.appspot.com/o/WhatsApp%20Image%202025-07-28%20at%2011.33.47%20PM.jpeg?alt=media&token=1cfdf4bb-fa03-4beb-9be3-9305ce0c0e2a" />
-              <img cover class="mx-auto" style="max-width: 50%" src="https://firebasestorage.googleapis.com/v0/b/storage-eb37e.appspot.com/o/WhatsApp%20Image%202025-07-28%20at%2011.36.36%20PM.jpeg?alt=media&token=c67ecb58-1fe1-49ba-ae91-6892ee4494cf" />
+              <img cover class="mx-auto" style="max-width: 50%" src="https://s2-oglobo.glbimg.com/ZigPVnyxnchHqcElqmyn9upHFa4=/54x0:572x244/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2025/y/4/596g31QCqoA2MBq7ubIQ/homepage-2022-product-box.jpg" />
             </figure>
             <p>
               O chip anticoncepcional é um tipo de implante usado para evitar gravidez. Ele é pequeno, parece um palitinho, com cerca de 4 centímetros de comprimento. Dentro dele tem um hormônio chamado etonogestrel, parecido com a progesterona, que é um hormônio feminino.
@@ -1051,7 +1045,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
       <img
         contain
         class="mx-auto"
-        src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fviolencia.png?alt=media&token=c7a23b31-4beb-48b7-a0a3-44a280e1f935"
+        src="https://pt.org.br/wp-content/uploads/2025/12/ligue-180-divulgac3a7c3a3o-4.jpg"
         style="max-width: 80%"
       />
       <p><a href="https://leidominutoseguinte.mpf.mp.br/" taget="blank">Lei do Minuto Seguinte - Ministério Público Federal</a></p>

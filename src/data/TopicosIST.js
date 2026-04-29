@@ -703,15 +703,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           que veremos a seguir separadamente. 
         </li>
       </ul>
-      <figure class="d-flex  align-center flex-column">
-        <img
-          contain
-          class="mx-auto"
-          src="https://www.fcm.unicamp.br/adolescentes/sites/default/files/inline-images/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(2).jpg "
-          style="max-width: 80%"
-        />
-        <label class="d-flex justify-center">Fonte: A Voz do Povo, 2018.</label>
-      </figure>
+      
 
       <ul type="I" >
         <li>
@@ -738,13 +730,11 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             <img
               contain
               class="mx-auto"
-              src="https://www.fcm.unicamp.br/adolescentes/sites/default/files/inline-images/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(3).jpg "
+              src="https://www.fcm.unicamp.br/adolescentes/sites/default/files/inline-images/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(2).jpg "
               style="max-width: 80%"
             />
-            <label class="d-flex justify-center text-center">Estágios de desenvolvimento da genitália masculina <br/> Fonte: Ministério da Saúde, 2014</label>
+            <label class="d-flex justify-center">Fonte: A Voz do Povo, 2018.</label>
           </figure>
-          <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/hP-tT23lAOQ?si=2_pqVa57hS7XuL55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/tGrks1qY_7A?si=xKttBjHc8PGa_MP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </li>
         <li>
           <br/> <strong>Feminino</strong> <br/>
@@ -774,6 +764,9 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           </figure>
         </li>
       <ul>
+      <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/hP-tT23lAOQ?si=2_pqVa57hS7XuL55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/tGrks1qY_7A?si=xKttBjHc8PGa_MP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     </article>
     `,
   },

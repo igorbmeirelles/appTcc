@@ -702,6 +702,9 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           -	Maturação sexual: desenvolvimentos das características sexuais secundárias, 
           que veremos a seguir separadamente. 
         </li>
+
+      <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/hP-tT23lAOQ?si=2_pqVa57hS7XuL55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
       </ul>
       
 
@@ -764,7 +767,6 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           </figure>
         </li>
       <ul>
-      <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/hP-tT23lAOQ?si=2_pqVa57hS7XuL55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <iframe style="display: block; margin: 16px auto" src="https://www.youtube.com/embed/tGrks1qY_7A?si=xKttBjHc8PGa_MP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </article>

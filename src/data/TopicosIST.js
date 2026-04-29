@@ -467,7 +467,7 @@ export default [
           <br/>Leva de 2 a 7 dias para alcançar níveis de proteção ideais. Ocorreu uma atualização em 2025 sobre a forma de uso, incluindo o uso sob demanda.
           <a href="https://www.gov.br/aids/pt-br/assuntos/prevencao-combinada/prep-profilaxia-pre-exposicao/prep-profilaxia-pre-exposicao" target="_blank">Clique aqui</a> para acessar os locais que disponibilizam o tratamento da PreEP
           </p>
-          <iframe style="display: block; margin: 16px auto"  src="https://www.youtube.com/embed/JgN7QvNoARo?si=OnNUR3UvttQ4wkIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/zW30fCnYnq8?si=q-w07RM2KEYjlgXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           <figure class="d-flex  align-center flex-column">
             <img
               contain

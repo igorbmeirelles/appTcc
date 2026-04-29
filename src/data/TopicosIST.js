@@ -658,7 +658,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
         </p>
         
           Em casos de dúvidas,  procure uma Unidade Básica de Saúde para mais informações e para completar o seu 
-          esquema vacinal. Para saber mais sobre vacinas vicite nosso app https://maisvacinas.netlify.app/ 
+          esquema vacinal. Para saber mais sobre vacinas vicite nosso app <a href="https://maisvacinas.netlify.app/" target="_blank">https://maisvacinas.netlify.app/</a>
           </p>
         </li>
         <li>
@@ -1076,7 +1076,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
     `,
   },
   {
-    titulo: "Videos",
+    titulo: "Vídeos",
     route: "/about/8",
     icon: "video.png",
     textoHtml: `

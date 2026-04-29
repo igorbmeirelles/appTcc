@@ -479,7 +479,7 @@ export default [
             <img
               contain
               class="mx-auto"
-              src="https://diariofarma.com.br/wp-content/uploads/2024/09/Captura-de-Tela-2024-09-09-as-18.51.10.png"
+              src="https://images.prismic.io/vacinapp/afFkWsBOoF08xZtA_prep.png?auto=format,compress"
               style="max-width: 80%"
             />
             <label class="d-flex justify-center">Fonte: G1, 2019.</label>
@@ -502,7 +502,7 @@ export default [
             <label class="d-flex justify-center">Fonte: Tres Lagoas Ms GOV</label>
           </figure>
           <figure class="d-flex align-center flex-column">
-            <img cover class="mx-auto" style="max-width: 50%" src="https://img.comunidades.net/est/estrategiasaudedafamilia/camisinha_masculina.jpg " />
+            <img cover class="mx-auto" style="max-width: 50%" src="https://images.prismic.io/vacinapp/afFkl8BOoF08xZta_camisinha_masculina.jpg?auto=format,compress" />
             <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
           </figure>
         </li>
@@ -519,7 +519,7 @@ export default [
             <label class="d-flex justify-center">Fonte: Google</label>
           </figure>
           <figure class="d-flex align-center flex-column">
-            <img cover class="mx-auto" style="max-width: 50%" src="https://img.comunidades.net/est/estrategiasaudedafamilia/camisinha_feminina.jpg" />
+            <img cover class="mx-auto" style="max-width: 50%" src="https://images.prismic.io/vacinapp/afFk2sBOoF08xZtb_camisinha_feminina.jpg?auto=format,compress" />
             <label class="d-flex justify-center">Fonte: iSaúde, 2012.</label>
           </figure>
         </li>

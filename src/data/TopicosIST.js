@@ -467,6 +467,7 @@ export default [
           <br/>Leva de 2 a 7 dias para alcançar níveis de proteção ideais. Ocorreu uma atualização em 2025 sobre a forma de uso, incluindo o uso sob demanda.
           <a href="https://www.gov.br/aids/pt-br/assuntos/prevencao-combinada/prep-profilaxia-pre-exposicao/prep-profilaxia-pre-exposicao" target="_blank">Clique aqui</a> para acessar os locais que disponibilizam o tratamento da PreEP
           </p>
+          <iframe style="display: block; margin: 16px auto"  src="https://www.youtube.com/embed/JgN7QvNoARo?si=OnNUR3UvttQ4wkIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           <figure class="d-flex  align-center flex-column">
             <img
               contain
@@ -729,7 +730,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
             <li>
               -	Desenvolvimento do pênis em comprimento e diâmetro 
             </li>
-            <li>
+            <li><iframe style="display: block; margin: 16px auto"  src="https://www.youtube.com/embed/JgN7QvNoARo?si=OnNUR3UvttQ4wkIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
               -	Crescimento dos pelos na axila e na face 
             </li>
           </ul>

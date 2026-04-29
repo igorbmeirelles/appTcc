@@ -14,13 +14,24 @@
       class="d-flex flex-column justify-center"
       v-if="this.$vuetify.breakpoint.smAndUp"
     >
-      <video width="80%" max-height="400" controls>
-        <source
-          src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2Fprev_ist.mp4?alt=media&token=1ad475a2-af82-4a77-b5c0-d31d2ebe7038"
-          type="video/mp4"
-        />
-        Your browser does not support the video tag.
-      </video>
+      <iframe
+        width="350"
+        height="200"
+        src="https://www.youtube.com/embed/b-9wAtI0O4E?si=ryzNpXxA9RKwAW7u"
+        title="YouTube video player"
+        frameborder="0"
+        allow="
+          accelerometer;
+          autoplay;
+          clipboard-write;
+          encrypted-media;
+          gyroscope;
+          picture-in-picture;
+          web-share;
+        "
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen
+      ></iframe>
     </div>
     <main>
       <h2>Bem-vindo ao Prev-IST</h2>

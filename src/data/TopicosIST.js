@@ -255,13 +255,6 @@ export default [
           />
           <label class="d-flex justify-center">Fonte: UFPI, 2020.</label>
         </figure>
-        <div class="d-flex justify-center">
-          <video width="320" height="400" controls style="margin: auto;">
-            <source src="https://firebasestorage.googleapis.com/v0/b/pensu-promental.appspot.com/o/appTcc%2FVID-20230910-WA0096.mp4?alt=media&token=71427eaa-ea89-4c62-ba14-d057869fbfb9&_gl=1*5tae3u*_ga*MTYyMjY0NjkzMS4xNjk1ODU4NTA0*_ga_CW55HF8NVT*MTY5NTg1ODUwNC4xLjEuMTY5NTg1ODc0OS4yMi4wLjA." 
-                    type="video/mp4">
-          </video>
-        </div>
-
       </article>
 
       <p class="mt-3 text-caption text-center">
@@ -461,7 +454,6 @@ export default [
         <li>
           <strong>-	Profilaxia Pré-Exposição (PreEP)</strong>
           <p>
-          <iframe style="display: block; margin: 16px auto"  src="https://www.youtube.com/embed/JgN7QvNoARo?si=OnNUR3UvttQ4wkIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           A Profilaxia Pré-Exposição ao HIV é o método de prevenção à infecção pelo HIV. 
           Esse tratamento consiste na tomada diária de um comprimido que permite ao organismo estar preparado 
           para enfrentar um possível contato com o vírus do HIV. <br/> <br/>
@@ -528,7 +520,9 @@ export default [
          A doxiciclina, um antibiótico pertencente à classe das tetraciclinas.Este medicamento é muito usado no tratamento de vários tipos de infecções, com a vantagem de ser comprimido de ingestão por via oral.          
          O Ministério da saúde orienta tomar 200mg do antibiótico, ou seja 2, comprimidos de uma só vez em dose única, preferencialmente de 24 horas a no  máximo,  até 72 horas após o sexo oral, anal ou vaginal sem preservativo. Não se deve tomar mais do que uma dose a cada 24h. 
          O médico deverá ser consultado no posto de saúde para receita desse remédio.  Assista ao vídeo a seguir.
-         https://www.youtube.com/watch?v=JgN7QvNoARo&feature=youtu.be 
+         
+          <iframe style="display: block; margin: 16px auto"  src="https://www.youtube.com/embed/JgN7QvNoARo?si=OnNUR3UvttQ4wkIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
         <li>
           <strong>-	Testagem regular para ISTs</strong>
           <p>

@@ -11,7 +11,7 @@
       class="mb-4"
       style="display: flex; justify-content: center; margin-top: 32px"
     >
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/JFbJfLnbGT4?si=rMCz6JICHWktMHDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="350" height="200" src="https://www.youtube.com/embed/JFbJfLnbGT4?si=rMCz6JICHWktMHDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </div>
     <h3>Equipe envolvida</h3>

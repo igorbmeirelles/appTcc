@@ -714,19 +714,16 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
           Na maturação sexual do sexo masculino, as transformações que ocorrem durante o período da puberdade, são:
           <ul>
             <li>
-              -	Aumento do volume testicular 
+              -	Aumento do volume testicular;
             </li>
             <li>
-              -	Crescimento dos pelos pubianos 
+              -	Crescimento dos pelos pubianos; 
             </li>
             <li>
-              -	Crescimento dos pelos pubianos 
+              -	Desenvolvimento do pênis em comprimento e diâmetro; 
             </li>
             <li>
-              -	Desenvolvimento do pênis em comprimento e diâmetro 
-            </li>
-            <li>
-              -	Crescimento dos pelos na axila e na face 
+              -	Crescimento dos pelos na axila e na face.
             </li>
           </ul>
           <figure class="d-flex  align-center flex-column">
@@ -736,7 +733,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               src="https://www.fcm.unicamp.br/adolescentes/sites/default/files/inline-images/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(2).jpg "
               style="max-width: 100%"
             />
-            <label class="d-flex justify-center">Fonte: A Voz do Povo, 2018.</label>
+            <label class="d-flex justify-center">Estágios de desenvolvimento órgão sexual masculino <br/> Fonte: Ministério da Saúde.</label>
           </figure>
           </li>
         <li>

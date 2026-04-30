@@ -733,7 +733,7 @@ Um estudo recente na Inglaterra aponta que a vacinação pode reduzir em 87% as 
               src="https://www.fcm.unicamp.br/adolescentes/sites/default/files/inline-images/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(2).jpg "
               style="max-width: 100%"
             />
-            <label class="d-flex justify-center">Estágios de desenvolvimento órgão sexual masculino <br/> Fonte: Ministério da Saúde.</label>
+            <label class="d-flex justify-center">Estágios de desenvolvimento órgão sexual masculino <br/> Fonte: Ministério da Saúde, 2013.</label>
           </figure>
           </li>
         <li>

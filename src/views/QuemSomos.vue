@@ -4,9 +4,9 @@
     Esse aplicativo surgiu como parte do trabalho de conclusão de curso do
     graduando João Victor Manço Resende da Escola de Enfermagem Aurora de Afonso
     Costa da Universidade Federal Fluminense (EEAAC-UFF), orientado pelo Dr.
-    Jorge Luiz Lima da Silva. Aproveitem o aplicativo, explorem todas as abas,
+    Jorge Luiz Lima da Silva (EEAAC/PPGSC/MPES-UFF). Aproveitem o aplicativo, explorem todas as abas,
     esclareçam suas dúvidas e compartilhem com seus amigos e familiares.
-    Informação e saúde para todos! <a href="https://linktr.ee/labmapps" target="_blank">Saiba mais sobre nossos produtos clicando aqui (linktr.ee/labmapps)</a>
+    Informação e saúde para população! <a href="https://linktr.ee/labmapps" target="_blank">Saiba mais sobre nossos produtos clicando aqui (linktr.ee/labmapps)</a>
     <div
       class="mb-4"
       style="display: flex; justify-content: center; margin-top: 32px"
@@ -28,8 +28,8 @@
       </p>
       <p>
         <a href="http://lattes.cnpq.br/8243099229156246" target="_blank"
-          >Jorge Luiz Lima - Prof. Saúde coletiva e políticas públicas - Mep/
-          Uff
+          >Jorge Luiz Lima - Prof. Saúde Coletiva e Políticas Públicas / 
+           Prof. Mestrado em Saúde Coletiva / Prof. Mestrado Profissional em Ensino na Saúde/Uff 
         </a>
       </p>
     </div>

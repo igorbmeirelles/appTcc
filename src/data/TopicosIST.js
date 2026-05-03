@@ -9,7 +9,7 @@ export default [
   // causadas pela puberdade, sobre os métodos contraceptivos e outros conteúdos.
   // <br />
 
-  // Esse aplicativo surgiu como parte do trabalho de conclusão de curso do graduando
+  // Esse aplicativo surgiu como parte do trabalho de conclusão de curso de
   // João Victor Manço Resende da Escola de Enfermagem Aurora de Afonso Costa da
   // Universidade Federal Fluminense (EEAAC-UFF), orientado pelo Dr. Jorge Luiz Lima da
   // Silva (MEP/PPGSC/MPES-UFF). Aproveitem o aplicativo, explorem todas as abas, esclareçam suas dúvidas e

@@ -36,10 +36,10 @@
     <main>
       <h2> Prev-IST</h2>
       <p>
-        aqui você poderá encontrar diversas informações sobre as Infecções
-        Sexualmente Transmissíveis (ISTs), assim como, suas formas de prevenção,
-        sobre as mudanças corporais causadas pela puberdade, sobre os métodos
-        contraceptivos e muitos outros conteúdos.
+        aqui você encontra diversas informações sobre as Infecções
+        Sexualmente Transmissíveis (ISTs), assim como formas de prevenção,
+        as mudanças corporais da puberdade, os principais métodos
+        contraceptivos e muitos outros conteúdos. Aproveite!
       </p>
 
       <div class="d-flex flex-wrap">

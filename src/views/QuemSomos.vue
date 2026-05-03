@@ -1,8 +1,8 @@
 <template>
   <main>
     <h2>Sobre o projeto</h2>
-    Esse aplicativo surgiu como parte do trabalho de conclusão de curso do
-    graduando João Victor Manço Resende da Escola de Enfermagem Aurora de Afonso
+    Esse aplicativo surgiu como parte do trabalho de conclusão de curso de
+    João Victor Manço Resende da Escola de Enfermagem Aurora de Afonso
     Costa da Universidade Federal Fluminense (EEAAC-UFF), orientado pelo Dr.
     Jorge Luiz Lima da Silva (EEAAC/PPGSC/MPES-UFF). Aproveitem o aplicativo, explorem todas as abas,
     esclareçam suas dúvidas e compartilhem com seus amigos e familiares.
